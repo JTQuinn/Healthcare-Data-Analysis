@@ -1,0 +1,3741 @@
+week_ending,week,season,state,activity_level,activity_level_label
+2024-01-20,3,2023-2024,Alabama,Level 10,High
+2024-01-20,3,2023-2024,Alaska,Level 5,Low
+2024-01-20,3,2023-2024,Arizona,Level 1,Minimal
+2024-01-20,3,2023-2024,Arkansas,Level 10,High
+2024-01-20,3,2023-2024,California,Level 9,High
+2024-01-20,3,2023-2024,Colorado,Level 10,High
+2024-01-20,3,2023-2024,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2024-01-20,3,2023-2024,Connecticut,Level 7,Moderate
+2024-01-20,3,2023-2024,Delaware,Level 3,Minimal
+2024-01-20,3,2023-2024,District of Columbia,Level 7,Moderate
+2024-01-20,3,2023-2024,Florida,Level 7,Moderate
+2024-01-20,3,2023-2024,Georgia,Level 10,High
+2024-01-20,3,2023-2024,Hawaii,Level 4,Low
+2024-01-20,3,2023-2024,Idaho,Level 6,Moderate
+2024-01-20,3,2023-2024,Illinois,Level 4,Low
+2024-01-20,3,2023-2024,Indiana,Level 6,Moderate
+2024-01-20,3,2023-2024,Iowa,Level 4,Low
+2024-01-20,3,2023-2024,Kansas,Level 4,Low
+2024-01-20,3,2023-2024,Kentucky,Level 8,High
+2024-01-20,3,2023-2024,Louisiana,Level 11,Very High
+2024-01-20,3,2023-2024,Maine,Level 7,Moderate
+2024-01-20,3,2023-2024,Maryland,Level 6,Moderate
+2024-01-20,3,2023-2024,Massachusetts,Level 9,High
+2024-01-20,3,2023-2024,Michigan,Level 5,Low
+2024-01-20,3,2023-2024,Minnesota,Level 2,Minimal
+2024-01-20,3,2023-2024,Mississippi,Level 10,High
+2024-01-20,3,2023-2024,Missouri,Level 4,Low
+2024-01-20,3,2023-2024,Montana,Level 5,Low
+2024-01-20,3,2023-2024,Nebraska,Level 6,Moderate
+2024-01-20,3,2023-2024,Nevada,Level 8,High
+2024-01-20,3,2023-2024,New Hampshire,Level 8,High
+2024-01-20,3,2023-2024,New Jersey,Level 9,High
+2024-01-20,3,2023-2024,New Mexico,Level 11,Very High
+2024-01-20,3,2023-2024,New York,Level 4,Low
+2024-01-20,3,2023-2024,New York City,Level 11,Very High
+2024-01-20,3,2023-2024,North Carolina,Level 9,High
+2024-01-20,3,2023-2024,North Dakota,Level 10,High
+2024-01-20,3,2023-2024,Ohio,Level 10,High
+2024-01-20,3,2023-2024,Oklahoma,Level 5,Low
+2024-01-20,3,2023-2024,Oregon,Level 2,Minimal
+2024-01-20,3,2023-2024,Pennsylvania,Level 5,Low
+2024-01-20,3,2023-2024,Puerto Rico,Level 4,Low
+2024-01-20,3,2023-2024,Rhode Island,Level 7,Moderate
+2024-01-20,3,2023-2024,South Carolina,Level 11,Very High
+2024-01-20,3,2023-2024,South Dakota,Level 2,Minimal
+2024-01-20,3,2023-2024,Tennessee,Level 12,Very High
+2024-01-20,3,2023-2024,Texas,Level 10,High
+2024-01-20,3,2023-2024,Utah,Level 3,Minimal
+2024-01-20,3,2023-2024,Vermont,Level 3,Minimal
+2024-01-20,3,2023-2024,Virgin Islands,Level 7,Moderate
+2024-01-20,3,2023-2024,Virginia,Level 8,High
+2024-01-20,3,2023-2024,Washington,Level 6,Moderate
+2024-01-20,3,2023-2024,West Virginia,Level 6,Moderate
+2024-01-20,3,2023-2024,Wisconsin,Level 5,Low
+2024-01-20,3,2023-2024,Wyoming,Level 9,High
+2024-01-13,2,2023-2024,Alabama,Level 11,Very High
+2024-01-13,2,2023-2024,Alaska,Level 4,Low
+2024-01-13,2,2023-2024,Arizona,Level 7,Moderate
+2024-01-13,2,2023-2024,Arkansas,Level 10,High
+2024-01-13,2,2023-2024,California,Level 10,High
+2024-01-13,2,2023-2024,Colorado,Level 10,High
+2024-01-13,2,2023-2024,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2024-01-13,2,2023-2024,Connecticut,Level 7,Moderate
+2024-01-13,2,2023-2024,Delaware,Level 3,Minimal
+2024-01-13,2,2023-2024,District of Columbia,Level 9,High
+2024-01-13,2,2023-2024,Florida,Level 9,High
+2024-01-13,2,2023-2024,Georgia,Level 11,Very High
+2024-01-13,2,2023-2024,Hawaii,Level 4,Low
+2024-01-13,2,2023-2024,Idaho,Level 9,High
+2024-01-13,2,2023-2024,Illinois,Level 4,Low
+2024-01-13,2,2023-2024,Indiana,Level 7,Moderate
+2024-01-13,2,2023-2024,Iowa,Level 6,Moderate
+2024-01-13,2,2023-2024,Kansas,Level 5,Low
+2024-01-13,2,2023-2024,Kentucky,Level 9,High
+2024-01-13,2,2023-2024,Louisiana,Level 12,Very High
+2024-01-13,2,2023-2024,Maine,Level 6,Moderate
+2024-01-13,2,2023-2024,Maryland,Level 7,Moderate
+2024-01-13,2,2023-2024,Massachusetts,Level 10,High
+2024-01-13,2,2023-2024,Michigan,Level 6,Moderate
+2024-01-13,2,2023-2024,Minnesota,Level 2,Minimal
+2024-01-13,2,2023-2024,Mississippi,Level 10,High
+2024-01-13,2,2023-2024,Missouri,Level 6,Moderate
+2024-01-13,2,2023-2024,Montana,Level 5,Low
+2024-01-13,2,2023-2024,Nebraska,Level 8,High
+2024-01-13,2,2023-2024,Nevada,Level 6,Moderate
+2024-01-13,2,2023-2024,New Hampshire,Level 9,High
+2024-01-13,2,2023-2024,New Jersey,Level 10,High
+2024-01-13,2,2023-2024,New Mexico,Level 11,Very High
+2024-01-13,2,2023-2024,New York,Level 5,Low
+2024-01-13,2,2023-2024,New York City,Level 11,Very High
+2024-01-13,2,2023-2024,North Carolina,Level 10,High
+2024-01-13,2,2023-2024,North Dakota,Level 10,High
+2024-01-13,2,2023-2024,Ohio,Level 9,High
+2024-01-13,2,2023-2024,Oklahoma,Level 5,Low
+2024-01-13,2,2023-2024,Oregon,Level 3,Minimal
+2024-01-13,2,2023-2024,Pennsylvania,Level 7,Moderate
+2024-01-13,2,2023-2024,Puerto Rico,Level 5,Low
+2024-01-13,2,2023-2024,Rhode Island,Level 7,Moderate
+2024-01-13,2,2023-2024,South Carolina,Level 12,Very High
+2024-01-13,2,2023-2024,South Dakota,Level 3,Minimal
+2024-01-13,2,2023-2024,Tennessee,Level 13,Very High
+2024-01-13,2,2023-2024,Texas,Level 9,High
+2024-01-13,2,2023-2024,Utah,Level 4,Low
+2024-01-13,2,2023-2024,Vermont,Level 4,Low
+2024-01-13,2,2023-2024,Virgin Islands,Level 6,Moderate
+2024-01-13,2,2023-2024,Virginia,Level 10,High
+2024-01-13,2,2023-2024,Washington,Level 6,Moderate
+2024-01-13,2,2023-2024,West Virginia,Level 4,Low
+2024-01-13,2,2023-2024,Wisconsin,Level 7,Moderate
+2024-01-13,2,2023-2024,Wyoming,Level 11,Very High
+2024-01-06,1,2023-2024,Alabama,Level 12,Very High
+2024-01-06,1,2023-2024,Alaska,Level 5,Low
+2024-01-06,1,2023-2024,Arizona,Level 10,High
+2024-01-06,1,2023-2024,Arkansas,Level 10,High
+2024-01-06,1,2023-2024,California,Level 11,Very High
+2024-01-06,1,2023-2024,Colorado,Level 11,Very High
+2024-01-06,1,2023-2024,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2024-01-06,1,2023-2024,Connecticut,Level 9,High
+2024-01-06,1,2023-2024,Delaware,Level 5,Low
+2024-01-06,1,2023-2024,District of Columbia,Level 10,High
+2024-01-06,1,2023-2024,Florida,Level 10,High
+2024-01-06,1,2023-2024,Georgia,Level 12,Very High
+2024-01-06,1,2023-2024,Hawaii,Level 5,Low
+2024-01-06,1,2023-2024,Idaho,Level 10,High
+2024-01-06,1,2023-2024,Illinois,Level 7,Moderate
+2024-01-06,1,2023-2024,Indiana,Level 9,High
+2024-01-06,1,2023-2024,Iowa,Level 7,Moderate
+2024-01-06,1,2023-2024,Kansas,Level 7,Moderate
+2024-01-06,1,2023-2024,Kentucky,Level 10,High
+2024-01-06,1,2023-2024,Louisiana,Level 13,Very High
+2024-01-06,1,2023-2024,Maine,Level 7,Moderate
+2024-01-06,1,2023-2024,Maryland,Level 10,High
+2024-01-06,1,2023-2024,Massachusetts,Level 10,High
+2024-01-06,1,2023-2024,Michigan,Level 8,High
+2024-01-06,1,2023-2024,Minnesota,Level 1,Minimal
+2024-01-06,1,2023-2024,Mississippi,Level 11,Very High
+2024-01-06,1,2023-2024,Missouri,Level 6,Moderate
+2024-01-06,1,2023-2024,Montana,Level 8,High
+2024-01-06,1,2023-2024,Nebraska,Level 9,High
+2024-01-06,1,2023-2024,Nevada,Level 9,High
+2024-01-06,1,2023-2024,New Hampshire,Level 8,High
+2024-01-06,1,2023-2024,New Jersey,Level 11,Very High
+2024-01-06,1,2023-2024,New Mexico,Level 13,Very High
+2024-01-06,1,2023-2024,New York,Level 8,High
+2024-01-06,1,2023-2024,New York City,Level 12,Very High
+2024-01-06,1,2023-2024,North Carolina,Level 11,Very High
+2024-01-06,1,2023-2024,North Dakota,Level 10,High
+2024-01-06,1,2023-2024,Ohio,Level 10,High
+2024-01-06,1,2023-2024,Oklahoma,Level 7,Moderate
+2024-01-06,1,2023-2024,Oregon,Level 4,Low
+2024-01-06,1,2023-2024,Pennsylvania,Level 9,High
+2024-01-06,1,2023-2024,Puerto Rico,Level 3,Minimal
+2024-01-06,1,2023-2024,Rhode Island,Level 8,High
+2024-01-06,1,2023-2024,South Carolina,Level 13,Very High
+2024-01-06,1,2023-2024,South Dakota,Level 5,Low
+2024-01-06,1,2023-2024,Tennessee,Level 13,Very High
+2024-01-06,1,2023-2024,Texas,Level 11,Very High
+2024-01-06,1,2023-2024,Utah,Level 5,Low
+2024-01-06,1,2023-2024,Vermont,Level 4,Low
+2024-01-06,1,2023-2024,Virgin Islands,Level 4,Low
+2024-01-06,1,2023-2024,Virginia,Level 10,High
+2024-01-06,1,2023-2024,Washington,Level 8,High
+2024-01-06,1,2023-2024,West Virginia,Level 5,Low
+2024-01-06,1,2023-2024,Wisconsin,Level 7,Moderate
+2024-01-06,1,2023-2024,Wyoming,Level 11,Very High
+2023-12-30,52,2023-2024,Alabama,Level 13,Very High
+2023-12-30,52,2023-2024,Alaska,Level 6,Moderate
+2023-12-30,52,2023-2024,Arizona,Level 10,High
+2023-12-30,52,2023-2024,Arkansas,Level 11,Very High
+2023-12-30,52,2023-2024,California,Level 11,Very High
+2023-12-30,52,2023-2024,Colorado,Level 12,Very High
+2023-12-30,52,2023-2024,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-12-30,52,2023-2024,Connecticut,Level 10,High
+2023-12-30,52,2023-2024,Delaware,Level 5,Low
+2023-12-30,52,2023-2024,District of Columbia,Level 11,Very High
+2023-12-30,52,2023-2024,Florida,Level 10,High
+2023-12-30,52,2023-2024,Georgia,Level 13,Very High
+2023-12-30,52,2023-2024,Hawaii,Level 7,Moderate
+2023-12-30,52,2023-2024,Idaho,Level 11,Very High
+2023-12-30,52,2023-2024,Illinois,Level 9,High
+2023-12-30,52,2023-2024,Indiana,Level 10,High
+2023-12-30,52,2023-2024,Iowa,Level 6,Moderate
+2023-12-30,52,2023-2024,Kansas,Level 8,High
+2023-12-30,52,2023-2024,Kentucky,Level 11,Very High
+2023-12-30,52,2023-2024,Louisiana,Level 13,Very High
+2023-12-30,52,2023-2024,Maine,Level 8,High
+2023-12-30,52,2023-2024,Maryland,Level 11,Very High
+2023-12-30,52,2023-2024,Massachusetts,Level 11,Very High
+2023-12-30,52,2023-2024,Michigan,Level 10,High
+2023-12-30,52,2023-2024,Minnesota,Level 2,Minimal
+2023-12-30,52,2023-2024,Mississippi,Level 13,Very High
+2023-12-30,52,2023-2024,Missouri,Level 7,Moderate
+2023-12-30,52,2023-2024,Montana,Level 9,High
+2023-12-30,52,2023-2024,Nebraska,Level 10,High
+2023-12-30,52,2023-2024,Nevada,Level 10,High
+2023-12-30,52,2023-2024,New Hampshire,Level 10,High
+2023-12-30,52,2023-2024,New Jersey,Level 12,Very High
+2023-12-30,52,2023-2024,New Mexico,Level 13,Very High
+2023-12-30,52,2023-2024,New York,Level 10,High
+2023-12-30,52,2023-2024,New York City,Level 13,Very High
+2023-12-30,52,2023-2024,North Carolina,Level 13,Very High
+2023-12-30,52,2023-2024,North Dakota,Level 10,High
+2023-12-30,52,2023-2024,Ohio,Level 11,Very High
+2023-12-30,52,2023-2024,Oklahoma,Level 6,Moderate
+2023-12-30,52,2023-2024,Oregon,Level 5,Low
+2023-12-30,52,2023-2024,Pennsylvania,Level 10,High
+2023-12-30,52,2023-2024,Puerto Rico,Level 5,Low
+2023-12-30,52,2023-2024,Rhode Island,Level 10,High
+2023-12-30,52,2023-2024,South Carolina,Level 13,Very High
+2023-12-30,52,2023-2024,South Dakota,Level 7,Moderate
+2023-12-30,52,2023-2024,Tennessee,Level 13,Very High
+2023-12-30,52,2023-2024,Texas,Level 11,Very High
+2023-12-30,52,2023-2024,Utah,Level 9,High
+2023-12-30,52,2023-2024,Vermont,Level 5,Low
+2023-12-30,52,2023-2024,Virgin Islands,Level 6,Moderate
+2023-12-30,52,2023-2024,Virginia,Level 12,Very High
+2023-12-30,52,2023-2024,Washington,Level 10,High
+2023-12-30,52,2023-2024,West Virginia,Level 7,Moderate
+2023-12-30,52,2023-2024,Wisconsin,Level 8,High
+2023-12-30,52,2023-2024,Wyoming,Level 11,Very High
+2023-12-23,51,2023-2024,Alabama,Level 13,Very High
+2023-12-23,51,2023-2024,Alaska,Level 4,Low
+2023-12-23,51,2023-2024,Arizona,Level 10,High
+2023-12-23,51,2023-2024,Arkansas,Level 10,High
+2023-12-23,51,2023-2024,California,Level 11,Very High
+2023-12-23,51,2023-2024,Colorado,Level 12,Very High
+2023-12-23,51,2023-2024,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-12-23,51,2023-2024,Connecticut,Level 8,High
+2023-12-23,51,2023-2024,Delaware,Level 4,Low
+2023-12-23,51,2023-2024,District of Columbia,Level 10,High
+2023-12-23,51,2023-2024,Florida,Level 10,High
+2023-12-23,51,2023-2024,Georgia,Level 13,Very High
+2023-12-23,51,2023-2024,Hawaii,Level 4,Low
+2023-12-23,51,2023-2024,Idaho,Level 10,High
+2023-12-23,51,2023-2024,Illinois,Level 7,Moderate
+2023-12-23,51,2023-2024,Indiana,Level 9,High
+2023-12-23,51,2023-2024,Iowa,Level 7,Moderate
+2023-12-23,51,2023-2024,Kansas,Level 6,Moderate
+2023-12-23,51,2023-2024,Kentucky,Level 10,High
+2023-12-23,51,2023-2024,Louisiana,Level 13,Very High
+2023-12-23,51,2023-2024,Maine,Level 7,Moderate
+2023-12-23,51,2023-2024,Maryland,Level 10,High
+2023-12-23,51,2023-2024,Massachusetts,Level 10,High
+2023-12-23,51,2023-2024,Michigan,Level 7,Moderate
+2023-12-23,51,2023-2024,Minnesota,Level 1,Minimal
+2023-12-23,51,2023-2024,Mississippi,Level 13,Very High
+2023-12-23,51,2023-2024,Missouri,Level 6,Moderate
+2023-12-23,51,2023-2024,Montana,Level 3,Minimal
+2023-12-23,51,2023-2024,Nebraska,Level 7,Moderate
+2023-12-23,51,2023-2024,Nevada,Level 10,High
+2023-12-23,51,2023-2024,New Hampshire,Level 10,High
+2023-12-23,51,2023-2024,New Jersey,Level 11,Very High
+2023-12-23,51,2023-2024,New Mexico,Level 13,Very High
+2023-12-23,51,2023-2024,New York,Level 8,High
+2023-12-23,51,2023-2024,New York City,Level 12,Very High
+2023-12-23,51,2023-2024,North Carolina,Level 12,Very High
+2023-12-23,51,2023-2024,North Dakota,Level 11,Very High
+2023-12-23,51,2023-2024,North Dakota,Level 0,Insufficient Data
+2023-12-23,51,2023-2024,Ohio,Level 10,High
+2023-12-23,51,2023-2024,Oklahoma,Level 5,Low
+2023-12-23,51,2023-2024,Oregon,Level 4,Low
+2023-12-23,51,2023-2024,Pennsylvania,Level 8,High
+2023-12-23,51,2023-2024,Puerto Rico,Level 3,Minimal
+2023-12-23,51,2023-2024,Rhode Island,Level 8,High
+2023-12-23,51,2023-2024,South Carolina,Level 13,Very High
+2023-12-23,51,2023-2024,South Dakota,Level 5,Low
+2023-12-23,51,2023-2024,Tennessee,Level 13,Very High
+2023-12-23,51,2023-2024,Texas,Level 11,Very High
+2023-12-23,51,2023-2024,Utah,Level 6,Moderate
+2023-12-23,51,2023-2024,Vermont,Level 3,Minimal
+2023-12-23,51,2023-2024,Virgin Islands,Level 3,Minimal
+2023-12-23,51,2023-2024,Virginia,Level 11,Very High
+2023-12-23,51,2023-2024,Washington,Level 9,High
+2023-12-23,51,2023-2024,West Virginia,Level 4,Low
+2023-12-23,51,2023-2024,Wisconsin,Level 7,Moderate
+2023-12-23,51,2023-2024,Wyoming,Level 10,High
+2023-12-16,50,2023-2024,Alabama,Level 12,Very High
+2023-12-16,50,2023-2024,Alaska,Level 4,Low
+2023-12-16,50,2023-2024,Arizona,Level 9,High
+2023-12-16,50,2023-2024,Arkansas,Level 9,High
+2023-12-16,50,2023-2024,California,Level 10,High
+2023-12-16,50,2023-2024,Colorado,Level 11,Very High
+2023-12-16,50,2023-2024,Commonwealth of the Northern Mariana Islands,Level 3,Minimal
+2023-12-16,50,2023-2024,Connecticut,Level 7,Moderate
+2023-12-16,50,2023-2024,Delaware,Level 3,Minimal
+2023-12-16,50,2023-2024,District of Columbia,Level 10,High
+2023-12-16,50,2023-2024,Florida,Level 10,High
+2023-12-16,50,2023-2024,Georgia,Level 11,Very High
+2023-12-16,50,2023-2024,Hawaii,Level 5,Low
+2023-12-16,50,2023-2024,Idaho,Level 5,Low
+2023-12-16,50,2023-2024,Illinois,Level 6,Moderate
+2023-12-16,50,2023-2024,Indiana,Level 8,High
+2023-12-16,50,2023-2024,Iowa,Level 7,Moderate
+2023-12-16,50,2023-2024,Kansas,Level 5,Low
+2023-12-16,50,2023-2024,Kentucky,Level 8,High
+2023-12-16,50,2023-2024,Louisiana,Level 13,Very High
+2023-12-16,50,2023-2024,Maine,Level 4,Low
+2023-12-16,50,2023-2024,Maryland,Level 8,High
+2023-12-16,50,2023-2024,Massachusetts,Level 9,High
+2023-12-16,50,2023-2024,Michigan,Level 5,Low
+2023-12-16,50,2023-2024,Minnesota,Level 1,Minimal
+2023-12-16,50,2023-2024,Mississippi,Level 11,Very High
+2023-12-16,50,2023-2024,Missouri,Level 6,Moderate
+2023-12-16,50,2023-2024,Montana,Level 1,Minimal
+2023-12-16,50,2023-2024,Nebraska,Level 6,Moderate
+2023-12-16,50,2023-2024,Nevada,Level 10,High
+2023-12-16,50,2023-2024,New Hampshire,Level 7,Moderate
+2023-12-16,50,2023-2024,New Jersey,Level 10,High
+2023-12-16,50,2023-2024,New Mexico,Level 12,Very High
+2023-12-16,50,2023-2024,New York,Level 7,Moderate
+2023-12-16,50,2023-2024,New York City,Level 11,Very High
+2023-12-16,50,2023-2024,North Carolina,Level 11,Very High
+2023-12-16,50,2023-2024,North Dakota,Level 10,High
+2023-12-16,50,2023-2024,Ohio,Level 7,Moderate
+2023-12-16,50,2023-2024,Oklahoma,Level 5,Low
+2023-12-16,50,2023-2024,Oregon,Level 3,Minimal
+2023-12-16,50,2023-2024,Pennsylvania,Level 7,Moderate
+2023-12-16,50,2023-2024,Puerto Rico,Level 2,Minimal
+2023-12-16,50,2023-2024,Rhode Island,Level 6,Moderate
+2023-12-16,50,2023-2024,South Carolina,Level 13,Very High
+2023-12-16,50,2023-2024,South Dakota,Level 3,Minimal
+2023-12-16,50,2023-2024,Tennessee,Level 11,Very High
+2023-12-16,50,2023-2024,Texas,Level 10,High
+2023-12-16,50,2023-2024,Utah,Level 5,Low
+2023-12-16,50,2023-2024,Vermont,Level 2,Minimal
+2023-12-16,50,2023-2024,Virgin Islands,Level 3,Minimal
+2023-12-16,50,2023-2024,Virginia,Level 10,High
+2023-12-16,50,2023-2024,Washington,Level 6,Moderate
+2023-12-16,50,2023-2024,West Virginia,Level 2,Minimal
+2023-12-16,50,2023-2024,Wisconsin,Level 5,Low
+2023-12-16,50,2023-2024,Wyoming,Level 10,High
+2023-12-09,49,2023-2024,Alabama,Level 11,Very High
+2023-12-09,49,2023-2024,Alaska,Level 5,Low
+2023-12-09,49,2023-2024,Arizona,Level 6,Moderate
+2023-12-09,49,2023-2024,Arkansas,Level 7,Moderate
+2023-12-09,49,2023-2024,California,Level 10,High
+2023-12-09,49,2023-2024,Colorado,Level 10,High
+2023-12-09,49,2023-2024,Commonwealth of the Northern Mariana Islands,Level 3,Minimal
+2023-12-09,49,2023-2024,Connecticut,Level 6,Moderate
+2023-12-09,49,2023-2024,Delaware,Level 2,Minimal
+2023-12-09,49,2023-2024,District of Columbia,Level 9,High
+2023-12-09,49,2023-2024,Florida,Level 8,High
+2023-12-09,49,2023-2024,Georgia,Level 10,High
+2023-12-09,49,2023-2024,Hawaii,Level 3,Minimal
+2023-12-09,49,2023-2024,Idaho,Level 4,Low
+2023-12-09,49,2023-2024,Illinois,Level 6,Moderate
+2023-12-09,49,2023-2024,Indiana,Level 7,Moderate
+2023-12-09,49,2023-2024,Iowa,Level 5,Low
+2023-12-09,49,2023-2024,Kansas,Level 4,Low
+2023-12-09,49,2023-2024,Kentucky,Level 6,Moderate
+2023-12-09,49,2023-2024,Louisiana,Level 13,Very High
+2023-12-09,49,2023-2024,Maine,Level 2,Minimal
+2023-12-09,49,2023-2024,Maryland,Level 7,Moderate
+2023-12-09,49,2023-2024,Massachusetts,Level 7,Moderate
+2023-12-09,49,2023-2024,Michigan,Level 3,Minimal
+2023-12-09,49,2023-2024,Minnesota,Level 1,Minimal
+2023-12-09,49,2023-2024,Mississippi,Level 11,Very High
+2023-12-09,49,2023-2024,Missouri,Level 5,Low
+2023-12-09,49,2023-2024,Montana,Level 1,Minimal
+2023-12-09,49,2023-2024,Nebraska,Level 4,Low
+2023-12-09,49,2023-2024,Nevada,Level 8,High
+2023-12-09,49,2023-2024,New Hampshire,Level 5,Low
+2023-12-09,49,2023-2024,New Jersey,Level 10,High
+2023-12-09,49,2023-2024,New Mexico,Level 11,Very High
+2023-12-09,49,2023-2024,New York,Level 5,Low
+2023-12-09,49,2023-2024,New York City,Level 10,High
+2023-12-09,49,2023-2024,North Carolina,Level 10,High
+2023-12-09,49,2023-2024,North Dakota,Level 6,Moderate
+2023-12-09,49,2023-2024,Ohio,Level 6,Moderate
+2023-12-09,49,2023-2024,Oklahoma,Level 4,Low
+2023-12-09,49,2023-2024,Oregon,Level 3,Minimal
+2023-12-09,49,2023-2024,Pennsylvania,Level 5,Low
+2023-12-09,49,2023-2024,Puerto Rico,Level 5,Low
+2023-12-09,49,2023-2024,Rhode Island,Level 4,Low
+2023-12-09,49,2023-2024,South Carolina,Level 13,Very High
+2023-12-09,49,2023-2024,South Dakota,Level 3,Minimal
+2023-12-09,49,2023-2024,Tennessee,Level 10,High
+2023-12-09,49,2023-2024,Texas,Level 10,High
+2023-12-09,49,2023-2024,Utah,Level 4,Low
+2023-12-09,49,2023-2024,Vermont,Level 2,Minimal
+2023-12-09,49,2023-2024,Virgin Islands,Level 1,Minimal
+2023-12-09,49,2023-2024,Virginia,Level 8,High
+2023-12-09,49,2023-2024,Washington,Level 5,Low
+2023-12-09,49,2023-2024,West Virginia,Level 1,Minimal
+2023-12-09,49,2023-2024,Wisconsin,Level 4,Low
+2023-12-09,49,2023-2024,Wyoming,Level 10,High
+2023-12-02,48,2023-2024,Alabama,Level 10,High
+2023-12-02,48,2023-2024,Alaska,Level 5,Low
+2023-12-02,48,2023-2024,Arizona,Level 4,Low
+2023-12-02,48,2023-2024,Arkansas,Level 7,Moderate
+2023-12-02,48,2023-2024,California,Level 10,High
+2023-12-02,48,2023-2024,Colorado,Level 9,High
+2023-12-02,48,2023-2024,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-12-02,48,2023-2024,Connecticut,Level 6,Moderate
+2023-12-02,48,2023-2024,Delaware,Level 1,Minimal
+2023-12-02,48,2023-2024,District of Columbia,Level 6,Moderate
+2023-12-02,48,2023-2024,Florida,Level 8,High
+2023-12-02,48,2023-2024,Georgia,Level 10,High
+2023-12-02,48,2023-2024,Hawaii,Level 3,Minimal
+2023-12-02,48,2023-2024,Idaho,Level 2,Minimal
+2023-12-02,48,2023-2024,Illinois,Level 6,Moderate
+2023-12-02,48,2023-2024,Indiana,Level 6,Moderate
+2023-12-02,48,2023-2024,Iowa,Level 5,Low
+2023-12-02,48,2023-2024,Kansas,Level 3,Minimal
+2023-12-02,48,2023-2024,Kentucky,Level 5,Low
+2023-12-02,48,2023-2024,Louisiana,Level 12,Very High
+2023-12-02,48,2023-2024,Maine,Level 3,Minimal
+2023-12-02,48,2023-2024,Maryland,Level 6,Moderate
+2023-12-02,48,2023-2024,Massachusetts,Level 5,Low
+2023-12-02,48,2023-2024,Michigan,Level 2,Minimal
+2023-12-02,48,2023-2024,Minnesota,Level 1,Minimal
+2023-12-02,48,2023-2024,Mississippi,Level 10,High
+2023-12-02,48,2023-2024,Missouri,Level 4,Low
+2023-12-02,48,2023-2024,Montana,Level 1,Minimal
+2023-12-02,48,2023-2024,Nebraska,Level 3,Minimal
+2023-12-02,48,2023-2024,Nevada,Level 5,Low
+2023-12-02,48,2023-2024,New Hampshire,Level 3,Minimal
+2023-12-02,48,2023-2024,New Jersey,Level 8,High
+2023-12-02,48,2023-2024,New Mexico,Level 10,High
+2023-12-02,48,2023-2024,New York,Level 4,Low
+2023-12-02,48,2023-2024,New York City,Level 10,High
+2023-12-02,48,2023-2024,North Carolina,Level 9,High
+2023-12-02,48,2023-2024,North Dakota,Level 6,Moderate
+2023-12-02,48,2023-2024,Ohio,Level 6,Moderate
+2023-12-02,48,2023-2024,Oklahoma,Level 4,Low
+2023-12-02,48,2023-2024,Oregon,Level 2,Minimal
+2023-12-02,48,2023-2024,Pennsylvania,Level 4,Low
+2023-12-02,48,2023-2024,Puerto Rico,Level 5,Low
+2023-12-02,48,2023-2024,Rhode Island,Level 3,Minimal
+2023-12-02,48,2023-2024,South Carolina,Level 12,Very High
+2023-12-02,48,2023-2024,South Dakota,Level 1,Minimal
+2023-12-02,48,2023-2024,Tennessee,Level 10,High
+2023-12-02,48,2023-2024,Texas,Level 9,High
+2023-12-02,48,2023-2024,Utah,Level 3,Minimal
+2023-12-02,48,2023-2024,Vermont,Level 2,Minimal
+2023-12-02,48,2023-2024,Virgin Islands,Level 1,Minimal
+2023-12-02,48,2023-2024,Virginia,Level 6,Moderate
+2023-12-02,48,2023-2024,Washington,Level 4,Low
+2023-12-02,48,2023-2024,West Virginia,Level 1,Minimal
+2023-12-02,48,2023-2024,Wisconsin,Level 4,Low
+2023-12-02,48,2023-2024,Wyoming,Level 9,High
+2023-11-25,47,2023-2024,Alabama,Level 10,High
+2023-11-25,47,2023-2024,Alaska,Level 7,Moderate
+2023-11-25,47,2023-2024,Arizona,Level 3,Minimal
+2023-11-25,47,2023-2024,Arkansas,Level 7,Moderate
+2023-11-25,47,2023-2024,California,Level 10,High
+2023-11-25,47,2023-2024,Colorado,Level 9,High
+2023-11-25,47,2023-2024,Commonwealth of the Northern Mariana Islands,Level 2,Minimal
+2023-11-25,47,2023-2024,Connecticut,Level 6,Moderate
+2023-11-25,47,2023-2024,Delaware,Level 1,Minimal
+2023-11-25,47,2023-2024,District of Columbia,Level 8,High
+2023-11-25,47,2023-2024,Florida,Level 9,High
+2023-11-25,47,2023-2024,Georgia,Level 10,High
+2023-11-25,47,2023-2024,Hawaii,Level 4,Low
+2023-11-25,47,2023-2024,Idaho,Level 2,Minimal
+2023-11-25,47,2023-2024,Illinois,Level 5,Low
+2023-11-25,47,2023-2024,Indiana,Level 5,Low
+2023-11-25,47,2023-2024,Iowa,Level 6,Moderate
+2023-11-25,47,2023-2024,Kansas,Level 3,Minimal
+2023-11-25,47,2023-2024,Kentucky,Level 5,Low
+2023-11-25,47,2023-2024,Louisiana,Level 12,Very High
+2023-11-25,47,2023-2024,Maine,Level 3,Minimal
+2023-11-25,47,2023-2024,Maryland,Level 6,Moderate
+2023-11-25,47,2023-2024,Massachusetts,Level 5,Low
+2023-11-25,47,2023-2024,Michigan,Level 2,Minimal
+2023-11-25,47,2023-2024,Minnesota,Level 1,Minimal
+2023-11-25,47,2023-2024,Mississippi,Level 10,High
+2023-11-25,47,2023-2024,Missouri,Level 3,Minimal
+2023-11-25,47,2023-2024,Montana,Level 1,Minimal
+2023-11-25,47,2023-2024,Nebraska,Level 3,Minimal
+2023-11-25,47,2023-2024,Nevada,Level 5,Low
+2023-11-25,47,2023-2024,New Hampshire,Level 2,Minimal
+2023-11-25,47,2023-2024,New Jersey,Level 6,Moderate
+2023-11-25,47,2023-2024,New Mexico,Level 8,High
+2023-11-25,47,2023-2024,New York,Level 3,Minimal
+2023-11-25,47,2023-2024,New York City,Level 8,High
+2023-11-25,47,2023-2024,North Carolina,Level 7,Moderate
+2023-11-25,47,2023-2024,North Dakota,Level 6,Moderate
+2023-11-25,47,2023-2024,Ohio,Level 4,Low
+2023-11-25,47,2023-2024,Oklahoma,Level 3,Minimal
+2023-11-25,47,2023-2024,Oregon,Level 2,Minimal
+2023-11-25,47,2023-2024,Pennsylvania,Level 4,Low
+2023-11-25,47,2023-2024,Puerto Rico,Level 9,High
+2023-11-25,47,2023-2024,Rhode Island,Level 3,Minimal
+2023-11-25,47,2023-2024,South Carolina,Level 11,Very High
+2023-11-25,47,2023-2024,South Dakota,Level 2,Minimal
+2023-11-25,47,2023-2024,Tennessee,Level 8,High
+2023-11-25,47,2023-2024,Texas,Level 10,High
+2023-11-25,47,2023-2024,Utah,Level 3,Minimal
+2023-11-25,47,2023-2024,Vermont,Level 2,Minimal
+2023-11-25,47,2023-2024,Virgin Islands,Level 1,Minimal
+2023-11-25,47,2023-2024,Virginia,Level 6,Moderate
+2023-11-25,47,2023-2024,Virginia,Level 0,Insufficient Data
+2023-11-25,47,2023-2024,Washington,Level 4,Low
+2023-11-25,47,2023-2024,West Virginia,Level 1,Minimal
+2023-11-25,47,2023-2024,Wisconsin,Level 4,Low
+2023-11-25,47,2023-2024,Wyoming,Level 9,High
+2023-11-18,46,2023-2024,Alabama,Level 10,High
+2023-11-18,46,2023-2024,Alaska,Level 7,Moderate
+2023-11-18,46,2023-2024,Arizona,Level 3,Minimal
+2023-11-18,46,2023-2024,Arkansas,Level 7,Moderate
+2023-11-18,46,2023-2024,California,Level 8,High
+2023-11-18,46,2023-2024,Colorado,Level 8,High
+2023-11-18,46,2023-2024,Commonwealth of the Northern Mariana Islands,Level 5,Low
+2023-11-18,46,2023-2024,Connecticut,Level 5,Low
+2023-11-18,46,2023-2024,Delaware,Level 1,Minimal
+2023-11-18,46,2023-2024,District of Columbia,Level 6,Moderate
+2023-11-18,46,2023-2024,Florida,Level 9,High
+2023-11-18,46,2023-2024,Georgia,Level 10,High
+2023-11-18,46,2023-2024,Hawaii,Level 3,Minimal
+2023-11-18,46,2023-2024,Idaho,Level 1,Minimal
+2023-11-18,46,2023-2024,Illinois,Level 5,Low
+2023-11-18,46,2023-2024,Indiana,Level 4,Low
+2023-11-18,46,2023-2024,Iowa,Level 5,Low
+2023-11-18,46,2023-2024,Kansas,Level 2,Minimal
+2023-11-18,46,2023-2024,Kentucky,Level 4,Low
+2023-11-18,46,2023-2024,Louisiana,Level 11,Very High
+2023-11-18,46,2023-2024,Maine,Level 1,Minimal
+2023-11-18,46,2023-2024,Maryland,Level 5,Low
+2023-11-18,46,2023-2024,Massachusetts,Level 3,Minimal
+2023-11-18,46,2023-2024,Michigan,Level 1,Minimal
+2023-11-18,46,2023-2024,Minnesota,Level 1,Minimal
+2023-11-18,46,2023-2024,Mississippi,Level 10,High
+2023-11-18,46,2023-2024,Missouri,Level 3,Minimal
+2023-11-18,46,2023-2024,Montana,Level 1,Minimal
+2023-11-18,46,2023-2024,Nebraska,Level 2,Minimal
+2023-11-18,46,2023-2024,Nevada,Level 5,Low
+2023-11-18,46,2023-2024,New Hampshire,Level 1,Minimal
+2023-11-18,46,2023-2024,New Jersey,Level 6,Moderate
+2023-11-18,46,2023-2024,New Mexico,Level 6,Moderate
+2023-11-18,46,2023-2024,New York,Level 3,Minimal
+2023-11-18,46,2023-2024,New York City,Level 8,High
+2023-11-18,46,2023-2024,North Carolina,Level 6,Moderate
+2023-11-18,46,2023-2024,North Dakota,Level 5,Low
+2023-11-18,46,2023-2024,Ohio,Level 3,Minimal
+2023-11-18,46,2023-2024,Oklahoma,Level 2,Minimal
+2023-11-18,46,2023-2024,Oregon,Level 2,Minimal
+2023-11-18,46,2023-2024,Pennsylvania,Level 3,Minimal
+2023-11-18,46,2023-2024,Puerto Rico,Level 9,High
+2023-11-18,46,2023-2024,Rhode Island,Level 2,Minimal
+2023-11-18,46,2023-2024,South Carolina,Level 11,Very High
+2023-11-18,46,2023-2024,South Dakota,Level 1,Minimal
+2023-11-18,46,2023-2024,Tennessee,Level 7,Moderate
+2023-11-18,46,2023-2024,Texas,Level 10,High
+2023-11-18,46,2023-2024,Utah,Level 3,Minimal
+2023-11-18,46,2023-2024,Vermont,Level 1,Minimal
+2023-11-18,46,2023-2024,Virgin Islands,Level 1,Minimal
+2023-11-18,46,2023-2024,Virginia,Level 6,Moderate
+2023-11-18,46,2023-2024,Washington,Level 2,Minimal
+2023-11-18,46,2023-2024,West Virginia,Level 1,Minimal
+2023-11-18,46,2023-2024,Wisconsin,Level 3,Minimal
+2023-11-18,46,2023-2024,Wyoming,Level 9,High
+2023-11-11,45,2023-2024,Alabama,Level 10,High
+2023-11-11,45,2023-2024,Alaska,Level 0,Insufficient Data
+2023-11-11,45,2023-2024,Arizona,Level 5,Low
+2023-11-11,45,2023-2024,Arkansas,Level 6,Moderate
+2023-11-11,45,2023-2024,California,Level 6,Moderate
+2023-11-11,45,2023-2024,Colorado,Level 5,Low
+2023-11-11,45,2023-2024,Commonwealth of the Northern Mariana Islands,Level 4,Low
+2023-11-11,45,2023-2024,Connecticut,Level 4,Low
+2023-11-11,45,2023-2024,Delaware,Level 1,Minimal
+2023-11-11,45,2023-2024,District of Columbia,Level 9,High
+2023-11-11,45,2023-2024,Florida,Level 9,High
+2023-11-11,45,2023-2024,Georgia,Level 10,High
+2023-11-11,45,2023-2024,Hawaii,Level 5,Low
+2023-11-11,45,2023-2024,Idaho,Level 1,Minimal
+2023-11-11,45,2023-2024,Illinois,Level 4,Low
+2023-11-11,45,2023-2024,Indiana,Level 3,Minimal
+2023-11-11,45,2023-2024,Iowa,Level 2,Minimal
+2023-11-11,45,2023-2024,Kansas,Level 1,Minimal
+2023-11-11,45,2023-2024,Kentucky,Level 3,Minimal
+2023-11-11,45,2023-2024,Louisiana,Level 11,Very High
+2023-11-11,45,2023-2024,Maine,Level 1,Minimal
+2023-11-11,45,2023-2024,Maryland,Level 5,Low
+2023-11-11,45,2023-2024,Massachusetts,Level 3,Minimal
+2023-11-11,45,2023-2024,Michigan,Level 1,Minimal
+2023-11-11,45,2023-2024,Minnesota,Level 1,Minimal
+2023-11-11,45,2023-2024,Mississippi,Level 10,High
+2023-11-11,45,2023-2024,Missouri,Level 3,Minimal
+2023-11-11,45,2023-2024,Montana,Level 1,Minimal
+2023-11-11,45,2023-2024,Nebraska,Level 2,Minimal
+2023-11-11,45,2023-2024,Nevada,Level 3,Minimal
+2023-11-11,45,2023-2024,New Hampshire,Level 1,Minimal
+2023-11-11,45,2023-2024,New Jersey,Level 6,Moderate
+2023-11-11,45,2023-2024,New Mexico,Level 7,Moderate
+2023-11-11,45,2023-2024,New York,Level 2,Minimal
+2023-11-11,45,2023-2024,New York City,Level 6,Moderate
+2023-11-11,45,2023-2024,North Carolina,Level 6,Moderate
+2023-11-11,45,2023-2024,North Dakota,Level 5,Low
+2023-11-11,45,2023-2024,Ohio,Level 2,Minimal
+2023-11-11,45,2023-2024,Oklahoma,Level 2,Minimal
+2023-11-11,45,2023-2024,Oregon,Level 1,Minimal
+2023-11-11,45,2023-2024,Pennsylvania,Level 2,Minimal
+2023-11-11,45,2023-2024,Puerto Rico,Level 10,High
+2023-11-11,45,2023-2024,Rhode Island,Level 2,Minimal
+2023-11-11,45,2023-2024,South Carolina,Level 10,High
+2023-11-11,45,2023-2024,South Dakota,Level 1,Minimal
+2023-11-11,45,2023-2024,Tennessee,Level 6,Moderate
+2023-11-11,45,2023-2024,Texas,Level 7,Moderate
+2023-11-11,45,2023-2024,Utah,Level 2,Minimal
+2023-11-11,45,2023-2024,Vermont,Level 1,Minimal
+2023-11-11,45,2023-2024,Virgin Islands,Level 1,Minimal
+2023-11-11,45,2023-2024,Virginia,Level 5,Low
+2023-11-11,45,2023-2024,Washington,Level 2,Minimal
+2023-11-11,45,2023-2024,West Virginia,Level 1,Minimal
+2023-11-11,45,2023-2024,Wisconsin,Level 2,Minimal
+2023-11-11,45,2023-2024,Wyoming,Level 7,Moderate
+2023-11-04,44,2023-2024,Alabama,Level 6,Moderate
+2023-11-04,44,2023-2024,Alaska,Level 10,High
+2023-11-04,44,2023-2024,Arizona,Level 2,Minimal
+2023-11-04,44,2023-2024,Arkansas,Level 4,Low
+2023-11-04,44,2023-2024,California,Level 5,Low
+2023-11-04,44,2023-2024,Colorado,Level 4,Low
+2023-11-04,44,2023-2024,Commonwealth of the Northern Mariana Islands,Level 3,Minimal
+2023-11-04,44,2023-2024,Connecticut,Level 3,Minimal
+2023-11-04,44,2023-2024,Delaware,Level 1,Minimal
+2023-11-04,44,2023-2024,District of Columbia,Level 7,Moderate
+2023-11-04,44,2023-2024,Florida,Level 8,High
+2023-11-04,44,2023-2024,Georgia,Level 7,Moderate
+2023-11-04,44,2023-2024,Hawaii,Level 3,Minimal
+2023-11-04,44,2023-2024,Idaho,Level 1,Minimal
+2023-11-04,44,2023-2024,Illinois,Level 3,Minimal
+2023-11-04,44,2023-2024,Indiana,Level 2,Minimal
+2023-11-04,44,2023-2024,Iowa,Level 2,Minimal
+2023-11-04,44,2023-2024,Kansas,Level 1,Minimal
+2023-11-04,44,2023-2024,Kentucky,Level 2,Minimal
+2023-11-04,44,2023-2024,Louisiana,Level 7,Moderate
+2023-11-04,44,2023-2024,Maine,Level 1,Minimal
+2023-11-04,44,2023-2024,Maryland,Level 4,Low
+2023-11-04,44,2023-2024,Massachusetts,Level 3,Minimal
+2023-11-04,44,2023-2024,Michigan,Level 1,Minimal
+2023-11-04,44,2023-2024,Minnesota,Level 1,Minimal
+2023-11-04,44,2023-2024,Mississippi,Level 7,Moderate
+2023-11-04,44,2023-2024,Missouri,Level 2,Minimal
+2023-11-04,44,2023-2024,Montana,Level 1,Minimal
+2023-11-04,44,2023-2024,Nebraska,Level 1,Minimal
+2023-11-04,44,2023-2024,Nevada,Level 2,Minimal
+2023-11-04,44,2023-2024,New Hampshire,Level 1,Minimal
+2023-11-04,44,2023-2024,New Jersey,Level 4,Low
+2023-11-04,44,2023-2024,New Mexico,Level 7,Moderate
+2023-11-04,44,2023-2024,New York,Level 1,Minimal
+2023-11-04,44,2023-2024,New York City,Level 5,Low
+2023-11-04,44,2023-2024,North Carolina,Level 4,Low
+2023-11-04,44,2023-2024,North Dakota,Level 2,Minimal
+2023-11-04,44,2023-2024,Ohio,Level 2,Minimal
+2023-11-04,44,2023-2024,Oklahoma,Level 2,Minimal
+2023-11-04,44,2023-2024,Oregon,Level 1,Minimal
+2023-11-04,44,2023-2024,Pennsylvania,Level 2,Minimal
+2023-11-04,44,2023-2024,Puerto Rico,Level 9,High
+2023-11-04,44,2023-2024,Rhode Island,Level 2,Minimal
+2023-11-04,44,2023-2024,South Carolina,Level 7,Moderate
+2023-11-04,44,2023-2024,South Dakota,Level 1,Minimal
+2023-11-04,44,2023-2024,Tennessee,Level 3,Minimal
+2023-11-04,44,2023-2024,Texas,Level 4,Low
+2023-11-04,44,2023-2024,Utah,Level 1,Minimal
+2023-11-04,44,2023-2024,Vermont,Level 1,Minimal
+2023-11-04,44,2023-2024,Virgin Islands,Level 3,Minimal
+2023-11-04,44,2023-2024,Virginia,Level 4,Low
+2023-11-04,44,2023-2024,Washington,Level 2,Minimal
+2023-11-04,44,2023-2024,West Virginia,Level 1,Minimal
+2023-11-04,44,2023-2024,Wisconsin,Level 3,Minimal
+2023-11-04,44,2023-2024,Wyoming,Level 8,High
+2023-10-28,43,2023-2024,Alabama,Level 5,Low
+2023-10-28,43,2023-2024,Alaska,Level 9,High
+2023-10-28,43,2023-2024,Arizona,Level 1,Minimal
+2023-10-28,43,2023-2024,Arkansas,Level 3,Minimal
+2023-10-28,43,2023-2024,California,Level 4,Low
+2023-10-28,43,2023-2024,Colorado,Level 2,Minimal
+2023-10-28,43,2023-2024,Commonwealth of the Northern Mariana Islands,Level 5,Low
+2023-10-28,43,2023-2024,Connecticut,Level 3,Minimal
+2023-10-28,43,2023-2024,Delaware,Level 1,Minimal
+2023-10-28,43,2023-2024,District of Columbia,Level 6,Moderate
+2023-10-28,43,2023-2024,Florida,Level 7,Moderate
+2023-10-28,43,2023-2024,Georgia,Level 6,Moderate
+2023-10-28,43,2023-2024,Hawaii,Level 3,Minimal
+2023-10-28,43,2023-2024,Idaho,Level 1,Minimal
+2023-10-28,43,2023-2024,Illinois,Level 2,Minimal
+2023-10-28,43,2023-2024,Indiana,Level 2,Minimal
+2023-10-28,43,2023-2024,Iowa,Level 1,Minimal
+2023-10-28,43,2023-2024,Kansas,Level 1,Minimal
+2023-10-28,43,2023-2024,Kentucky,Level 1,Minimal
+2023-10-28,43,2023-2024,Louisiana,Level 6,Moderate
+2023-10-28,43,2023-2024,Maine,Level 1,Minimal
+2023-10-28,43,2023-2024,Maryland,Level 4,Low
+2023-10-28,43,2023-2024,Massachusetts,Level 2,Minimal
+2023-10-28,43,2023-2024,Michigan,Level 1,Minimal
+2023-10-28,43,2023-2024,Minnesota,Level 1,Minimal
+2023-10-28,43,2023-2024,Mississippi,Level 6,Moderate
+2023-10-28,43,2023-2024,Missouri,Level 3,Minimal
+2023-10-28,43,2023-2024,Montana,Level 1,Minimal
+2023-10-28,43,2023-2024,Nebraska,Level 1,Minimal
+2023-10-28,43,2023-2024,Nevada,Level 2,Minimal
+2023-10-28,43,2023-2024,New Hampshire,Level 1,Minimal
+2023-10-28,43,2023-2024,New Jersey,Level 3,Minimal
+2023-10-28,43,2023-2024,New Mexico,Level 4,Low
+2023-10-28,43,2023-2024,New York,Level 1,Minimal
+2023-10-28,43,2023-2024,New York City,Level 5,Low
+2023-10-28,43,2023-2024,North Carolina,Level 3,Minimal
+2023-10-28,43,2023-2024,North Dakota,Level 2,Minimal
+2023-10-28,43,2023-2024,Ohio,Level 2,Minimal
+2023-10-28,43,2023-2024,Oklahoma,Level 1,Minimal
+2023-10-28,43,2023-2024,Oregon,Level 1,Minimal
+2023-10-28,43,2023-2024,Pennsylvania,Level 2,Minimal
+2023-10-28,43,2023-2024,Puerto Rico,Level 10,High
+2023-10-28,43,2023-2024,Rhode Island,Level 2,Minimal
+2023-10-28,43,2023-2024,South Carolina,Level 5,Low
+2023-10-28,43,2023-2024,South Dakota,Level 2,Minimal
+2023-10-28,43,2023-2024,Tennessee,Level 2,Minimal
+2023-10-28,43,2023-2024,Texas,Level 4,Low
+2023-10-28,43,2023-2024,Utah,Level 1,Minimal
+2023-10-28,43,2023-2024,Vermont,Level 1,Minimal
+2023-10-28,43,2023-2024,Virgin Islands,Level 3,Minimal
+2023-10-28,43,2023-2024,Virginia,Level 4,Low
+2023-10-28,43,2023-2024,Washington,Level 1,Minimal
+2023-10-28,43,2023-2024,West Virginia,Level 1,Minimal
+2023-10-28,43,2023-2024,Wisconsin,Level 2,Minimal
+2023-10-28,43,2023-2024,Wyoming,Level 7,Moderate
+2023-10-21,42,2023-2024,Alabama,Level 4,Low
+2023-10-21,42,2023-2024,Alaska,Level 9,High
+2023-10-21,42,2023-2024,Arizona,Level 1,Minimal
+2023-10-21,42,2023-2024,Arkansas,Level 4,Low
+2023-10-21,42,2023-2024,California,Level 3,Minimal
+2023-10-21,42,2023-2024,Colorado,Level 3,Minimal
+2023-10-21,42,2023-2024,Commonwealth of the Northern Mariana Islands,Level 4,Low
+2023-10-21,42,2023-2024,Connecticut,Level 2,Minimal
+2023-10-21,42,2023-2024,Delaware,Level 1,Minimal
+2023-10-21,42,2023-2024,District of Columbia,Level 6,Moderate
+2023-10-21,42,2023-2024,Florida,Level 6,Moderate
+2023-10-21,42,2023-2024,Georgia,Level 5,Low
+2023-10-21,42,2023-2024,Hawaii,Level 3,Minimal
+2023-10-21,42,2023-2024,Idaho,Level 1,Minimal
+2023-10-21,42,2023-2024,Illinois,Level 1,Minimal
+2023-10-21,42,2023-2024,Indiana,Level 2,Minimal
+2023-10-21,42,2023-2024,Iowa,Level 1,Minimal
+2023-10-21,42,2023-2024,Kansas,Level 1,Minimal
+2023-10-21,42,2023-2024,Kentucky,Level 1,Minimal
+2023-10-21,42,2023-2024,Louisiana,Level 5,Low
+2023-10-21,42,2023-2024,Maine,Level 1,Minimal
+2023-10-21,42,2023-2024,Maryland,Level 3,Minimal
+2023-10-21,42,2023-2024,Massachusetts,Level 2,Minimal
+2023-10-21,42,2023-2024,Michigan,Level 1,Minimal
+2023-10-21,42,2023-2024,Minnesota,Level 1,Minimal
+2023-10-21,42,2023-2024,Mississippi,Level 3,Minimal
+2023-10-21,42,2023-2024,Missouri,Level 1,Minimal
+2023-10-21,42,2023-2024,Montana,Level 1,Minimal
+2023-10-21,42,2023-2024,Nebraska,Level 1,Minimal
+2023-10-21,42,2023-2024,Nevada,Level 1,Minimal
+2023-10-21,42,2023-2024,New Hampshire,Level 1,Minimal
+2023-10-21,42,2023-2024,New Jersey,Level 3,Minimal
+2023-10-21,42,2023-2024,New Mexico,Level 3,Minimal
+2023-10-21,42,2023-2024,New York,Level 1,Minimal
+2023-10-21,42,2023-2024,New York City,Level 4,Low
+2023-10-21,42,2023-2024,North Carolina,Level 3,Minimal
+2023-10-21,42,2023-2024,North Dakota,Level 1,Minimal
+2023-10-21,42,2023-2024,Ohio,Level 2,Minimal
+2023-10-21,42,2023-2024,Oklahoma,Level 1,Minimal
+2023-10-21,42,2023-2024,Oregon,Level 1,Minimal
+2023-10-21,42,2023-2024,Pennsylvania,Level 2,Minimal
+2023-10-21,42,2023-2024,Puerto Rico,Level 5,Low
+2023-10-21,42,2023-2024,Rhode Island,Level 1,Minimal
+2023-10-21,42,2023-2024,South Carolina,Level 4,Low
+2023-10-21,42,2023-2024,South Dakota,Level 1,Minimal
+2023-10-21,42,2023-2024,Tennessee,Level 2,Minimal
+2023-10-21,42,2023-2024,Texas,Level 3,Minimal
+2023-10-21,42,2023-2024,Utah,Level 1,Minimal
+2023-10-21,42,2023-2024,Vermont,Level 1,Minimal
+2023-10-21,42,2023-2024,Virgin Islands,Level 2,Minimal
+2023-10-21,42,2023-2024,Virginia,Level 3,Minimal
+2023-10-21,42,2023-2024,Washington,Level 1,Minimal
+2023-10-21,42,2023-2024,West Virginia,Level 1,Minimal
+2023-10-21,42,2023-2024,Wisconsin,Level 2,Minimal
+2023-10-21,42,2023-2024,Wyoming,Level 8,High
+2023-10-14,41,2023-2024,Alabama,Level 3,Minimal
+2023-10-14,41,2023-2024,Alaska,Level 10,High
+2023-10-14,41,2023-2024,Arizona,Level 1,Minimal
+2023-10-14,41,2023-2024,Arkansas,Level 2,Minimal
+2023-10-14,41,2023-2024,California,Level 2,Minimal
+2023-10-14,41,2023-2024,Colorado,Level 2,Minimal
+2023-10-14,41,2023-2024,Commonwealth of the Northern Mariana Islands,Level 8,High
+2023-10-14,41,2023-2024,Connecticut,Level 2,Minimal
+2023-10-14,41,2023-2024,Delaware,Level 1,Minimal
+2023-10-14,41,2023-2024,District of Columbia,Level 4,Low
+2023-10-14,41,2023-2024,Florida,Level 5,Low
+2023-10-14,41,2023-2024,Georgia,Level 5,Low
+2023-10-14,41,2023-2024,Hawaii,Level 2,Minimal
+2023-10-14,41,2023-2024,Idaho,Level 1,Minimal
+2023-10-14,41,2023-2024,Illinois,Level 1,Minimal
+2023-10-14,41,2023-2024,Indiana,Level 2,Minimal
+2023-10-14,41,2023-2024,Iowa,Level 2,Minimal
+2023-10-14,41,2023-2024,Kansas,Level 1,Minimal
+2023-10-14,41,2023-2024,Kentucky,Level 1,Minimal
+2023-10-14,41,2023-2024,Louisiana,Level 3,Minimal
+2023-10-14,41,2023-2024,Maine,Level 1,Minimal
+2023-10-14,41,2023-2024,Maryland,Level 3,Minimal
+2023-10-14,41,2023-2024,Massachusetts,Level 1,Minimal
+2023-10-14,41,2023-2024,Michigan,Level 1,Minimal
+2023-10-14,41,2023-2024,Minnesota,Level 1,Minimal
+2023-10-14,41,2023-2024,Mississippi,Level 3,Minimal
+2023-10-14,41,2023-2024,Missouri,Level 2,Minimal
+2023-10-14,41,2023-2024,Montana,Level 1,Minimal
+2023-10-14,41,2023-2024,Nebraska,Level 1,Minimal
+2023-10-14,41,2023-2024,Nevada,Level 1,Minimal
+2023-10-14,41,2023-2024,New Hampshire,Level 1,Minimal
+2023-10-14,41,2023-2024,New Jersey,Level 3,Minimal
+2023-10-14,41,2023-2024,New Mexico,Level 2,Minimal
+2023-10-14,41,2023-2024,New York,Level 1,Minimal
+2023-10-14,41,2023-2024,New York City,Level 3,Minimal
+2023-10-14,41,2023-2024,North Carolina,Level 3,Minimal
+2023-10-14,41,2023-2024,North Dakota,Level 2,Minimal
+2023-10-14,41,2023-2024,Ohio,Level 1,Minimal
+2023-10-14,41,2023-2024,Oklahoma,Level 1,Minimal
+2023-10-14,41,2023-2024,Oregon,Level 1,Minimal
+2023-10-14,41,2023-2024,Pennsylvania,Level 1,Minimal
+2023-10-14,41,2023-2024,Puerto Rico,Level 5,Low
+2023-10-14,41,2023-2024,Rhode Island,Level 2,Minimal
+2023-10-14,41,2023-2024,South Carolina,Level 3,Minimal
+2023-10-14,41,2023-2024,South Dakota,Level 1,Minimal
+2023-10-14,41,2023-2024,Tennessee,Level 2,Minimal
+2023-10-14,41,2023-2024,Texas,Level 2,Minimal
+2023-10-14,41,2023-2024,Utah,Level 1,Minimal
+2023-10-14,41,2023-2024,Vermont,Level 1,Minimal
+2023-10-14,41,2023-2024,Virgin Islands,Level 2,Minimal
+2023-10-14,41,2023-2024,Virginia,Level 3,Minimal
+2023-10-14,41,2023-2024,Washington,Level 1,Minimal
+2023-10-14,41,2023-2024,West Virginia,Level 1,Minimal
+2023-10-14,41,2023-2024,Wisconsin,Level 2,Minimal
+2023-10-14,41,2023-2024,Wyoming,Level 5,Low
+2023-10-07,40,2023-2024,Alabama,Level 2,Minimal
+2023-10-07,40,2023-2024,Alaska,Level 7,Moderate
+2023-10-07,40,2023-2024,Arizona,Level 1,Minimal
+2023-10-07,40,2023-2024,Arkansas,Level 1,Minimal
+2023-10-07,40,2023-2024,California,Level 2,Minimal
+2023-10-07,40,2023-2024,Colorado,Level 1,Minimal
+2023-10-07,40,2023-2024,Commonwealth of the Northern Mariana Islands,Level 10,High
+2023-10-07,40,2023-2024,Connecticut,Level 2,Minimal
+2023-10-07,40,2023-2024,Delaware,Level 1,Minimal
+2023-10-07,40,2023-2024,District of Columbia,Level 4,Low
+2023-10-07,40,2023-2024,Florida,Level 4,Low
+2023-10-07,40,2023-2024,Georgia,Level 4,Low
+2023-10-07,40,2023-2024,Hawaii,Level 1,Minimal
+2023-10-07,40,2023-2024,Idaho,Level 1,Minimal
+2023-10-07,40,2023-2024,Illinois,Level 1,Minimal
+2023-10-07,40,2023-2024,Indiana,Level 2,Minimal
+2023-10-07,40,2023-2024,Iowa,Level 1,Minimal
+2023-10-07,40,2023-2024,Kansas,Level 1,Minimal
+2023-10-07,40,2023-2024,Kentucky,Level 1,Minimal
+2023-10-07,40,2023-2024,Louisiana,Level 3,Minimal
+2023-10-07,40,2023-2024,Maine,Level 1,Minimal
+2023-10-07,40,2023-2024,Maryland,Level 3,Minimal
+2023-10-07,40,2023-2024,Massachusetts,Level 2,Minimal
+2023-10-07,40,2023-2024,Michigan,Level 1,Minimal
+2023-10-07,40,2023-2024,Minnesota,Level 1,Minimal
+2023-10-07,40,2023-2024,Mississippi,Level 3,Minimal
+2023-10-07,40,2023-2024,Missouri,Level 2,Minimal
+2023-10-07,40,2023-2024,Montana,Level 1,Minimal
+2023-10-07,40,2023-2024,Nebraska,Level 1,Minimal
+2023-10-07,40,2023-2024,Nevada,Level 1,Minimal
+2023-10-07,40,2023-2024,New Hampshire,Level 1,Minimal
+2023-10-07,40,2023-2024,New Jersey,Level 2,Minimal
+2023-10-07,40,2023-2024,New Mexico,Level 2,Minimal
+2023-10-07,40,2023-2024,New York,Level 1,Minimal
+2023-10-07,40,2023-2024,New York City,Level 4,Low
+2023-10-07,40,2023-2024,North Carolina,Level 2,Minimal
+2023-10-07,40,2023-2024,North Dakota,Level 1,Minimal
+2023-10-07,40,2023-2024,Ohio,Level 1,Minimal
+2023-10-07,40,2023-2024,Oklahoma,Level 2,Minimal
+2023-10-07,40,2023-2024,Oregon,Level 1,Minimal
+2023-10-07,40,2023-2024,Pennsylvania,Level 1,Minimal
+2023-10-07,40,2023-2024,Puerto Rico,Level 7,Moderate
+2023-10-07,40,2023-2024,Rhode Island,Level 2,Minimal
+2023-10-07,40,2023-2024,South Carolina,Level 3,Minimal
+2023-10-07,40,2023-2024,South Dakota,Level 1,Minimal
+2023-10-07,40,2023-2024,Tennessee,Level 2,Minimal
+2023-10-07,40,2023-2024,Texas,Level 2,Minimal
+2023-10-07,40,2023-2024,Utah,Level 1,Minimal
+2023-10-07,40,2023-2024,Vermont,Level 1,Minimal
+2023-10-07,40,2023-2024,Virgin Islands,Level 4,Low
+2023-10-07,40,2023-2024,Virginia,Level 2,Minimal
+2023-10-07,40,2023-2024,Washington,Level 1,Minimal
+2023-10-07,40,2023-2024,West Virginia,Level 1,Minimal
+2023-10-07,40,2023-2024,Wisconsin,Level 2,Minimal
+2023-10-07,40,2023-2024,Wyoming,Level 3,Minimal
+2023-09-30,39,2022-2023,Alabama,Level 3,Minimal
+2023-09-30,39,2022-2023,Alaska,Level 2,Minimal
+2023-09-30,39,2022-2023,Arizona,Level 1,Minimal
+2023-09-30,39,2022-2023,Arkansas,Level 1,Minimal
+2023-09-30,39,2022-2023,California,Level 4,Low
+2023-09-30,39,2022-2023,Colorado,Level 1,Minimal
+2023-09-30,39,2022-2023,Commonwealth of the Northern Mariana Islands,Level 8,High
+2023-09-30,39,2022-2023,Connecticut,Level 3,Minimal
+2023-09-30,39,2022-2023,Delaware,Level 1,Minimal
+2023-09-30,39,2022-2023,District of Columbia,Level 10,High
+2023-09-30,39,2022-2023,Florida,Level 5,Low
+2023-09-30,39,2022-2023,Georgia,Level 6,Moderate
+2023-09-30,39,2022-2023,Hawaii,Level 3,Minimal
+2023-09-30,39,2022-2023,Idaho,Level 1,Minimal
+2023-09-30,39,2022-2023,Illinois,Level 1,Minimal
+2023-09-30,39,2022-2023,Indiana,Level 2,Minimal
+2023-09-30,39,2022-2023,Iowa,Level 1,Minimal
+2023-09-30,39,2022-2023,Kansas,Level 1,Minimal
+2023-09-30,39,2022-2023,Kentucky,Level 3,Minimal
+2023-09-30,39,2022-2023,Louisiana,Level 3,Minimal
+2023-09-30,39,2022-2023,Maine,Level 1,Minimal
+2023-09-30,39,2022-2023,Maryland,Level 2,Minimal
+2023-09-30,39,2022-2023,Massachusetts,Level 2,Minimal
+2023-09-30,39,2022-2023,Michigan,Level 1,Minimal
+2023-09-30,39,2022-2023,Minnesota,Level 1,Minimal
+2023-09-30,39,2022-2023,Mississippi,Level 2,Minimal
+2023-09-30,39,2022-2023,Missouri,Level 2,Minimal
+2023-09-30,39,2022-2023,Montana,Level 1,Minimal
+2023-09-30,39,2022-2023,Nebraska,Level 1,Minimal
+2023-09-30,39,2022-2023,Nevada,Level 1,Minimal
+2023-09-30,39,2022-2023,New Hampshire,Level 1,Minimal
+2023-09-30,39,2022-2023,New Jersey,Level 4,Low
+2023-09-30,39,2022-2023,New Mexico,Level 6,Moderate
+2023-09-30,39,2022-2023,New York,Level 2,Minimal
+2023-09-30,39,2022-2023,New York City,Level 10,High
+2023-09-30,39,2022-2023,North Carolina,Level 3,Minimal
+2023-09-30,39,2022-2023,North Dakota,Level 1,Minimal
+2023-09-30,39,2022-2023,Ohio,Level 1,Minimal
+2023-09-30,39,2022-2023,Oklahoma,Level 2,Minimal
+2023-09-30,39,2022-2023,Oregon,Level 1,Minimal
+2023-09-30,39,2022-2023,Pennsylvania,Level 2,Minimal
+2023-09-30,39,2022-2023,Puerto Rico,Level 4,Low
+2023-09-30,39,2022-2023,Rhode Island,Level 2,Minimal
+2023-09-30,39,2022-2023,South Carolina,Level 3,Minimal
+2023-09-30,39,2022-2023,South Dakota,Level 1,Minimal
+2023-09-30,39,2022-2023,Tennessee,Level 2,Minimal
+2023-09-30,39,2022-2023,Texas,Level 4,Low
+2023-09-30,39,2022-2023,Utah,Level 1,Minimal
+2023-09-30,39,2022-2023,Vermont,Level 1,Minimal
+2023-09-30,39,2022-2023,Virgin Islands,Level 1,Minimal
+2023-09-30,39,2022-2023,Virginia,Level 4,Low
+2023-09-30,39,2022-2023,Washington,Level 1,Minimal
+2023-09-30,39,2022-2023,West Virginia,Level 1,Minimal
+2023-09-30,39,2022-2023,Wisconsin,Level 2,Minimal
+2023-09-30,39,2022-2023,Wyoming,Level 3,Minimal
+2023-09-23,38,2022-2023,Alabama,Level 3,Minimal
+2023-09-23,38,2022-2023,Alaska,Level 2,Minimal
+2023-09-23,38,2022-2023,Arizona,Level 1,Minimal
+2023-09-23,38,2022-2023,Arkansas,Level 2,Minimal
+2023-09-23,38,2022-2023,California,Level 4,Low
+2023-09-23,38,2022-2023,Colorado,Level 1,Minimal
+2023-09-23,38,2022-2023,Commonwealth of the Northern Mariana Islands,Level 8,High
+2023-09-23,38,2022-2023,Connecticut,Level 3,Minimal
+2023-09-23,38,2022-2023,Delaware,Level 1,Minimal
+2023-09-23,38,2022-2023,District of Columbia,Level 10,High
+2023-09-23,38,2022-2023,Florida,Level 4,Low
+2023-09-23,38,2022-2023,Georgia,Level 5,Low
+2023-09-23,38,2022-2023,Hawaii,Level 3,Minimal
+2023-09-23,38,2022-2023,Idaho,Level 1,Minimal
+2023-09-23,38,2022-2023,Illinois,Level 1,Minimal
+2023-09-23,38,2022-2023,Indiana,Level 3,Minimal
+2023-09-23,38,2022-2023,Iowa,Level 1,Minimal
+2023-09-23,38,2022-2023,Kansas,Level 1,Minimal
+2023-09-23,38,2022-2023,Kentucky,Level 2,Minimal
+2023-09-23,38,2022-2023,Louisiana,Level 3,Minimal
+2023-09-23,38,2022-2023,Maine,Level 1,Minimal
+2023-09-23,38,2022-2023,Maryland,Level 2,Minimal
+2023-09-23,38,2022-2023,Massachusetts,Level 1,Minimal
+2023-09-23,38,2022-2023,Michigan,Level 1,Minimal
+2023-09-23,38,2022-2023,Minnesota,Level 1,Minimal
+2023-09-23,38,2022-2023,Mississippi,Level 4,Low
+2023-09-23,38,2022-2023,Missouri,Level 2,Minimal
+2023-09-23,38,2022-2023,Montana,Level 1,Minimal
+2023-09-23,38,2022-2023,Nebraska,Level 1,Minimal
+2023-09-23,38,2022-2023,Nevada,Level 1,Minimal
+2023-09-23,38,2022-2023,New Hampshire,Level 1,Minimal
+2023-09-23,38,2022-2023,New Jersey,Level 3,Minimal
+2023-09-23,38,2022-2023,New Mexico,Level 5,Low
+2023-09-23,38,2022-2023,New York,Level 2,Minimal
+2023-09-23,38,2022-2023,New York City,Level 9,High
+2023-09-23,38,2022-2023,North Carolina,Level 4,Low
+2023-09-23,38,2022-2023,North Dakota,Level 3,Minimal
+2023-09-23,38,2022-2023,Ohio,Level 1,Minimal
+2023-09-23,38,2022-2023,Oklahoma,Level 1,Minimal
+2023-09-23,38,2022-2023,Oregon,Level 1,Minimal
+2023-09-23,38,2022-2023,Pennsylvania,Level 2,Minimal
+2023-09-23,38,2022-2023,Puerto Rico,Level 4,Low
+2023-09-23,38,2022-2023,Rhode Island,Level 2,Minimal
+2023-09-23,38,2022-2023,South Carolina,Level 3,Minimal
+2023-09-23,38,2022-2023,South Dakota,Level 1,Minimal
+2023-09-23,38,2022-2023,Tennessee,Level 2,Minimal
+2023-09-23,38,2022-2023,Texas,Level 3,Minimal
+2023-09-23,38,2022-2023,Utah,Level 1,Minimal
+2023-09-23,38,2022-2023,Vermont,Level 1,Minimal
+2023-09-23,38,2022-2023,Virgin Islands,Level 1,Minimal
+2023-09-23,38,2022-2023,Virginia,Level 4,Low
+2023-09-23,38,2022-2023,Washington,Level 1,Minimal
+2023-09-23,38,2022-2023,West Virginia,Level 3,Minimal
+2023-09-23,38,2022-2023,Wisconsin,Level 2,Minimal
+2023-09-23,38,2022-2023,Wyoming,Level 4,Low
+2023-09-16,37,2022-2023,Alabama,Level 3,Minimal
+2023-09-16,37,2022-2023,Alaska,Level 2,Minimal
+2023-09-16,37,2022-2023,Arizona,Level 1,Minimal
+2023-09-16,37,2022-2023,Arkansas,Level 2,Minimal
+2023-09-16,37,2022-2023,California,Level 3,Minimal
+2023-09-16,37,2022-2023,Colorado,Level 1,Minimal
+2023-09-16,37,2022-2023,Commonwealth of the Northern Mariana Islands,Level 7,Moderate
+2023-09-16,37,2022-2023,Connecticut,Level 2,Minimal
+2023-09-16,37,2022-2023,Delaware,Level 1,Minimal
+2023-09-16,37,2022-2023,District of Columbia,Level 10,High
+2023-09-16,37,2022-2023,Florida,Level 4,Low
+2023-09-16,37,2022-2023,Georgia,Level 4,Low
+2023-09-16,37,2022-2023,Hawaii,Level 3,Minimal
+2023-09-16,37,2022-2023,Idaho,Level 1,Minimal
+2023-09-16,37,2022-2023,Illinois,Level 1,Minimal
+2023-09-16,37,2022-2023,Indiana,Level 2,Minimal
+2023-09-16,37,2022-2023,Iowa,Level 1,Minimal
+2023-09-16,37,2022-2023,Kansas,Level 1,Minimal
+2023-09-16,37,2022-2023,Kentucky,Level 2,Minimal
+2023-09-16,37,2022-2023,Louisiana,Level 3,Minimal
+2023-09-16,37,2022-2023,Maine,Level 1,Minimal
+2023-09-16,37,2022-2023,Maryland,Level 1,Minimal
+2023-09-16,37,2022-2023,Massachusetts,Level 1,Minimal
+2023-09-16,37,2022-2023,Michigan,Level 1,Minimal
+2023-09-16,37,2022-2023,Minnesota,Level 1,Minimal
+2023-09-16,37,2022-2023,Mississippi,Level 2,Minimal
+2023-09-16,37,2022-2023,Missouri,Level 2,Minimal
+2023-09-16,37,2022-2023,Montana,Level 1,Minimal
+2023-09-16,37,2022-2023,Nebraska,Level 1,Minimal
+2023-09-16,37,2022-2023,Nevada,Level 1,Minimal
+2023-09-16,37,2022-2023,New Hampshire,Level 1,Minimal
+2023-09-16,37,2022-2023,New Jersey,Level 2,Minimal
+2023-09-16,37,2022-2023,New Mexico,Level 4,Low
+2023-09-16,37,2022-2023,New York,Level 1,Minimal
+2023-09-16,37,2022-2023,New York City,Level 6,Moderate
+2023-09-16,37,2022-2023,North Carolina,Level 3,Minimal
+2023-09-16,37,2022-2023,North Dakota,Level 3,Minimal
+2023-09-16,37,2022-2023,Ohio,Level 1,Minimal
+2023-09-16,37,2022-2023,Oklahoma,Level 1,Minimal
+2023-09-16,37,2022-2023,Oregon,Level 1,Minimal
+2023-09-16,37,2022-2023,Pennsylvania,Level 1,Minimal
+2023-09-16,37,2022-2023,Puerto Rico,Level 1,Minimal
+2023-09-16,37,2022-2023,Rhode Island,Level 1,Minimal
+2023-09-16,37,2022-2023,South Carolina,Level 4,Low
+2023-09-16,37,2022-2023,South Dakota,Level 1,Minimal
+2023-09-16,37,2022-2023,Tennessee,Level 2,Minimal
+2023-09-16,37,2022-2023,Texas,Level 5,Low
+2023-09-16,37,2022-2023,Utah,Level 1,Minimal
+2023-09-16,37,2022-2023,Vermont,Level 1,Minimal
+2023-09-16,37,2022-2023,Virgin Islands,Level 3,Minimal
+2023-09-16,37,2022-2023,Virginia,Level 4,Low
+2023-09-16,37,2022-2023,Washington,Level 1,Minimal
+2023-09-16,37,2022-2023,West Virginia,Level 2,Minimal
+2023-09-16,37,2022-2023,Wisconsin,Level 1,Minimal
+2023-09-16,37,2022-2023,Wyoming,Level 4,Low
+2023-09-09,36,2022-2023,Alabama,Level 4,Low
+2023-09-09,36,2022-2023,Alaska,Level 1,Minimal
+2023-09-09,36,2022-2023,Arizona,Level 1,Minimal
+2023-09-09,36,2022-2023,Arkansas,Level 3,Minimal
+2023-09-09,36,2022-2023,California,Level 4,Low
+2023-09-09,36,2022-2023,Colorado,Level 1,Minimal
+2023-09-09,36,2022-2023,Commonwealth of the Northern Mariana Islands,Level 6,Moderate
+2023-09-09,36,2022-2023,Connecticut,Level 1,Minimal
+2023-09-09,36,2022-2023,Delaware,Level 1,Minimal
+2023-09-09,36,2022-2023,District of Columbia,Level 9,High
+2023-09-09,36,2022-2023,Florida,Level 5,Low
+2023-09-09,36,2022-2023,Georgia,Level 4,Low
+2023-09-09,36,2022-2023,Hawaii,Level 4,Low
+2023-09-09,36,2022-2023,Idaho,Level 1,Minimal
+2023-09-09,36,2022-2023,Illinois,Level 1,Minimal
+2023-09-09,36,2022-2023,Indiana,Level 2,Minimal
+2023-09-09,36,2022-2023,Iowa,Level 1,Minimal
+2023-09-09,36,2022-2023,Kansas,Level 1,Minimal
+2023-09-09,36,2022-2023,Kentucky,Level 3,Minimal
+2023-09-09,36,2022-2023,Louisiana,Level 4,Low
+2023-09-09,36,2022-2023,Maine,Level 1,Minimal
+2023-09-09,36,2022-2023,Maryland,Level 1,Minimal
+2023-09-09,36,2022-2023,Massachusetts,Level 1,Minimal
+2023-09-09,36,2022-2023,Michigan,Level 1,Minimal
+2023-09-09,36,2022-2023,Minnesota,Level 1,Minimal
+2023-09-09,36,2022-2023,Mississippi,Level 3,Minimal
+2023-09-09,36,2022-2023,Missouri,Level 3,Minimal
+2023-09-09,36,2022-2023,Montana,Level 1,Minimal
+2023-09-09,36,2022-2023,Nebraska,Level 1,Minimal
+2023-09-09,36,2022-2023,Nevada,Level 1,Minimal
+2023-09-09,36,2022-2023,New Hampshire,Level 1,Minimal
+2023-09-09,36,2022-2023,New Jersey,Level 1,Minimal
+2023-09-09,36,2022-2023,New Mexico,Level 5,Low
+2023-09-09,36,2022-2023,New York,Level 1,Minimal
+2023-09-09,36,2022-2023,New York City,Level 5,Low
+2023-09-09,36,2022-2023,North Carolina,Level 3,Minimal
+2023-09-09,36,2022-2023,North Dakota,Level 2,Minimal
+2023-09-09,36,2022-2023,Ohio,Level 1,Minimal
+2023-09-09,36,2022-2023,Oklahoma,Level 1,Minimal
+2023-09-09,36,2022-2023,Oregon,Level 1,Minimal
+2023-09-09,36,2022-2023,Pennsylvania,Level 1,Minimal
+2023-09-09,36,2022-2023,Puerto Rico,Level 1,Minimal
+2023-09-09,36,2022-2023,Rhode Island,Level 1,Minimal
+2023-09-09,36,2022-2023,South Carolina,Level 3,Minimal
+2023-09-09,36,2022-2023,South Dakota,Level 1,Minimal
+2023-09-09,36,2022-2023,Tennessee,Level 2,Minimal
+2023-09-09,36,2022-2023,Texas,Level 7,Moderate
+2023-09-09,36,2022-2023,Utah,Level 1,Minimal
+2023-09-09,36,2022-2023,Vermont,Level 1,Minimal
+2023-09-09,36,2022-2023,Virgin Islands,Level 2,Minimal
+2023-09-09,36,2022-2023,Virginia,Level 4,Low
+2023-09-09,36,2022-2023,Washington,Level 1,Minimal
+2023-09-09,36,2022-2023,West Virginia,Level 2,Minimal
+2023-09-09,36,2022-2023,Wisconsin,Level 1,Minimal
+2023-09-09,36,2022-2023,Wyoming,Level 3,Minimal
+2023-09-02,35,2022-2023,Alabama,Level 5,Low
+2023-09-02,35,2022-2023,Alaska,Level 1,Minimal
+2023-09-02,35,2022-2023,Arizona,Level 1,Minimal
+2023-09-02,35,2022-2023,Arkansas,Level 3,Minimal
+2023-09-02,35,2022-2023,California,Level 3,Minimal
+2023-09-02,35,2022-2023,Colorado,Level 1,Minimal
+2023-09-02,35,2022-2023,Commonwealth of the Northern Mariana Islands,Level 4,Low
+2023-09-02,35,2022-2023,Connecticut,Level 1,Minimal
+2023-09-02,35,2022-2023,Delaware,Level 1,Minimal
+2023-09-02,35,2022-2023,District of Columbia,Level 5,Low
+2023-09-02,35,2022-2023,Florida,Level 5,Low
+2023-09-02,35,2022-2023,Georgia,Level 5,Low
+2023-09-02,35,2022-2023,Hawaii,Level 3,Minimal
+2023-09-02,35,2022-2023,Idaho,Level 1,Minimal
+2023-09-02,35,2022-2023,Illinois,Level 1,Minimal
+2023-09-02,35,2022-2023,Indiana,Level 2,Minimal
+2023-09-02,35,2022-2023,Iowa,Level 1,Minimal
+2023-09-02,35,2022-2023,Kansas,Level 1,Minimal
+2023-09-02,35,2022-2023,Kentucky,Level 3,Minimal
+2023-09-02,35,2022-2023,Louisiana,Level 4,Low
+2023-09-02,35,2022-2023,Maine,Level 1,Minimal
+2023-09-02,35,2022-2023,Maryland,Level 1,Minimal
+2023-09-02,35,2022-2023,Massachusetts,Level 1,Minimal
+2023-09-02,35,2022-2023,Michigan,Level 1,Minimal
+2023-09-02,35,2022-2023,Minnesota,Level 1,Minimal
+2023-09-02,35,2022-2023,Mississippi,Level 5,Low
+2023-09-02,35,2022-2023,Missouri,Level 2,Minimal
+2023-09-02,35,2022-2023,Montana,Level 1,Minimal
+2023-09-02,35,2022-2023,Nebraska,Level 1,Minimal
+2023-09-02,35,2022-2023,Nevada,Level 1,Minimal
+2023-09-02,35,2022-2023,New Hampshire,Level 1,Minimal
+2023-09-02,35,2022-2023,New Jersey,Level 1,Minimal
+2023-09-02,35,2022-2023,New Mexico,Level 4,Low
+2023-09-02,35,2022-2023,New York,Level 1,Minimal
+2023-09-02,35,2022-2023,New York City,Level 5,Low
+2023-09-02,35,2022-2023,North Carolina,Level 2,Minimal
+2023-09-02,35,2022-2023,North Dakota,Level 1,Minimal
+2023-09-02,35,2022-2023,Ohio,Level 1,Minimal
+2023-09-02,35,2022-2023,Oklahoma,Level 1,Minimal
+2023-09-02,35,2022-2023,Oregon,Level 1,Minimal
+2023-09-02,35,2022-2023,Pennsylvania,Level 1,Minimal
+2023-09-02,35,2022-2023,Puerto Rico,Level 1,Minimal
+2023-09-02,35,2022-2023,Rhode Island,Level 1,Minimal
+2023-09-02,35,2022-2023,South Carolina,Level 3,Minimal
+2023-09-02,35,2022-2023,South Dakota,Level 1,Minimal
+2023-09-02,35,2022-2023,Tennessee,Level 3,Minimal
+2023-09-02,35,2022-2023,Texas,Level 7,Moderate
+2023-09-02,35,2022-2023,Utah,Level 1,Minimal
+2023-09-02,35,2022-2023,Vermont,Level 1,Minimal
+2023-09-02,35,2022-2023,Virgin Islands,Level 1,Minimal
+2023-09-02,35,2022-2023,Virginia,Level 3,Minimal
+2023-09-02,35,2022-2023,Washington,Level 1,Minimal
+2023-09-02,35,2022-2023,West Virginia,Level 2,Minimal
+2023-09-02,35,2022-2023,Wisconsin,Level 1,Minimal
+2023-09-02,35,2022-2023,Wyoming,Level 1,Minimal
+2023-08-26,34,2022-2023,Alabama,Level 5,Low
+2023-08-26,34,2022-2023,Alaska,Level 1,Minimal
+2023-08-26,34,2022-2023,Arizona,Level 1,Minimal
+2023-08-26,34,2022-2023,Arkansas,Level 1,Minimal
+2023-08-26,34,2022-2023,California,Level 3,Minimal
+2023-08-26,34,2022-2023,Colorado,Level 1,Minimal
+2023-08-26,34,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-08-26,34,2022-2023,Connecticut,Level 1,Minimal
+2023-08-26,34,2022-2023,Delaware,Level 1,Minimal
+2023-08-26,34,2022-2023,District of Columbia,Level 4,Low
+2023-08-26,34,2022-2023,Florida,Level 5,Low
+2023-08-26,34,2022-2023,Georgia,Level 6,Moderate
+2023-08-26,34,2022-2023,Hawaii,Level 3,Minimal
+2023-08-26,34,2022-2023,Idaho,Level 1,Minimal
+2023-08-26,34,2022-2023,Illinois,Level 1,Minimal
+2023-08-26,34,2022-2023,Indiana,Level 2,Minimal
+2023-08-26,34,2022-2023,Iowa,Level 1,Minimal
+2023-08-26,34,2022-2023,Kansas,Level 1,Minimal
+2023-08-26,34,2022-2023,Kentucky,Level 2,Minimal
+2023-08-26,34,2022-2023,Louisiana,Level 3,Minimal
+2023-08-26,34,2022-2023,Maine,Level 1,Minimal
+2023-08-26,34,2022-2023,Maryland,Level 1,Minimal
+2023-08-26,34,2022-2023,Massachusetts,Level 1,Minimal
+2023-08-26,34,2022-2023,Michigan,Level 1,Minimal
+2023-08-26,34,2022-2023,Minnesota,Level 1,Minimal
+2023-08-26,34,2022-2023,Mississippi,Level 5,Low
+2023-08-26,34,2022-2023,Missouri,Level 1,Minimal
+2023-08-26,34,2022-2023,Montana,Level 1,Minimal
+2023-08-26,34,2022-2023,Nebraska,Level 1,Minimal
+2023-08-26,34,2022-2023,Nevada,Level 1,Minimal
+2023-08-26,34,2022-2023,New Hampshire,Level 1,Minimal
+2023-08-26,34,2022-2023,New Jersey,Level 1,Minimal
+2023-08-26,34,2022-2023,New Mexico,Level 4,Low
+2023-08-26,34,2022-2023,New York,Level 1,Minimal
+2023-08-26,34,2022-2023,New York City,Level 4,Low
+2023-08-26,34,2022-2023,North Carolina,Level 2,Minimal
+2023-08-26,34,2022-2023,North Dakota,Level 1,Minimal
+2023-08-26,34,2022-2023,Ohio,Level 1,Minimal
+2023-08-26,34,2022-2023,Oklahoma,Level 1,Minimal
+2023-08-26,34,2022-2023,Oregon,Level 1,Minimal
+2023-08-26,34,2022-2023,Pennsylvania,Level 1,Minimal
+2023-08-26,34,2022-2023,Puerto Rico,Level 1,Minimal
+2023-08-26,34,2022-2023,Rhode Island,Level 1,Minimal
+2023-08-26,34,2022-2023,South Carolina,Level 3,Minimal
+2023-08-26,34,2022-2023,South Dakota,Level 1,Minimal
+2023-08-26,34,2022-2023,Tennessee,Level 2,Minimal
+2023-08-26,34,2022-2023,Texas,Level 4,Low
+2023-08-26,34,2022-2023,Utah,Level 1,Minimal
+2023-08-26,34,2022-2023,Vermont,Level 1,Minimal
+2023-08-26,34,2022-2023,Virgin Islands,Level 2,Minimal
+2023-08-26,34,2022-2023,Virginia,Level 2,Minimal
+2023-08-26,34,2022-2023,Washington,Level 1,Minimal
+2023-08-26,34,2022-2023,West Virginia,Level 1,Minimal
+2023-08-26,34,2022-2023,Wisconsin,Level 1,Minimal
+2023-08-26,34,2022-2023,Wyoming,Level 1,Minimal
+2023-08-19,33,2022-2023,Alabama,Level 2,Minimal
+2023-08-19,33,2022-2023,Alaska,Level 1,Minimal
+2023-08-19,33,2022-2023,Arizona,Level 1,Minimal
+2023-08-19,33,2022-2023,Arkansas,Level 1,Minimal
+2023-08-19,33,2022-2023,California,Level 2,Minimal
+2023-08-19,33,2022-2023,Colorado,Level 1,Minimal
+2023-08-19,33,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-08-19,33,2022-2023,Connecticut,Level 1,Minimal
+2023-08-19,33,2022-2023,Delaware,Level 1,Minimal
+2023-08-19,33,2022-2023,District of Columbia,Level 3,Minimal
+2023-08-19,33,2022-2023,Florida,Level 3,Minimal
+2023-08-19,33,2022-2023,Georgia,Level 5,Low
+2023-08-19,33,2022-2023,Hawaii,Level 1,Minimal
+2023-08-19,33,2022-2023,Idaho,Level 1,Minimal
+2023-08-19,33,2022-2023,Illinois,Level 1,Minimal
+2023-08-19,33,2022-2023,Indiana,Level 1,Minimal
+2023-08-19,33,2022-2023,Iowa,Level 1,Minimal
+2023-08-19,33,2022-2023,Kansas,Level 1,Minimal
+2023-08-19,33,2022-2023,Kentucky,Level 1,Minimal
+2023-08-19,33,2022-2023,Louisiana,Level 1,Minimal
+2023-08-19,33,2022-2023,Maine,Level 1,Minimal
+2023-08-19,33,2022-2023,Maryland,Level 1,Minimal
+2023-08-19,33,2022-2023,Massachusetts,Level 1,Minimal
+2023-08-19,33,2022-2023,Michigan,Level 1,Minimal
+2023-08-19,33,2022-2023,Minnesota,Level 1,Minimal
+2023-08-19,33,2022-2023,Mississippi,Level 4,Low
+2023-08-19,33,2022-2023,Missouri,Level 1,Minimal
+2023-08-19,33,2022-2023,Montana,Level 1,Minimal
+2023-08-19,33,2022-2023,Nebraska,Level 1,Minimal
+2023-08-19,33,2022-2023,Nevada,Level 1,Minimal
+2023-08-19,33,2022-2023,New Hampshire,Level 1,Minimal
+2023-08-19,33,2022-2023,New Jersey,Level 1,Minimal
+2023-08-19,33,2022-2023,New Mexico,Level 3,Minimal
+2023-08-19,33,2022-2023,New York,Level 1,Minimal
+2023-08-19,33,2022-2023,New York City,Level 4,Low
+2023-08-19,33,2022-2023,North Carolina,Level 1,Minimal
+2023-08-19,33,2022-2023,North Dakota,Level 1,Minimal
+2023-08-19,33,2022-2023,Ohio,Level 1,Minimal
+2023-08-19,33,2022-2023,Oklahoma,Level 1,Minimal
+2023-08-19,33,2022-2023,Oregon,Level 1,Minimal
+2023-08-19,33,2022-2023,Pennsylvania,Level 1,Minimal
+2023-08-19,33,2022-2023,Puerto Rico,Level 1,Minimal
+2023-08-19,33,2022-2023,Rhode Island,Level 1,Minimal
+2023-08-19,33,2022-2023,South Carolina,Level 1,Minimal
+2023-08-19,33,2022-2023,South Dakota,Level 1,Minimal
+2023-08-19,33,2022-2023,Tennessee,Level 1,Minimal
+2023-08-19,33,2022-2023,Texas,Level 2,Minimal
+2023-08-19,33,2022-2023,Utah,Level 1,Minimal
+2023-08-19,33,2022-2023,Vermont,Level 1,Minimal
+2023-08-19,33,2022-2023,Virgin Islands,Level 1,Minimal
+2023-08-19,33,2022-2023,Virginia,Level 1,Minimal
+2023-08-19,33,2022-2023,Washington,Level 1,Minimal
+2023-08-19,33,2022-2023,West Virginia,Level 1,Minimal
+2023-08-19,33,2022-2023,Wisconsin,Level 1,Minimal
+2023-08-19,33,2022-2023,Wyoming,Level 1,Minimal
+2023-08-12,32,2022-2023,Alabama,Level 1,Minimal
+2023-08-12,32,2022-2023,Alaska,Level 1,Minimal
+2023-08-12,32,2022-2023,Arizona,Level 1,Minimal
+2023-08-12,32,2022-2023,Arkansas,Level 1,Minimal
+2023-08-12,32,2022-2023,California,Level 2,Minimal
+2023-08-12,32,2022-2023,Colorado,Level 1,Minimal
+2023-08-12,32,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-08-12,32,2022-2023,Connecticut,Level 1,Minimal
+2023-08-12,32,2022-2023,Delaware,Level 1,Minimal
+2023-08-12,32,2022-2023,District of Columbia,Level 3,Minimal
+2023-08-12,32,2022-2023,Florida,Level 2,Minimal
+2023-08-12,32,2022-2023,Georgia,Level 2,Minimal
+2023-08-12,32,2022-2023,Hawaii,Level 1,Minimal
+2023-08-12,32,2022-2023,Idaho,Level 1,Minimal
+2023-08-12,32,2022-2023,Illinois,Level 1,Minimal
+2023-08-12,32,2022-2023,Indiana,Level 1,Minimal
+2023-08-12,32,2022-2023,Iowa,Level 1,Minimal
+2023-08-12,32,2022-2023,Kansas,Level 1,Minimal
+2023-08-12,32,2022-2023,Kentucky,Level 1,Minimal
+2023-08-12,32,2022-2023,Louisiana,Level 1,Minimal
+2023-08-12,32,2022-2023,Maine,Level 1,Minimal
+2023-08-12,32,2022-2023,Maryland,Level 1,Minimal
+2023-08-12,32,2022-2023,Massachusetts,Level 1,Minimal
+2023-08-12,32,2022-2023,Michigan,Level 1,Minimal
+2023-08-12,32,2022-2023,Minnesota,Level 1,Minimal
+2023-08-12,32,2022-2023,Mississippi,Level 2,Minimal
+2023-08-12,32,2022-2023,Missouri,Level 1,Minimal
+2023-08-12,32,2022-2023,Montana,Level 1,Minimal
+2023-08-12,32,2022-2023,Nebraska,Level 1,Minimal
+2023-08-12,32,2022-2023,Nevada,Level 1,Minimal
+2023-08-12,32,2022-2023,New Hampshire,Level 1,Minimal
+2023-08-12,32,2022-2023,New Jersey,Level 1,Minimal
+2023-08-12,32,2022-2023,New Mexico,Level 2,Minimal
+2023-08-12,32,2022-2023,New York,Level 1,Minimal
+2023-08-12,32,2022-2023,New York City,Level 4,Low
+2023-08-12,32,2022-2023,North Carolina,Level 1,Minimal
+2023-08-12,32,2022-2023,North Dakota,Level 1,Minimal
+2023-08-12,32,2022-2023,Ohio,Level 1,Minimal
+2023-08-12,32,2022-2023,Oklahoma,Level 1,Minimal
+2023-08-12,32,2022-2023,Oregon,Level 1,Minimal
+2023-08-12,32,2022-2023,Pennsylvania,Level 1,Minimal
+2023-08-12,32,2022-2023,Puerto Rico,Level 1,Minimal
+2023-08-12,32,2022-2023,Rhode Island,Level 1,Minimal
+2023-08-12,32,2022-2023,South Carolina,Level 1,Minimal
+2023-08-12,32,2022-2023,South Dakota,Level 1,Minimal
+2023-08-12,32,2022-2023,Tennessee,Level 1,Minimal
+2023-08-12,32,2022-2023,Texas,Level 1,Minimal
+2023-08-12,32,2022-2023,Utah,Level 1,Minimal
+2023-08-12,32,2022-2023,Vermont,Level 1,Minimal
+2023-08-12,32,2022-2023,Virgin Islands,Level 1,Minimal
+2023-08-12,32,2022-2023,Virginia,Level 1,Minimal
+2023-08-12,32,2022-2023,Washington,Level 1,Minimal
+2023-08-12,32,2022-2023,West Virginia,Level 1,Minimal
+2023-08-12,32,2022-2023,Wisconsin,Level 1,Minimal
+2023-08-12,32,2022-2023,Wyoming,Level 1,Minimal
+2023-08-05,31,2022-2023,Alabama,Level 1,Minimal
+2023-08-05,31,2022-2023,Alaska,Level 1,Minimal
+2023-08-05,31,2022-2023,Arizona,Level 1,Minimal
+2023-08-05,31,2022-2023,Arkansas,Level 1,Minimal
+2023-08-05,31,2022-2023,California,Level 2,Minimal
+2023-08-05,31,2022-2023,Colorado,Level 1,Minimal
+2023-08-05,31,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-08-05,31,2022-2023,Connecticut,Level 1,Minimal
+2023-08-05,31,2022-2023,Delaware,Level 1,Minimal
+2023-08-05,31,2022-2023,District of Columbia,Level 2,Minimal
+2023-08-05,31,2022-2023,Florida,Level 2,Minimal
+2023-08-05,31,2022-2023,Georgia,Level 1,Minimal
+2023-08-05,31,2022-2023,Hawaii,Level 1,Minimal
+2023-08-05,31,2022-2023,Idaho,Level 1,Minimal
+2023-08-05,31,2022-2023,Illinois,Level 1,Minimal
+2023-08-05,31,2022-2023,Indiana,Level 1,Minimal
+2023-08-05,31,2022-2023,Iowa,Level 1,Minimal
+2023-08-05,31,2022-2023,Kansas,Level 1,Minimal
+2023-08-05,31,2022-2023,Kentucky,Level 1,Minimal
+2023-08-05,31,2022-2023,Louisiana,Level 1,Minimal
+2023-08-05,31,2022-2023,Maine,Level 1,Minimal
+2023-08-05,31,2022-2023,Maryland,Level 1,Minimal
+2023-08-05,31,2022-2023,Massachusetts,Level 1,Minimal
+2023-08-05,31,2022-2023,Michigan,Level 1,Minimal
+2023-08-05,31,2022-2023,Minnesota,Level 1,Minimal
+2023-08-05,31,2022-2023,Mississippi,Level 1,Minimal
+2023-08-05,31,2022-2023,Missouri,Level 1,Minimal
+2023-08-05,31,2022-2023,Montana,Level 1,Minimal
+2023-08-05,31,2022-2023,Nebraska,Level 1,Minimal
+2023-08-05,31,2022-2023,Nevada,Level 1,Minimal
+2023-08-05,31,2022-2023,New Hampshire,Level 1,Minimal
+2023-08-05,31,2022-2023,New Jersey,Level 1,Minimal
+2023-08-05,31,2022-2023,New Mexico,Level 1,Minimal
+2023-08-05,31,2022-2023,New York,Level 1,Minimal
+2023-08-05,31,2022-2023,New York City,Level 4,Low
+2023-08-05,31,2022-2023,North Carolina,Level 1,Minimal
+2023-08-05,31,2022-2023,North Dakota,Level 1,Minimal
+2023-08-05,31,2022-2023,Ohio,Level 1,Minimal
+2023-08-05,31,2022-2023,Oklahoma,Level 1,Minimal
+2023-08-05,31,2022-2023,Oregon,Level 1,Minimal
+2023-08-05,31,2022-2023,Pennsylvania,Level 1,Minimal
+2023-08-05,31,2022-2023,Puerto Rico,Level 1,Minimal
+2023-08-05,31,2022-2023,Rhode Island,Level 1,Minimal
+2023-08-05,31,2022-2023,South Carolina,Level 1,Minimal
+2023-08-05,31,2022-2023,South Dakota,Level 1,Minimal
+2023-08-05,31,2022-2023,Tennessee,Level 1,Minimal
+2023-08-05,31,2022-2023,Texas,Level 1,Minimal
+2023-08-05,31,2022-2023,Utah,Level 1,Minimal
+2023-08-05,31,2022-2023,Vermont,Level 1,Minimal
+2023-08-05,31,2022-2023,Virgin Islands,Level 1,Minimal
+2023-08-05,31,2022-2023,Virginia,Level 1,Minimal
+2023-08-05,31,2022-2023,Washington,Level 1,Minimal
+2023-08-05,31,2022-2023,West Virginia,Level 1,Minimal
+2023-08-05,31,2022-2023,Wisconsin,Level 1,Minimal
+2023-08-05,31,2022-2023,Wyoming,Level 1,Minimal
+2023-07-29,30,2022-2023,Alabama,Level 1,Minimal
+2023-07-29,30,2022-2023,Alaska,Level 1,Minimal
+2023-07-29,30,2022-2023,Arizona,Level 1,Minimal
+2023-07-29,30,2022-2023,Arkansas,Level 1,Minimal
+2023-07-29,30,2022-2023,California,Level 2,Minimal
+2023-07-29,30,2022-2023,Colorado,Level 1,Minimal
+2023-07-29,30,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-07-29,30,2022-2023,Connecticut,Level 1,Minimal
+2023-07-29,30,2022-2023,Delaware,Level 1,Minimal
+2023-07-29,30,2022-2023,District of Columbia,Level 2,Minimal
+2023-07-29,30,2022-2023,Florida,Level 2,Minimal
+2023-07-29,30,2022-2023,Georgia,Level 1,Minimal
+2023-07-29,30,2022-2023,Hawaii,Level 1,Minimal
+2023-07-29,30,2022-2023,Idaho,Level 1,Minimal
+2023-07-29,30,2022-2023,Illinois,Level 1,Minimal
+2023-07-29,30,2022-2023,Indiana,Level 1,Minimal
+2023-07-29,30,2022-2023,Iowa,Level 1,Minimal
+2023-07-29,30,2022-2023,Kansas,Level 1,Minimal
+2023-07-29,30,2022-2023,Kentucky,Level 1,Minimal
+2023-07-29,30,2022-2023,Louisiana,Level 1,Minimal
+2023-07-29,30,2022-2023,Maine,Level 1,Minimal
+2023-07-29,30,2022-2023,Maryland,Level 1,Minimal
+2023-07-29,30,2022-2023,Massachusetts,Level 1,Minimal
+2023-07-29,30,2022-2023,Michigan,Level 1,Minimal
+2023-07-29,30,2022-2023,Minnesota,Level 1,Minimal
+2023-07-29,30,2022-2023,Mississippi,Level 1,Minimal
+2023-07-29,30,2022-2023,Missouri,Level 1,Minimal
+2023-07-29,30,2022-2023,Montana,Level 1,Minimal
+2023-07-29,30,2022-2023,Nebraska,Level 1,Minimal
+2023-07-29,30,2022-2023,Nevada,Level 1,Minimal
+2023-07-29,30,2022-2023,New Hampshire,Level 1,Minimal
+2023-07-29,30,2022-2023,New Jersey,Level 1,Minimal
+2023-07-29,30,2022-2023,New Mexico,Level 1,Minimal
+2023-07-29,30,2022-2023,New York,Level 1,Minimal
+2023-07-29,30,2022-2023,New York City,Level 3,Minimal
+2023-07-29,30,2022-2023,North Carolina,Level 1,Minimal
+2023-07-29,30,2022-2023,North Dakota,Level 1,Minimal
+2023-07-29,30,2022-2023,Ohio,Level 1,Minimal
+2023-07-29,30,2022-2023,Oklahoma,Level 1,Minimal
+2023-07-29,30,2022-2023,Oregon,Level 1,Minimal
+2023-07-29,30,2022-2023,Pennsylvania,Level 1,Minimal
+2023-07-29,30,2022-2023,Puerto Rico,Level 1,Minimal
+2023-07-29,30,2022-2023,Rhode Island,Level 1,Minimal
+2023-07-29,30,2022-2023,South Carolina,Level 1,Minimal
+2023-07-29,30,2022-2023,South Dakota,Level 1,Minimal
+2023-07-29,30,2022-2023,Tennessee,Level 1,Minimal
+2023-07-29,30,2022-2023,Texas,Level 1,Minimal
+2023-07-29,30,2022-2023,Utah,Level 1,Minimal
+2023-07-29,30,2022-2023,Vermont,Level 1,Minimal
+2023-07-29,30,2022-2023,Virgin Islands,Level 1,Minimal
+2023-07-29,30,2022-2023,Virginia,Level 1,Minimal
+2023-07-29,30,2022-2023,Washington,Level 1,Minimal
+2023-07-29,30,2022-2023,West Virginia,Level 1,Minimal
+2023-07-29,30,2022-2023,Wisconsin,Level 1,Minimal
+2023-07-29,30,2022-2023,Wyoming,Level 1,Minimal
+2023-07-22,29,2022-2023,Alabama,Level 1,Minimal
+2023-07-22,29,2022-2023,Alaska,Level 1,Minimal
+2023-07-22,29,2022-2023,Arizona,Level 1,Minimal
+2023-07-22,29,2022-2023,Arkansas,Level 1,Minimal
+2023-07-22,29,2022-2023,California,Level 2,Minimal
+2023-07-22,29,2022-2023,Colorado,Level 1,Minimal
+2023-07-22,29,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-07-22,29,2022-2023,Connecticut,Level 1,Minimal
+2023-07-22,29,2022-2023,Delaware,Level 1,Minimal
+2023-07-22,29,2022-2023,District of Columbia,Level 3,Minimal
+2023-07-22,29,2022-2023,Florida,Level 1,Minimal
+2023-07-22,29,2022-2023,Georgia,Level 1,Minimal
+2023-07-22,29,2022-2023,Hawaii,Level 1,Minimal
+2023-07-22,29,2022-2023,Idaho,Level 1,Minimal
+2023-07-22,29,2022-2023,Illinois,Level 1,Minimal
+2023-07-22,29,2022-2023,Indiana,Level 1,Minimal
+2023-07-22,29,2022-2023,Iowa,Level 1,Minimal
+2023-07-22,29,2022-2023,Kansas,Level 1,Minimal
+2023-07-22,29,2022-2023,Kentucky,Level 1,Minimal
+2023-07-22,29,2022-2023,Louisiana,Level 1,Minimal
+2023-07-22,29,2022-2023,Maine,Level 1,Minimal
+2023-07-22,29,2022-2023,Maryland,Level 1,Minimal
+2023-07-22,29,2022-2023,Massachusetts,Level 1,Minimal
+2023-07-22,29,2022-2023,Michigan,Level 1,Minimal
+2023-07-22,29,2022-2023,Minnesota,Level 1,Minimal
+2023-07-22,29,2022-2023,Mississippi,Level 1,Minimal
+2023-07-22,29,2022-2023,Missouri,Level 1,Minimal
+2023-07-22,29,2022-2023,Montana,Level 1,Minimal
+2023-07-22,29,2022-2023,Nebraska,Level 1,Minimal
+2023-07-22,29,2022-2023,Nevada,Level 1,Minimal
+2023-07-22,29,2022-2023,New Hampshire,Level 1,Minimal
+2023-07-22,29,2022-2023,New Jersey,Level 1,Minimal
+2023-07-22,29,2022-2023,New Mexico,Level 1,Minimal
+2023-07-22,29,2022-2023,New York,Level 1,Minimal
+2023-07-22,29,2022-2023,New York City,Level 3,Minimal
+2023-07-22,29,2022-2023,North Carolina,Level 1,Minimal
+2023-07-22,29,2022-2023,North Dakota,Level 1,Minimal
+2023-07-22,29,2022-2023,Ohio,Level 1,Minimal
+2023-07-22,29,2022-2023,Oklahoma,Level 1,Minimal
+2023-07-22,29,2022-2023,Oregon,Level 1,Minimal
+2023-07-22,29,2022-2023,Pennsylvania,Level 1,Minimal
+2023-07-22,29,2022-2023,Puerto Rico,Level 1,Minimal
+2023-07-22,29,2022-2023,Rhode Island,Level 1,Minimal
+2023-07-22,29,2022-2023,South Carolina,Level 1,Minimal
+2023-07-22,29,2022-2023,South Dakota,Level 1,Minimal
+2023-07-22,29,2022-2023,Tennessee,Level 1,Minimal
+2023-07-22,29,2022-2023,Texas,Level 1,Minimal
+2023-07-22,29,2022-2023,Utah,Level 1,Minimal
+2023-07-22,29,2022-2023,Vermont,Level 1,Minimal
+2023-07-22,29,2022-2023,Virgin Islands,Level 1,Minimal
+2023-07-22,29,2022-2023,Virginia,Level 1,Minimal
+2023-07-22,29,2022-2023,Washington,Level 1,Minimal
+2023-07-22,29,2022-2023,West Virginia,Level 1,Minimal
+2023-07-22,29,2022-2023,Wisconsin,Level 1,Minimal
+2023-07-22,29,2022-2023,Wyoming,Level 1,Minimal
+2023-07-15,28,2022-2023,Alabama,Level 1,Minimal
+2023-07-15,28,2022-2023,Alaska,Level 1,Minimal
+2023-07-15,28,2022-2023,Arizona,Level 1,Minimal
+2023-07-15,28,2022-2023,Arkansas,Level 1,Minimal
+2023-07-15,28,2022-2023,California,Level 2,Minimal
+2023-07-15,28,2022-2023,Colorado,Level 1,Minimal
+2023-07-15,28,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-07-15,28,2022-2023,Connecticut,Level 1,Minimal
+2023-07-15,28,2022-2023,Delaware,Level 1,Minimal
+2023-07-15,28,2022-2023,District of Columbia,Level 2,Minimal
+2023-07-15,28,2022-2023,Florida,Level 1,Minimal
+2023-07-15,28,2022-2023,Georgia,Level 1,Minimal
+2023-07-15,28,2022-2023,Hawaii,Level 1,Minimal
+2023-07-15,28,2022-2023,Idaho,Level 1,Minimal
+2023-07-15,28,2022-2023,Illinois,Level 1,Minimal
+2023-07-15,28,2022-2023,Indiana,Level 1,Minimal
+2023-07-15,28,2022-2023,Iowa,Level 1,Minimal
+2023-07-15,28,2022-2023,Kansas,Level 1,Minimal
+2023-07-15,28,2022-2023,Kentucky,Level 1,Minimal
+2023-07-15,28,2022-2023,Louisiana,Level 1,Minimal
+2023-07-15,28,2022-2023,Maine,Level 1,Minimal
+2023-07-15,28,2022-2023,Maryland,Level 1,Minimal
+2023-07-15,28,2022-2023,Massachusetts,Level 1,Minimal
+2023-07-15,28,2022-2023,Michigan,Level 1,Minimal
+2023-07-15,28,2022-2023,Minnesota,Level 1,Minimal
+2023-07-15,28,2022-2023,Mississippi,Level 1,Minimal
+2023-07-15,28,2022-2023,Missouri,Level 1,Minimal
+2023-07-15,28,2022-2023,Montana,Level 1,Minimal
+2023-07-15,28,2022-2023,Nebraska,Level 1,Minimal
+2023-07-15,28,2022-2023,Nevada,Level 1,Minimal
+2023-07-15,28,2022-2023,New Hampshire,Level 1,Minimal
+2023-07-15,28,2022-2023,New Jersey,Level 1,Minimal
+2023-07-15,28,2022-2023,New Mexico,Level 1,Minimal
+2023-07-15,28,2022-2023,New York,Level 1,Minimal
+2023-07-15,28,2022-2023,New York City,Level 3,Minimal
+2023-07-15,28,2022-2023,North Carolina,Level 1,Minimal
+2023-07-15,28,2022-2023,North Dakota,Level 1,Minimal
+2023-07-15,28,2022-2023,Ohio,Level 1,Minimal
+2023-07-15,28,2022-2023,Oklahoma,Level 1,Minimal
+2023-07-15,28,2022-2023,Oregon,Level 1,Minimal
+2023-07-15,28,2022-2023,Pennsylvania,Level 1,Minimal
+2023-07-15,28,2022-2023,Puerto Rico,Level 1,Minimal
+2023-07-15,28,2022-2023,Rhode Island,Level 1,Minimal
+2023-07-15,28,2022-2023,South Carolina,Level 1,Minimal
+2023-07-15,28,2022-2023,South Dakota,Level 1,Minimal
+2023-07-15,28,2022-2023,Tennessee,Level 1,Minimal
+2023-07-15,28,2022-2023,Texas,Level 1,Minimal
+2023-07-15,28,2022-2023,Utah,Level 1,Minimal
+2023-07-15,28,2022-2023,Vermont,Level 1,Minimal
+2023-07-15,28,2022-2023,Virgin Islands,Level 1,Minimal
+2023-07-15,28,2022-2023,Virginia,Level 1,Minimal
+2023-07-15,28,2022-2023,Washington,Level 1,Minimal
+2023-07-15,28,2022-2023,West Virginia,Level 1,Minimal
+2023-07-15,28,2022-2023,Wisconsin,Level 1,Minimal
+2023-07-15,28,2022-2023,Wyoming,Level 1,Minimal
+2023-07-08,27,2022-2023,Alabama,Level 1,Minimal
+2023-07-08,27,2022-2023,Alaska,Level 1,Minimal
+2023-07-08,27,2022-2023,Arizona,Level 1,Minimal
+2023-07-08,27,2022-2023,Arkansas,Level 1,Minimal
+2023-07-08,27,2022-2023,California,Level 3,Minimal
+2023-07-08,27,2022-2023,Colorado,Level 1,Minimal
+2023-07-08,27,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-07-08,27,2022-2023,Connecticut,Level 1,Minimal
+2023-07-08,27,2022-2023,Delaware,Level 1,Minimal
+2023-07-08,27,2022-2023,District of Columbia,Level 3,Minimal
+2023-07-08,27,2022-2023,Florida,Level 1,Minimal
+2023-07-08,27,2022-2023,Georgia,Level 1,Minimal
+2023-07-08,27,2022-2023,Hawaii,Level 1,Minimal
+2023-07-08,27,2022-2023,Idaho,Level 1,Minimal
+2023-07-08,27,2022-2023,Illinois,Level 1,Minimal
+2023-07-08,27,2022-2023,Indiana,Level 1,Minimal
+2023-07-08,27,2022-2023,Iowa,Level 1,Minimal
+2023-07-08,27,2022-2023,Kansas,Level 1,Minimal
+2023-07-08,27,2022-2023,Kentucky,Level 1,Minimal
+2023-07-08,27,2022-2023,Louisiana,Level 1,Minimal
+2023-07-08,27,2022-2023,Maine,Level 1,Minimal
+2023-07-08,27,2022-2023,Maryland,Level 1,Minimal
+2023-07-08,27,2022-2023,Massachusetts,Level 1,Minimal
+2023-07-08,27,2022-2023,Michigan,Level 1,Minimal
+2023-07-08,27,2022-2023,Minnesota,Level 1,Minimal
+2023-07-08,27,2022-2023,Mississippi,Level 1,Minimal
+2023-07-08,27,2022-2023,Missouri,Level 1,Minimal
+2023-07-08,27,2022-2023,Montana,Level 1,Minimal
+2023-07-08,27,2022-2023,Nebraska,Level 1,Minimal
+2023-07-08,27,2022-2023,Nevada,Level 1,Minimal
+2023-07-08,27,2022-2023,New Hampshire,Level 1,Minimal
+2023-07-08,27,2022-2023,New Jersey,Level 1,Minimal
+2023-07-08,27,2022-2023,New Mexico,Level 1,Minimal
+2023-07-08,27,2022-2023,New York,Level 1,Minimal
+2023-07-08,27,2022-2023,New York City,Level 4,Low
+2023-07-08,27,2022-2023,North Carolina,Level 1,Minimal
+2023-07-08,27,2022-2023,North Dakota,Level 1,Minimal
+2023-07-08,27,2022-2023,Ohio,Level 1,Minimal
+2023-07-08,27,2022-2023,Oklahoma,Level 1,Minimal
+2023-07-08,27,2022-2023,Oregon,Level 1,Minimal
+2023-07-08,27,2022-2023,Pennsylvania,Level 1,Minimal
+2023-07-08,27,2022-2023,Puerto Rico,Level 1,Minimal
+2023-07-08,27,2022-2023,Rhode Island,Level 1,Minimal
+2023-07-08,27,2022-2023,South Carolina,Level 1,Minimal
+2023-07-08,27,2022-2023,South Dakota,Level 1,Minimal
+2023-07-08,27,2022-2023,Tennessee,Level 1,Minimal
+2023-07-08,27,2022-2023,Texas,Level 1,Minimal
+2023-07-08,27,2022-2023,Utah,Level 1,Minimal
+2023-07-08,27,2022-2023,Vermont,Level 1,Minimal
+2023-07-08,27,2022-2023,Virgin Islands,Level 1,Minimal
+2023-07-08,27,2022-2023,Virginia,Level 1,Minimal
+2023-07-08,27,2022-2023,Washington,Level 1,Minimal
+2023-07-08,27,2022-2023,West Virginia,Level 1,Minimal
+2023-07-08,27,2022-2023,Wisconsin,Level 1,Minimal
+2023-07-08,27,2022-2023,Wyoming,Level 1,Minimal
+2023-07-01,26,2022-2023,Alabama,Level 1,Minimal
+2023-07-01,26,2022-2023,Alaska,Level 1,Minimal
+2023-07-01,26,2022-2023,Arizona,Level 1,Minimal
+2023-07-01,26,2022-2023,Arkansas,Level 1,Minimal
+2023-07-01,26,2022-2023,California,Level 3,Minimal
+2023-07-01,26,2022-2023,Colorado,Level 1,Minimal
+2023-07-01,26,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-07-01,26,2022-2023,Connecticut,Level 1,Minimal
+2023-07-01,26,2022-2023,Delaware,Level 1,Minimal
+2023-07-01,26,2022-2023,District of Columbia,Level 6,Moderate
+2023-07-01,26,2022-2023,Florida,Level 1,Minimal
+2023-07-01,26,2022-2023,Georgia,Level 1,Minimal
+2023-07-01,26,2022-2023,Hawaii,Level 1,Minimal
+2023-07-01,26,2022-2023,Idaho,Level 1,Minimal
+2023-07-01,26,2022-2023,Illinois,Level 1,Minimal
+2023-07-01,26,2022-2023,Indiana,Level 1,Minimal
+2023-07-01,26,2022-2023,Iowa,Level 1,Minimal
+2023-07-01,26,2022-2023,Kansas,Level 1,Minimal
+2023-07-01,26,2022-2023,Kentucky,Level 1,Minimal
+2023-07-01,26,2022-2023,Louisiana,Level 1,Minimal
+2023-07-01,26,2022-2023,Maine,Level 1,Minimal
+2023-07-01,26,2022-2023,Maryland,Level 1,Minimal
+2023-07-01,26,2022-2023,Massachusetts,Level 1,Minimal
+2023-07-01,26,2022-2023,Michigan,Level 1,Minimal
+2023-07-01,26,2022-2023,Minnesota,Level 1,Minimal
+2023-07-01,26,2022-2023,Mississippi,Level 1,Minimal
+2023-07-01,26,2022-2023,Missouri,Level 1,Minimal
+2023-07-01,26,2022-2023,Montana,Level 1,Minimal
+2023-07-01,26,2022-2023,Nebraska,Level 1,Minimal
+2023-07-01,26,2022-2023,Nevada,Level 1,Minimal
+2023-07-01,26,2022-2023,New Hampshire,Level 1,Minimal
+2023-07-01,26,2022-2023,New Jersey,Level 1,Minimal
+2023-07-01,26,2022-2023,New Mexico,Level 1,Minimal
+2023-07-01,26,2022-2023,New York,Level 1,Minimal
+2023-07-01,26,2022-2023,New York City,Level 4,Low
+2023-07-01,26,2022-2023,North Carolina,Level 1,Minimal
+2023-07-01,26,2022-2023,Ohio,Level 1,Minimal
+2023-07-01,26,2022-2023,Oklahoma,Level 1,Minimal
+2023-07-01,26,2022-2023,Oregon,Level 1,Minimal
+2023-07-01,26,2022-2023,Pennsylvania,Level 1,Minimal
+2023-07-01,26,2022-2023,Puerto Rico,Level 2,Minimal
+2023-07-01,26,2022-2023,Rhode Island,Level 1,Minimal
+2023-07-01,26,2022-2023,South Carolina,Level 1,Minimal
+2023-07-01,26,2022-2023,South Dakota,Level 1,Minimal
+2023-07-01,26,2022-2023,Tennessee,Level 1,Minimal
+2023-07-01,26,2022-2023,Texas,Level 1,Minimal
+2023-07-01,26,2022-2023,Utah,Level 1,Minimal
+2023-07-01,26,2022-2023,Vermont,Level 1,Minimal
+2023-07-01,26,2022-2023,Virgin Islands,Level 1,Minimal
+2023-07-01,26,2022-2023,Virginia,Level 1,Minimal
+2023-07-01,26,2022-2023,Washington,Level 1,Minimal
+2023-07-01,26,2022-2023,West Virginia,Level 1,Minimal
+2023-07-01,26,2022-2023,Wisconsin,Level 1,Minimal
+2023-07-01,26,2022-2023,Wyoming,Level 1,Minimal
+2023-06-24,25,2022-2023,Alabama,Level 1,Minimal
+2023-06-24,25,2022-2023,Alaska,Level 1,Minimal
+2023-06-24,25,2022-2023,Arizona,Level 1,Minimal
+2023-06-24,25,2022-2023,Arkansas,Level 1,Minimal
+2023-06-24,25,2022-2023,California,Level 4,Low
+2023-06-24,25,2022-2023,Colorado,Level 1,Minimal
+2023-06-24,25,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-06-24,25,2022-2023,Connecticut,Level 1,Minimal
+2023-06-24,25,2022-2023,Delaware,Level 1,Minimal
+2023-06-24,25,2022-2023,District of Columbia,Level 7,Moderate
+2023-06-24,25,2022-2023,Florida,Level 1,Minimal
+2023-06-24,25,2022-2023,Georgia,Level 1,Minimal
+2023-06-24,25,2022-2023,Hawaii,Level 1,Minimal
+2023-06-24,25,2022-2023,Idaho,Level 1,Minimal
+2023-06-24,25,2022-2023,Illinois,Level 1,Minimal
+2023-06-24,25,2022-2023,Indiana,Level 1,Minimal
+2023-06-24,25,2022-2023,Iowa,Level 1,Minimal
+2023-06-24,25,2022-2023,Kansas,Level 1,Minimal
+2023-06-24,25,2022-2023,Kentucky,Level 1,Minimal
+2023-06-24,25,2022-2023,Louisiana,Level 1,Minimal
+2023-06-24,25,2022-2023,Maine,Level 1,Minimal
+2023-06-24,25,2022-2023,Maryland,Level 1,Minimal
+2023-06-24,25,2022-2023,Massachusetts,Level 1,Minimal
+2023-06-24,25,2022-2023,Michigan,Level 1,Minimal
+2023-06-24,25,2022-2023,Minnesota,Level 1,Minimal
+2023-06-24,25,2022-2023,Mississippi,Level 1,Minimal
+2023-06-24,25,2022-2023,Missouri,Level 1,Minimal
+2023-06-24,25,2022-2023,Montana,Level 1,Minimal
+2023-06-24,25,2022-2023,Nebraska,Level 1,Minimal
+2023-06-24,25,2022-2023,Nevada,Level 1,Minimal
+2023-06-24,25,2022-2023,New Hampshire,Level 1,Minimal
+2023-06-24,25,2022-2023,New Jersey,Level 1,Minimal
+2023-06-24,25,2022-2023,New Mexico,Level 2,Minimal
+2023-06-24,25,2022-2023,New York,Level 1,Minimal
+2023-06-24,25,2022-2023,New York City,Level 4,Low
+2023-06-24,25,2022-2023,North Carolina,Level 1,Minimal
+2023-06-24,25,2022-2023,North Dakota,Level 1,Minimal
+2023-06-24,25,2022-2023,Ohio,Level 1,Minimal
+2023-06-24,25,2022-2023,Oklahoma,Level 1,Minimal
+2023-06-24,25,2022-2023,Oregon,Level 1,Minimal
+2023-06-24,25,2022-2023,Pennsylvania,Level 1,Minimal
+2023-06-24,25,2022-2023,Puerto Rico,Level 2,Minimal
+2023-06-24,25,2022-2023,Rhode Island,Level 1,Minimal
+2023-06-24,25,2022-2023,South Carolina,Level 1,Minimal
+2023-06-24,25,2022-2023,South Dakota,Level 1,Minimal
+2023-06-24,25,2022-2023,Tennessee,Level 1,Minimal
+2023-06-24,25,2022-2023,Texas,Level 1,Minimal
+2023-06-24,25,2022-2023,Utah,Level 1,Minimal
+2023-06-24,25,2022-2023,Vermont,Level 1,Minimal
+2023-06-24,25,2022-2023,Virgin Islands,Level 0,Insufficient Data
+2023-06-24,25,2022-2023,Virginia,Level 1,Minimal
+2023-06-24,25,2022-2023,Washington,Level 1,Minimal
+2023-06-24,25,2022-2023,West Virginia,Level 1,Minimal
+2023-06-24,25,2022-2023,Wisconsin,Level 1,Minimal
+2023-06-24,25,2022-2023,Wyoming,Level 1,Minimal
+2023-06-17,24,2022-2023,Alabama,Level 1,Minimal
+2023-06-17,24,2022-2023,Alaska,Level 1,Minimal
+2023-06-17,24,2022-2023,Arizona,Level 1,Minimal
+2023-06-17,24,2022-2023,Arkansas,Level 1,Minimal
+2023-06-17,24,2022-2023,California,Level 4,Low
+2023-06-17,24,2022-2023,Colorado,Level 1,Minimal
+2023-06-17,24,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-06-17,24,2022-2023,Connecticut,Level 1,Minimal
+2023-06-17,24,2022-2023,Delaware,Level 1,Minimal
+2023-06-17,24,2022-2023,District of Columbia,Level 7,Moderate
+2023-06-17,24,2022-2023,Florida,Level 2,Minimal
+2023-06-17,24,2022-2023,Georgia,Level 1,Minimal
+2023-06-17,24,2022-2023,Hawaii,Level 1,Minimal
+2023-06-17,24,2022-2023,Idaho,Level 1,Minimal
+2023-06-17,24,2022-2023,Illinois,Level 1,Minimal
+2023-06-17,24,2022-2023,Indiana,Level 1,Minimal
+2023-06-17,24,2022-2023,Iowa,Level 1,Minimal
+2023-06-17,24,2022-2023,Kansas,Level 1,Minimal
+2023-06-17,24,2022-2023,Kentucky,Level 1,Minimal
+2023-06-17,24,2022-2023,Louisiana,Level 1,Minimal
+2023-06-17,24,2022-2023,Maine,Level 1,Minimal
+2023-06-17,24,2022-2023,Maryland,Level 1,Minimal
+2023-06-17,24,2022-2023,Massachusetts,Level 1,Minimal
+2023-06-17,24,2022-2023,Michigan,Level 1,Minimal
+2023-06-17,24,2022-2023,Minnesota,Level 1,Minimal
+2023-06-17,24,2022-2023,Mississippi,Level 1,Minimal
+2023-06-17,24,2022-2023,Missouri,Level 1,Minimal
+2023-06-17,24,2022-2023,Montana,Level 1,Minimal
+2023-06-17,24,2022-2023,Nebraska,Level 1,Minimal
+2023-06-17,24,2022-2023,Nevada,Level 2,Minimal
+2023-06-17,24,2022-2023,New Hampshire,Level 1,Minimal
+2023-06-17,24,2022-2023,New Jersey,Level 2,Minimal
+2023-06-17,24,2022-2023,New Mexico,Level 2,Minimal
+2023-06-17,24,2022-2023,New York,Level 2,Minimal
+2023-06-17,24,2022-2023,New York City,Level 5,Low
+2023-06-17,24,2022-2023,North Carolina,Level 1,Minimal
+2023-06-17,24,2022-2023,North Dakota,Level 1,Minimal
+2023-06-17,24,2022-2023,Ohio,Level 1,Minimal
+2023-06-17,24,2022-2023,Oklahoma,Level 1,Minimal
+2023-06-17,24,2022-2023,Oregon,Level 1,Minimal
+2023-06-17,24,2022-2023,Pennsylvania,Level 1,Minimal
+2023-06-17,24,2022-2023,Puerto Rico,Level 1,Minimal
+2023-06-17,24,2022-2023,Rhode Island,Level 2,Minimal
+2023-06-17,24,2022-2023,South Carolina,Level 1,Minimal
+2023-06-17,24,2022-2023,South Dakota,Level 1,Minimal
+2023-06-17,24,2022-2023,Tennessee,Level 1,Minimal
+2023-06-17,24,2022-2023,Texas,Level 1,Minimal
+2023-06-17,24,2022-2023,Utah,Level 1,Minimal
+2023-06-17,24,2022-2023,Vermont,Level 1,Minimal
+2023-06-17,24,2022-2023,Virgin Islands,Level 1,Minimal
+2023-06-17,24,2022-2023,Virginia,Level 2,Minimal
+2023-06-17,24,2022-2023,Washington,Level 1,Minimal
+2023-06-17,24,2022-2023,West Virginia,Level 1,Minimal
+2023-06-17,24,2022-2023,Wisconsin,Level 1,Minimal
+2023-06-17,24,2022-2023,Wyoming,Level 1,Minimal
+2023-06-10,23,2022-2023,Alabama,Level 1,Minimal
+2023-06-10,23,2022-2023,Alaska,Level 1,Minimal
+2023-06-10,23,2022-2023,Arizona,Level 1,Minimal
+2023-06-10,23,2022-2023,Arkansas,Level 1,Minimal
+2023-06-10,23,2022-2023,California,Level 5,Low
+2023-06-10,23,2022-2023,Colorado,Level 1,Minimal
+2023-06-10,23,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-06-10,23,2022-2023,Connecticut,Level 1,Minimal
+2023-06-10,23,2022-2023,Delaware,Level 1,Minimal
+2023-06-10,23,2022-2023,District of Columbia,Level 10,High
+2023-06-10,23,2022-2023,Florida,Level 2,Minimal
+2023-06-10,23,2022-2023,Georgia,Level 1,Minimal
+2023-06-10,23,2022-2023,Hawaii,Level 1,Minimal
+2023-06-10,23,2022-2023,Idaho,Level 1,Minimal
+2023-06-10,23,2022-2023,Illinois,Level 1,Minimal
+2023-06-10,23,2022-2023,Indiana,Level 1,Minimal
+2023-06-10,23,2022-2023,Iowa,Level 1,Minimal
+2023-06-10,23,2022-2023,Kansas,Level 1,Minimal
+2023-06-10,23,2022-2023,Kentucky,Level 1,Minimal
+2023-06-10,23,2022-2023,Louisiana,Level 1,Minimal
+2023-06-10,23,2022-2023,Maine,Level 1,Minimal
+2023-06-10,23,2022-2023,Maryland,Level 1,Minimal
+2023-06-10,23,2022-2023,Massachusetts,Level 1,Minimal
+2023-06-10,23,2022-2023,Michigan,Level 1,Minimal
+2023-06-10,23,2022-2023,Minnesota,Level 1,Minimal
+2023-06-10,23,2022-2023,Mississippi,Level 1,Minimal
+2023-06-10,23,2022-2023,Missouri,Level 1,Minimal
+2023-06-10,23,2022-2023,Montana,Level 1,Minimal
+2023-06-10,23,2022-2023,Nebraska,Level 1,Minimal
+2023-06-10,23,2022-2023,Nevada,Level 1,Minimal
+2023-06-10,23,2022-2023,New Hampshire,Level 1,Minimal
+2023-06-10,23,2022-2023,New Jersey,Level 2,Minimal
+2023-06-10,23,2022-2023,New Mexico,Level 2,Minimal
+2023-06-10,23,2022-2023,New York,Level 2,Minimal
+2023-06-10,23,2022-2023,New York City,Level 6,Moderate
+2023-06-10,23,2022-2023,North Carolina,Level 2,Minimal
+2023-06-10,23,2022-2023,North Dakota,Level 2,Minimal
+2023-06-10,23,2022-2023,Ohio,Level 1,Minimal
+2023-06-10,23,2022-2023,Oklahoma,Level 1,Minimal
+2023-06-10,23,2022-2023,Oregon,Level 1,Minimal
+2023-06-10,23,2022-2023,Pennsylvania,Level 1,Minimal
+2023-06-10,23,2022-2023,Puerto Rico,Level 1,Minimal
+2023-06-10,23,2022-2023,Rhode Island,Level 1,Minimal
+2023-06-10,23,2022-2023,South Carolina,Level 1,Minimal
+2023-06-10,23,2022-2023,South Dakota,Level 1,Minimal
+2023-06-10,23,2022-2023,Tennessee,Level 1,Minimal
+2023-06-10,23,2022-2023,Texas,Level 1,Minimal
+2023-06-10,23,2022-2023,Utah,Level 1,Minimal
+2023-06-10,23,2022-2023,Vermont,Level 1,Minimal
+2023-06-10,23,2022-2023,Virgin Islands,Level 1,Minimal
+2023-06-10,23,2022-2023,Virginia,Level 2,Minimal
+2023-06-10,23,2022-2023,Washington,Level 1,Minimal
+2023-06-10,23,2022-2023,West Virginia,Level 1,Minimal
+2023-06-10,23,2022-2023,Wisconsin,Level 1,Minimal
+2023-06-10,23,2022-2023,Wyoming,Level 1,Minimal
+2023-06-03,22,2022-2023,Alabama,Level 1,Minimal
+2023-06-03,22,2022-2023,Alaska,Level 1,Minimal
+2023-06-03,22,2022-2023,Arizona,Level 1,Minimal
+2023-06-03,22,2022-2023,Arkansas,Level 1,Minimal
+2023-06-03,22,2022-2023,California,Level 5,Low
+2023-06-03,22,2022-2023,Colorado,Level 1,Minimal
+2023-06-03,22,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-06-03,22,2022-2023,Connecticut,Level 1,Minimal
+2023-06-03,22,2022-2023,Delaware,Level 1,Minimal
+2023-06-03,22,2022-2023,District of Columbia,Level 6,Moderate
+2023-06-03,22,2022-2023,Florida,Level 4,Low
+2023-06-03,22,2022-2023,Georgia,Level 2,Minimal
+2023-06-03,22,2022-2023,Hawaii,Level 2,Minimal
+2023-06-03,22,2022-2023,Idaho,Level 1,Minimal
+2023-06-03,22,2022-2023,Illinois,Level 1,Minimal
+2023-06-03,22,2022-2023,Indiana,Level 1,Minimal
+2023-06-03,22,2022-2023,Iowa,Level 1,Minimal
+2023-06-03,22,2022-2023,Kansas,Level 1,Minimal
+2023-06-03,22,2022-2023,Kentucky,Level 1,Minimal
+2023-06-03,22,2022-2023,Louisiana,Level 1,Minimal
+2023-06-03,22,2022-2023,Maine,Level 1,Minimal
+2023-06-03,22,2022-2023,Maryland,Level 2,Minimal
+2023-06-03,22,2022-2023,Massachusetts,Level 1,Minimal
+2023-06-03,22,2022-2023,Michigan,Level 1,Minimal
+2023-06-03,22,2022-2023,Minnesota,Level 1,Minimal
+2023-06-03,22,2022-2023,Mississippi,Level 1,Minimal
+2023-06-03,22,2022-2023,Missouri,Level 1,Minimal
+2023-06-03,22,2022-2023,Montana,Level 1,Minimal
+2023-06-03,22,2022-2023,Nebraska,Level 1,Minimal
+2023-06-03,22,2022-2023,Nevada,Level 1,Minimal
+2023-06-03,22,2022-2023,New Hampshire,Level 1,Minimal
+2023-06-03,22,2022-2023,New Jersey,Level 3,Minimal
+2023-06-03,22,2022-2023,New Mexico,Level 3,Minimal
+2023-06-03,22,2022-2023,New York,Level 2,Minimal
+2023-06-03,22,2022-2023,New York City,Level 8,High
+2023-06-03,22,2022-2023,North Carolina,Level 2,Minimal
+2023-06-03,22,2022-2023,Ohio,Level 1,Minimal
+2023-06-03,22,2022-2023,Oklahoma,Level 1,Minimal
+2023-06-03,22,2022-2023,Oregon,Level 1,Minimal
+2023-06-03,22,2022-2023,Pennsylvania,Level 1,Minimal
+2023-06-03,22,2022-2023,Puerto Rico,Level 1,Minimal
+2023-06-03,22,2022-2023,Rhode Island,Level 1,Minimal
+2023-06-03,22,2022-2023,South Carolina,Level 1,Minimal
+2023-06-03,22,2022-2023,South Dakota,Level 1,Minimal
+2023-06-03,22,2022-2023,Tennessee,Level 1,Minimal
+2023-06-03,22,2022-2023,Texas,Level 3,Minimal
+2023-06-03,22,2022-2023,Utah,Level 1,Minimal
+2023-06-03,22,2022-2023,Vermont,Level 1,Minimal
+2023-06-03,22,2022-2023,Virgin Islands,Level 1,Minimal
+2023-06-03,22,2022-2023,Virginia,Level 3,Minimal
+2023-06-03,22,2022-2023,Washington,Level 1,Minimal
+2023-06-03,22,2022-2023,West Virginia,Level 1,Minimal
+2023-06-03,22,2022-2023,Wisconsin,Level 1,Minimal
+2023-06-03,22,2022-2023,Wyoming,Level 1,Minimal
+2023-05-27,21,2022-2023,Alabama,Level 1,Minimal
+2023-05-27,21,2022-2023,Alaska,Level 1,Minimal
+2023-05-27,21,2022-2023,Arizona,Level 1,Minimal
+2023-05-27,21,2022-2023,Arkansas,Level 1,Minimal
+2023-05-27,21,2022-2023,California,Level 5,Low
+2023-05-27,21,2022-2023,Colorado,Level 1,Minimal
+2023-05-27,21,2022-2023,Commonwealth of the Northern Mariana Islands,Level 3,Minimal
+2023-05-27,21,2022-2023,Connecticut,Level 1,Minimal
+2023-05-27,21,2022-2023,Delaware,Level 1,Minimal
+2023-05-27,21,2022-2023,District of Columbia,Level 10,High
+2023-05-27,21,2022-2023,Florida,Level 3,Minimal
+2023-05-27,21,2022-2023,Georgia,Level 2,Minimal
+2023-05-27,21,2022-2023,Hawaii,Level 1,Minimal
+2023-05-27,21,2022-2023,Idaho,Level 1,Minimal
+2023-05-27,21,2022-2023,Illinois,Level 1,Minimal
+2023-05-27,21,2022-2023,Indiana,Level 1,Minimal
+2023-05-27,21,2022-2023,Iowa,Level 1,Minimal
+2023-05-27,21,2022-2023,Kansas,Level 1,Minimal
+2023-05-27,21,2022-2023,Kentucky,Level 2,Minimal
+2023-05-27,21,2022-2023,Louisiana,Level 1,Minimal
+2023-05-27,21,2022-2023,Maine,Level 1,Minimal
+2023-05-27,21,2022-2023,Maryland,Level 2,Minimal
+2023-05-27,21,2022-2023,Massachusetts,Level 2,Minimal
+2023-05-27,21,2022-2023,Michigan,Level 1,Minimal
+2023-05-27,21,2022-2023,Minnesota,Level 1,Minimal
+2023-05-27,21,2022-2023,Mississippi,Level 1,Minimal
+2023-05-27,21,2022-2023,Missouri,Level 1,Minimal
+2023-05-27,21,2022-2023,Montana,Level 1,Minimal
+2023-05-27,21,2022-2023,Nebraska,Level 1,Minimal
+2023-05-27,21,2022-2023,Nevada,Level 1,Minimal
+2023-05-27,21,2022-2023,New Hampshire,Level 1,Minimal
+2023-05-27,21,2022-2023,New Jersey,Level 2,Minimal
+2023-05-27,21,2022-2023,New Mexico,Level 4,Low
+2023-05-27,21,2022-2023,New York,Level 2,Minimal
+2023-05-27,21,2022-2023,New York City,Level 7,Moderate
+2023-05-27,21,2022-2023,North Carolina,Level 2,Minimal
+2023-05-27,21,2022-2023,North Dakota,Level 2,Minimal
+2023-05-27,21,2022-2023,Ohio,Level 1,Minimal
+2023-05-27,21,2022-2023,Oklahoma,Level 1,Minimal
+2023-05-27,21,2022-2023,Oregon,Level 0,Insufficient Data
+2023-05-27,21,2022-2023,Pennsylvania,Level 1,Minimal
+2023-05-27,21,2022-2023,Puerto Rico,Level 1,Minimal
+2023-05-27,21,2022-2023,Rhode Island,Level 1,Minimal
+2023-05-27,21,2022-2023,South Carolina,Level 1,Minimal
+2023-05-27,21,2022-2023,South Dakota,Level 1,Minimal
+2023-05-27,21,2022-2023,Tennessee,Level 1,Minimal
+2023-05-27,21,2022-2023,Texas,Level 3,Minimal
+2023-05-27,21,2022-2023,Utah,Level 1,Minimal
+2023-05-27,21,2022-2023,Vermont,Level 1,Minimal
+2023-05-27,21,2022-2023,Virgin Islands,Level 1,Minimal
+2023-05-27,21,2022-2023,Virginia,Level 3,Minimal
+2023-05-27,21,2022-2023,Washington,Level 1,Minimal
+2023-05-27,21,2022-2023,West Virginia,Level 1,Minimal
+2023-05-27,21,2022-2023,Wisconsin,Level 1,Minimal
+2023-05-27,21,2022-2023,Wyoming,Level 1,Minimal
+2023-05-20,20,2022-2023,Alabama,Level 1,Minimal
+2023-05-20,20,2022-2023,Alaska,Level 1,Minimal
+2023-05-20,20,2022-2023,Arizona,Level 1,Minimal
+2023-05-20,20,2022-2023,Arkansas,Level 1,Minimal
+2023-05-20,20,2022-2023,California,Level 5,Low
+2023-05-20,20,2022-2023,Colorado,Level 2,Minimal
+2023-05-20,20,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-05-20,20,2022-2023,Connecticut,Level 1,Minimal
+2023-05-20,20,2022-2023,Delaware,Level 1,Minimal
+2023-05-20,20,2022-2023,District of Columbia,Level 9,High
+2023-05-20,20,2022-2023,Florida,Level 3,Minimal
+2023-05-20,20,2022-2023,Georgia,Level 2,Minimal
+2023-05-20,20,2022-2023,Hawaii,Level 1,Minimal
+2023-05-20,20,2022-2023,Idaho,Level 1,Minimal
+2023-05-20,20,2022-2023,Illinois,Level 1,Minimal
+2023-05-20,20,2022-2023,Indiana,Level 1,Minimal
+2023-05-20,20,2022-2023,Iowa,Level 1,Minimal
+2023-05-20,20,2022-2023,Kansas,Level 1,Minimal
+2023-05-20,20,2022-2023,Kentucky,Level 1,Minimal
+2023-05-20,20,2022-2023,Louisiana,Level 1,Minimal
+2023-05-20,20,2022-2023,Maine,Level 1,Minimal
+2023-05-20,20,2022-2023,Maryland,Level 2,Minimal
+2023-05-20,20,2022-2023,Massachusetts,Level 2,Minimal
+2023-05-20,20,2022-2023,Michigan,Level 1,Minimal
+2023-05-20,20,2022-2023,Minnesota,Level 1,Minimal
+2023-05-20,20,2022-2023,Mississippi,Level 1,Minimal
+2023-05-20,20,2022-2023,Missouri,Level 1,Minimal
+2023-05-20,20,2022-2023,Montana,Level 1,Minimal
+2023-05-20,20,2022-2023,Nebraska,Level 1,Minimal
+2023-05-20,20,2022-2023,Nevada,Level 1,Minimal
+2023-05-20,20,2022-2023,New Hampshire,Level 1,Minimal
+2023-05-20,20,2022-2023,New Jersey,Level 3,Minimal
+2023-05-20,20,2022-2023,New Mexico,Level 4,Low
+2023-05-20,20,2022-2023,New York,Level 3,Minimal
+2023-05-20,20,2022-2023,New York City,Level 8,High
+2023-05-20,20,2022-2023,North Carolina,Level 2,Minimal
+2023-05-20,20,2022-2023,North Dakota,Level 2,Minimal
+2023-05-20,20,2022-2023,Ohio,Level 1,Minimal
+2023-05-20,20,2022-2023,Oklahoma,Level 1,Minimal
+2023-05-20,20,2022-2023,Oregon,Level 1,Minimal
+2023-05-20,20,2022-2023,Pennsylvania,Level 1,Minimal
+2023-05-20,20,2022-2023,Puerto Rico,Level 1,Minimal
+2023-05-20,20,2022-2023,Rhode Island,Level 1,Minimal
+2023-05-20,20,2022-2023,South Carolina,Level 2,Minimal
+2023-05-20,20,2022-2023,South Dakota,Level 1,Minimal
+2023-05-20,20,2022-2023,Tennessee,Level 1,Minimal
+2023-05-20,20,2022-2023,Texas,Level 4,Low
+2023-05-20,20,2022-2023,Utah,Level 1,Minimal
+2023-05-20,20,2022-2023,Vermont,Level 1,Minimal
+2023-05-20,20,2022-2023,Virgin Islands,Level 1,Minimal
+2023-05-20,20,2022-2023,Virginia,Level 3,Minimal
+2023-05-20,20,2022-2023,Washington,Level 1,Minimal
+2023-05-20,20,2022-2023,West Virginia,Level 1,Minimal
+2023-05-20,20,2022-2023,Wisconsin,Level 1,Minimal
+2023-05-20,20,2022-2023,Wyoming,Level 1,Minimal
+2023-05-13,19,2022-2023,Alabama,Level 1,Minimal
+2023-05-13,19,2022-2023,Alaska,Level 1,Minimal
+2023-05-13,19,2022-2023,Arizona,Level 1,Minimal
+2023-05-13,19,2022-2023,Arkansas,Level 1,Minimal
+2023-05-13,19,2022-2023,California,Level 5,Low
+2023-05-13,19,2022-2023,Colorado,Level 2,Minimal
+2023-05-13,19,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-05-13,19,2022-2023,Connecticut,Level 1,Minimal
+2023-05-13,19,2022-2023,Delaware,Level 1,Minimal
+2023-05-13,19,2022-2023,District of Columbia,Level 8,High
+2023-05-13,19,2022-2023,Florida,Level 3,Minimal
+2023-05-13,19,2022-2023,Georgia,Level 2,Minimal
+2023-05-13,19,2022-2023,Hawaii,Level 1,Minimal
+2023-05-13,19,2022-2023,Idaho,Level 1,Minimal
+2023-05-13,19,2022-2023,Illinois,Level 1,Minimal
+2023-05-13,19,2022-2023,Indiana,Level 2,Minimal
+2023-05-13,19,2022-2023,Iowa,Level 1,Minimal
+2023-05-13,19,2022-2023,Kansas,Level 1,Minimal
+2023-05-13,19,2022-2023,Kentucky,Level 2,Minimal
+2023-05-13,19,2022-2023,Louisiana,Level 1,Minimal
+2023-05-13,19,2022-2023,Maine,Level 1,Minimal
+2023-05-13,19,2022-2023,Maryland,Level 1,Minimal
+2023-05-13,19,2022-2023,Massachusetts,Level 2,Minimal
+2023-05-13,19,2022-2023,Michigan,Level 1,Minimal
+2023-05-13,19,2022-2023,Minnesota,Level 1,Minimal
+2023-05-13,19,2022-2023,Mississippi,Level 1,Minimal
+2023-05-13,19,2022-2023,Missouri,Level 2,Minimal
+2023-05-13,19,2022-2023,Montana,Level 1,Minimal
+2023-05-13,19,2022-2023,Nebraska,Level 1,Minimal
+2023-05-13,19,2022-2023,Nevada,Level 1,Minimal
+2023-05-13,19,2022-2023,New Hampshire,Level 1,Minimal
+2023-05-13,19,2022-2023,New Jersey,Level 2,Minimal
+2023-05-13,19,2022-2023,New Mexico,Level 4,Low
+2023-05-13,19,2022-2023,New York,Level 2,Minimal
+2023-05-13,19,2022-2023,New York City,Level 8,High
+2023-05-13,19,2022-2023,North Carolina,Level 2,Minimal
+2023-05-13,19,2022-2023,North Dakota,Level 1,Minimal
+2023-05-13,19,2022-2023,Ohio,Level 1,Minimal
+2023-05-13,19,2022-2023,Oklahoma,Level 1,Minimal
+2023-05-13,19,2022-2023,Oregon,Level 1,Minimal
+2023-05-13,19,2022-2023,Pennsylvania,Level 1,Minimal
+2023-05-13,19,2022-2023,Puerto Rico,Level 1,Minimal
+2023-05-13,19,2022-2023,Rhode Island,Level 1,Minimal
+2023-05-13,19,2022-2023,South Carolina,Level 2,Minimal
+2023-05-13,19,2022-2023,South Dakota,Level 1,Minimal
+2023-05-13,19,2022-2023,Tennessee,Level 2,Minimal
+2023-05-13,19,2022-2023,Texas,Level 4,Low
+2023-05-13,19,2022-2023,Utah,Level 1,Minimal
+2023-05-13,19,2022-2023,Vermont,Level 1,Minimal
+2023-05-13,19,2022-2023,Virgin Islands,Level 1,Minimal
+2023-05-13,19,2022-2023,Virginia,Level 4,Low
+2023-05-13,19,2022-2023,Washington,Level 1,Minimal
+2023-05-13,19,2022-2023,West Virginia,Level 10,High
+2023-05-13,19,2022-2023,Wisconsin,Level 2,Minimal
+2023-05-13,19,2022-2023,Wyoming,Level 1,Minimal
+2023-05-06,18,2022-2023,Alabama,Level 1,Minimal
+2023-05-06,18,2022-2023,Alaska,Level 1,Minimal
+2023-05-06,18,2022-2023,Arizona,Level 1,Minimal
+2023-05-06,18,2022-2023,Arkansas,Level 1,Minimal
+2023-05-06,18,2022-2023,California,Level 5,Low
+2023-05-06,18,2022-2023,Colorado,Level 2,Minimal
+2023-05-06,18,2022-2023,Commonwealth of the Northern Mariana Islands,Level 2,Minimal
+2023-05-06,18,2022-2023,Connecticut,Level 2,Minimal
+2023-05-06,18,2022-2023,Delaware,Level 1,Minimal
+2023-05-06,18,2022-2023,District of Columbia,Level 7,Moderate
+2023-05-06,18,2022-2023,Florida,Level 3,Minimal
+2023-05-06,18,2022-2023,Georgia,Level 1,Minimal
+2023-05-06,18,2022-2023,Hawaii,Level 2,Minimal
+2023-05-06,18,2022-2023,Idaho,Level 1,Minimal
+2023-05-06,18,2022-2023,Illinois,Level 1,Minimal
+2023-05-06,18,2022-2023,Indiana,Level 2,Minimal
+2023-05-06,18,2022-2023,Iowa,Level 1,Minimal
+2023-05-06,18,2022-2023,Kansas,Level 1,Minimal
+2023-05-06,18,2022-2023,Kentucky,Level 2,Minimal
+2023-05-06,18,2022-2023,Louisiana,Level 2,Minimal
+2023-05-06,18,2022-2023,Maine,Level 1,Minimal
+2023-05-06,18,2022-2023,Maryland,Level 1,Minimal
+2023-05-06,18,2022-2023,Massachusetts,Level 1,Minimal
+2023-05-06,18,2022-2023,Michigan,Level 1,Minimal
+2023-05-06,18,2022-2023,Minnesota,Level 1,Minimal
+2023-05-06,18,2022-2023,Mississippi,Level 1,Minimal
+2023-05-06,18,2022-2023,Missouri,Level 2,Minimal
+2023-05-06,18,2022-2023,Montana,Level 1,Minimal
+2023-05-06,18,2022-2023,Nebraska,Level 1,Minimal
+2023-05-06,18,2022-2023,Nevada,Level 1,Minimal
+2023-05-06,18,2022-2023,New Hampshire,Level 1,Minimal
+2023-05-06,18,2022-2023,New Jersey,Level 2,Minimal
+2023-05-06,18,2022-2023,New Mexico,Level 5,Low
+2023-05-06,18,2022-2023,New York,Level 1,Minimal
+2023-05-06,18,2022-2023,New York City,Level 7,Moderate
+2023-05-06,18,2022-2023,North Carolina,Level 2,Minimal
+2023-05-06,18,2022-2023,North Dakota,Level 1,Minimal
+2023-05-06,18,2022-2023,Ohio,Level 1,Minimal
+2023-05-06,18,2022-2023,Oklahoma,Level 1,Minimal
+2023-05-06,18,2022-2023,Oregon,Level 1,Minimal
+2023-05-06,18,2022-2023,Pennsylvania,Level 1,Minimal
+2023-05-06,18,2022-2023,Puerto Rico,Level 1,Minimal
+2023-05-06,18,2022-2023,Rhode Island,Level 2,Minimal
+2023-05-06,18,2022-2023,South Carolina,Level 2,Minimal
+2023-05-06,18,2022-2023,South Dakota,Level 1,Minimal
+2023-05-06,18,2022-2023,Tennessee,Level 3,Minimal
+2023-05-06,18,2022-2023,Texas,Level 5,Low
+2023-05-06,18,2022-2023,Utah,Level 1,Minimal
+2023-05-06,18,2022-2023,Vermont,Level 1,Minimal
+2023-05-06,18,2022-2023,Virgin Islands,Level 1,Minimal
+2023-05-06,18,2022-2023,Virginia,Level 4,Low
+2023-05-06,18,2022-2023,Washington,Level 1,Minimal
+2023-05-06,18,2022-2023,West Virginia,Level 10,High
+2023-05-06,18,2022-2023,Wisconsin,Level 1,Minimal
+2023-05-06,18,2022-2023,Wyoming,Level 1,Minimal
+2023-04-29,17,2022-2023,Alabama,Level 1,Minimal
+2023-04-29,17,2022-2023,Alaska,Level 1,Minimal
+2023-04-29,17,2022-2023,Arizona,Level 1,Minimal
+2023-04-29,17,2022-2023,Arkansas,Level 1,Minimal
+2023-04-29,17,2022-2023,California,Level 4,Low
+2023-04-29,17,2022-2023,Colorado,Level 3,Minimal
+2023-04-29,17,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-04-29,17,2022-2023,Connecticut,Level 1,Minimal
+2023-04-29,17,2022-2023,Delaware,Level 1,Minimal
+2023-04-29,17,2022-2023,District of Columbia,Level 7,Moderate
+2023-04-29,17,2022-2023,Florida,Level 3,Minimal
+2023-04-29,17,2022-2023,Georgia,Level 1,Minimal
+2023-04-29,17,2022-2023,Hawaii,Level 1,Minimal
+2023-04-29,17,2022-2023,Idaho,Level 1,Minimal
+2023-04-29,17,2022-2023,Illinois,Level 1,Minimal
+2023-04-29,17,2022-2023,Indiana,Level 2,Minimal
+2023-04-29,17,2022-2023,Iowa,Level 1,Minimal
+2023-04-29,17,2022-2023,Kansas,Level 1,Minimal
+2023-04-29,17,2022-2023,Kentucky,Level 2,Minimal
+2023-04-29,17,2022-2023,Louisiana,Level 2,Minimal
+2023-04-29,17,2022-2023,Maine,Level 1,Minimal
+2023-04-29,17,2022-2023,Maryland,Level 1,Minimal
+2023-04-29,17,2022-2023,Massachusetts,Level 1,Minimal
+2023-04-29,17,2022-2023,Michigan,Level 1,Minimal
+2023-04-29,17,2022-2023,Minnesota,Level 1,Minimal
+2023-04-29,17,2022-2023,Mississippi,Level 1,Minimal
+2023-04-29,17,2022-2023,Missouri,Level 2,Minimal
+2023-04-29,17,2022-2023,Montana,Level 1,Minimal
+2023-04-29,17,2022-2023,Nebraska,Level 2,Minimal
+2023-04-29,17,2022-2023,Nevada,Level 1,Minimal
+2023-04-29,17,2022-2023,New Hampshire,Level 1,Minimal
+2023-04-29,17,2022-2023,New Jersey,Level 2,Minimal
+2023-04-29,17,2022-2023,New Mexico,Level 6,Moderate
+2023-04-29,17,2022-2023,New York,Level 2,Minimal
+2023-04-29,17,2022-2023,New York City,Level 6,Moderate
+2023-04-29,17,2022-2023,North Carolina,Level 2,Minimal
+2023-04-29,17,2022-2023,North Dakota,Level 2,Minimal
+2023-04-29,17,2022-2023,Ohio,Level 1,Minimal
+2023-04-29,17,2022-2023,Oklahoma,Level 1,Minimal
+2023-04-29,17,2022-2023,Oregon,Level 2,Minimal
+2023-04-29,17,2022-2023,Pennsylvania,Level 1,Minimal
+2023-04-29,17,2022-2023,Puerto Rico,Level 1,Minimal
+2023-04-29,17,2022-2023,Rhode Island,Level 2,Minimal
+2023-04-29,17,2022-2023,South Carolina,Level 2,Minimal
+2023-04-29,17,2022-2023,South Dakota,Level 1,Minimal
+2023-04-29,17,2022-2023,Tennessee,Level 2,Minimal
+2023-04-29,17,2022-2023,Texas,Level 3,Minimal
+2023-04-29,17,2022-2023,Utah,Level 2,Minimal
+2023-04-29,17,2022-2023,Vermont,Level 1,Minimal
+2023-04-29,17,2022-2023,Virgin Islands,Level 1,Minimal
+2023-04-29,17,2022-2023,Virginia,Level 3,Minimal
+2023-04-29,17,2022-2023,Washington,Level 1,Minimal
+2023-04-29,17,2022-2023,West Virginia,Level 1,Minimal
+2023-04-29,17,2022-2023,Wisconsin,Level 1,Minimal
+2023-04-29,17,2022-2023,Wyoming,Level 1,Minimal
+2023-04-22,16,2022-2023,Alabama,Level 1,Minimal
+2023-04-22,16,2022-2023,Alaska,Level 1,Minimal
+2023-04-22,16,2022-2023,Arizona,Level 1,Minimal
+2023-04-22,16,2022-2023,Arkansas,Level 1,Minimal
+2023-04-22,16,2022-2023,California,Level 5,Low
+2023-04-22,16,2022-2023,Colorado,Level 3,Minimal
+2023-04-22,16,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-04-22,16,2022-2023,Connecticut,Level 1,Minimal
+2023-04-22,16,2022-2023,Delaware,Level 1,Minimal
+2023-04-22,16,2022-2023,District of Columbia,Level 5,Low
+2023-04-22,16,2022-2023,Florida,Level 3,Minimal
+2023-04-22,16,2022-2023,Georgia,Level 1,Minimal
+2023-04-22,16,2022-2023,Hawaii,Level 2,Minimal
+2023-04-22,16,2022-2023,Idaho,Level 1,Minimal
+2023-04-22,16,2022-2023,Illinois,Level 1,Minimal
+2023-04-22,16,2022-2023,Indiana,Level 2,Minimal
+2023-04-22,16,2022-2023,Iowa,Level 1,Minimal
+2023-04-22,16,2022-2023,Kansas,Level 1,Minimal
+2023-04-22,16,2022-2023,Kentucky,Level 1,Minimal
+2023-04-22,16,2022-2023,Louisiana,Level 1,Minimal
+2023-04-22,16,2022-2023,Maine,Level 1,Minimal
+2023-04-22,16,2022-2023,Maryland,Level 1,Minimal
+2023-04-22,16,2022-2023,Massachusetts,Level 2,Minimal
+2023-04-22,16,2022-2023,Michigan,Level 1,Minimal
+2023-04-22,16,2022-2023,Minnesota,Level 1,Minimal
+2023-04-22,16,2022-2023,Mississippi,Level 1,Minimal
+2023-04-22,16,2022-2023,Missouri,Level 2,Minimal
+2023-04-22,16,2022-2023,Montana,Level 1,Minimal
+2023-04-22,16,2022-2023,Nebraska,Level 1,Minimal
+2023-04-22,16,2022-2023,Nevada,Level 1,Minimal
+2023-04-22,16,2022-2023,New Hampshire,Level 1,Minimal
+2023-04-22,16,2022-2023,New Jersey,Level 3,Minimal
+2023-04-22,16,2022-2023,New Mexico,Level 5,Low
+2023-04-22,16,2022-2023,New York,Level 2,Minimal
+2023-04-22,16,2022-2023,New York City,Level 6,Moderate
+2023-04-22,16,2022-2023,North Carolina,Level 2,Minimal
+2023-04-22,16,2022-2023,North Dakota,Level 3,Minimal
+2023-04-22,16,2022-2023,Ohio,Level 1,Minimal
+2023-04-22,16,2022-2023,Oklahoma,Level 2,Minimal
+2023-04-22,16,2022-2023,Oregon,Level 2,Minimal
+2023-04-22,16,2022-2023,Pennsylvania,Level 1,Minimal
+2023-04-22,16,2022-2023,Puerto Rico,Level 1,Minimal
+2023-04-22,16,2022-2023,Rhode Island,Level 1,Minimal
+2023-04-22,16,2022-2023,South Carolina,Level 2,Minimal
+2023-04-22,16,2022-2023,South Dakota,Level 1,Minimal
+2023-04-22,16,2022-2023,Tennessee,Level 2,Minimal
+2023-04-22,16,2022-2023,Texas,Level 4,Low
+2023-04-22,16,2022-2023,Utah,Level 2,Minimal
+2023-04-22,16,2022-2023,Vermont,Level 1,Minimal
+2023-04-22,16,2022-2023,Virgin Islands,Level 1,Minimal
+2023-04-22,16,2022-2023,Virginia,Level 3,Minimal
+2023-04-22,16,2022-2023,Washington,Level 1,Minimal
+2023-04-22,16,2022-2023,West Virginia,Level 1,Minimal
+2023-04-22,16,2022-2023,Wisconsin,Level 2,Minimal
+2023-04-22,16,2022-2023,Wyoming,Level 1,Minimal
+2023-04-15,15,2022-2023,Alabama,Level 1,Minimal
+2023-04-15,15,2022-2023,Alaska,Level 1,Minimal
+2023-04-15,15,2022-2023,Arizona,Level 1,Minimal
+2023-04-15,15,2022-2023,Arkansas,Level 1,Minimal
+2023-04-15,15,2022-2023,California,Level 5,Low
+2023-04-15,15,2022-2023,Colorado,Level 3,Minimal
+2023-04-15,15,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-04-15,15,2022-2023,Connecticut,Level 2,Minimal
+2023-04-15,15,2022-2023,Delaware,Level 1,Minimal
+2023-04-15,15,2022-2023,District of Columbia,Level 8,High
+2023-04-15,15,2022-2023,Florida,Level 3,Minimal
+2023-04-15,15,2022-2023,Georgia,Level 2,Minimal
+2023-04-15,15,2022-2023,Hawaii,Level 3,Minimal
+2023-04-15,15,2022-2023,Idaho,Level 1,Minimal
+2023-04-15,15,2022-2023,Illinois,Level 1,Minimal
+2023-04-15,15,2022-2023,Indiana,Level 2,Minimal
+2023-04-15,15,2022-2023,Iowa,Level 1,Minimal
+2023-04-15,15,2022-2023,Kansas,Level 1,Minimal
+2023-04-15,15,2022-2023,Kentucky,Level 2,Minimal
+2023-04-15,15,2022-2023,Louisiana,Level 2,Minimal
+2023-04-15,15,2022-2023,Maine,Level 1,Minimal
+2023-04-15,15,2022-2023,Maryland,Level 2,Minimal
+2023-04-15,15,2022-2023,Massachusetts,Level 2,Minimal
+2023-04-15,15,2022-2023,Michigan,Level 1,Minimal
+2023-04-15,15,2022-2023,Minnesota,Level 1,Minimal
+2023-04-15,15,2022-2023,Mississippi,Level 1,Minimal
+2023-04-15,15,2022-2023,Missouri,Level 1,Minimal
+2023-04-15,15,2022-2023,Montana,Level 1,Minimal
+2023-04-15,15,2022-2023,Nebraska,Level 2,Minimal
+2023-04-15,15,2022-2023,Nevada,Level 1,Minimal
+2023-04-15,15,2022-2023,New Hampshire,Level 1,Minimal
+2023-04-15,15,2022-2023,New Jersey,Level 4,Low
+2023-04-15,15,2022-2023,New Mexico,Level 5,Low
+2023-04-15,15,2022-2023,New York,Level 3,Minimal
+2023-04-15,15,2022-2023,New York City,Level 7,Moderate
+2023-04-15,15,2022-2023,North Carolina,Level 3,Minimal
+2023-04-15,15,2022-2023,North Dakota,Level 1,Minimal
+2023-04-15,15,2022-2023,Ohio,Level 1,Minimal
+2023-04-15,15,2022-2023,Oklahoma,Level 3,Minimal
+2023-04-15,15,2022-2023,Oregon,Level 2,Minimal
+2023-04-15,15,2022-2023,Pennsylvania,Level 2,Minimal
+2023-04-15,15,2022-2023,Puerto Rico,Level 1,Minimal
+2023-04-15,15,2022-2023,Rhode Island,Level 1,Minimal
+2023-04-15,15,2022-2023,South Carolina,Level 2,Minimal
+2023-04-15,15,2022-2023,South Dakota,Level 1,Minimal
+2023-04-15,15,2022-2023,Tennessee,Level 2,Minimal
+2023-04-15,15,2022-2023,Texas,Level 4,Low
+2023-04-15,15,2022-2023,Utah,Level 2,Minimal
+2023-04-15,15,2022-2023,Vermont,Level 1,Minimal
+2023-04-15,15,2022-2023,Virgin Islands,Level 1,Minimal
+2023-04-15,15,2022-2023,Virginia,Level 3,Minimal
+2023-04-15,15,2022-2023,Washington,Level 1,Minimal
+2023-04-15,15,2022-2023,West Virginia,Level 1,Minimal
+2023-04-15,15,2022-2023,Wisconsin,Level 1,Minimal
+2023-04-15,15,2022-2023,Wyoming,Level 1,Minimal
+2023-04-08,14,2022-2023,Alabama,Level 1,Minimal
+2023-04-08,14,2022-2023,Alaska,Level 1,Minimal
+2023-04-08,14,2022-2023,Arizona,Level 1,Minimal
+2023-04-08,14,2022-2023,Arkansas,Level 1,Minimal
+2023-04-08,14,2022-2023,California,Level 6,Moderate
+2023-04-08,14,2022-2023,Colorado,Level 3,Minimal
+2023-04-08,14,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-04-08,14,2022-2023,Connecticut,Level 2,Minimal
+2023-04-08,14,2022-2023,Delaware,Level 1,Minimal
+2023-04-08,14,2022-2023,District of Columbia,Level 10,High
+2023-04-08,14,2022-2023,Florida,Level 3,Minimal
+2023-04-08,14,2022-2023,Georgia,Level 2,Minimal
+2023-04-08,14,2022-2023,Hawaii,Level 2,Minimal
+2023-04-08,14,2022-2023,Idaho,Level 1,Minimal
+2023-04-08,14,2022-2023,Illinois,Level 2,Minimal
+2023-04-08,14,2022-2023,Indiana,Level 2,Minimal
+2023-04-08,14,2022-2023,Iowa,Level 1,Minimal
+2023-04-08,14,2022-2023,Kansas,Level 1,Minimal
+2023-04-08,14,2022-2023,Kentucky,Level 2,Minimal
+2023-04-08,14,2022-2023,Louisiana,Level 1,Minimal
+2023-04-08,14,2022-2023,Maine,Level 1,Minimal
+2023-04-08,14,2022-2023,Maryland,Level 2,Minimal
+2023-04-08,14,2022-2023,Massachusetts,Level 3,Minimal
+2023-04-08,14,2022-2023,Michigan,Level 1,Minimal
+2023-04-08,14,2022-2023,Minnesota,Level 1,Minimal
+2023-04-08,14,2022-2023,Mississippi,Level 1,Minimal
+2023-04-08,14,2022-2023,Missouri,Level 2,Minimal
+2023-04-08,14,2022-2023,Montana,Level 1,Minimal
+2023-04-08,14,2022-2023,Nebraska,Level 3,Minimal
+2023-04-08,14,2022-2023,Nevada,Level 1,Minimal
+2023-04-08,14,2022-2023,New Hampshire,Level 2,Minimal
+2023-04-08,14,2022-2023,New Jersey,Level 5,Low
+2023-04-08,14,2022-2023,New Mexico,Level 6,Moderate
+2023-04-08,14,2022-2023,New York,Level 3,Minimal
+2023-04-08,14,2022-2023,New York City,Level 9,High
+2023-04-08,14,2022-2023,North Carolina,Level 3,Minimal
+2023-04-08,14,2022-2023,North Dakota,Level 2,Minimal
+2023-04-08,14,2022-2023,Ohio,Level 1,Minimal
+2023-04-08,14,2022-2023,Oklahoma,Level 3,Minimal
+2023-04-08,14,2022-2023,Oregon,Level 2,Minimal
+2023-04-08,14,2022-2023,Pennsylvania,Level 2,Minimal
+2023-04-08,14,2022-2023,Puerto Rico,Level 1,Minimal
+2023-04-08,14,2022-2023,Rhode Island,Level 2,Minimal
+2023-04-08,14,2022-2023,South Carolina,Level 3,Minimal
+2023-04-08,14,2022-2023,South Dakota,Level 1,Minimal
+2023-04-08,14,2022-2023,Tennessee,Level 2,Minimal
+2023-04-08,14,2022-2023,Texas,Level 4,Low
+2023-04-08,14,2022-2023,Utah,Level 2,Minimal
+2023-04-08,14,2022-2023,Vermont,Level 1,Minimal
+2023-04-08,14,2022-2023,Virgin Islands,Level 1,Minimal
+2023-04-08,14,2022-2023,Virginia,Level 4,Low
+2023-04-08,14,2022-2023,Washington,Level 1,Minimal
+2023-04-08,14,2022-2023,West Virginia,Level 2,Minimal
+2023-04-08,14,2022-2023,Wisconsin,Level 2,Minimal
+2023-04-08,14,2022-2023,Wyoming,Level 1,Minimal
+2023-04-01,13,2022-2023,Alabama,Level 1,Minimal
+2023-04-01,13,2022-2023,Alaska,Level 1,Minimal
+2023-04-01,13,2022-2023,Arizona,Level 1,Minimal
+2023-04-01,13,2022-2023,Arkansas,Level 2,Minimal
+2023-04-01,13,2022-2023,California,Level 6,Moderate
+2023-04-01,13,2022-2023,Colorado,Level 3,Minimal
+2023-04-01,13,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-04-01,13,2022-2023,Connecticut,Level 3,Minimal
+2023-04-01,13,2022-2023,Delaware,Level 1,Minimal
+2023-04-01,13,2022-2023,District of Columbia,Level 10,High
+2023-04-01,13,2022-2023,Florida,Level 3,Minimal
+2023-04-01,13,2022-2023,Georgia,Level 2,Minimal
+2023-04-01,13,2022-2023,Hawaii,Level 2,Minimal
+2023-04-01,13,2022-2023,Idaho,Level 1,Minimal
+2023-04-01,13,2022-2023,Illinois,Level 2,Minimal
+2023-04-01,13,2022-2023,Indiana,Level 3,Minimal
+2023-04-01,13,2022-2023,Iowa,Level 1,Minimal
+2023-04-01,13,2022-2023,Kansas,Level 1,Minimal
+2023-04-01,13,2022-2023,Kentucky,Level 3,Minimal
+2023-04-01,13,2022-2023,Louisiana,Level 2,Minimal
+2023-04-01,13,2022-2023,Maine,Level 1,Minimal
+2023-04-01,13,2022-2023,Maryland,Level 3,Minimal
+2023-04-01,13,2022-2023,Massachusetts,Level 3,Minimal
+2023-04-01,13,2022-2023,Michigan,Level 1,Minimal
+2023-04-01,13,2022-2023,Minnesota,Level 1,Minimal
+2023-04-01,13,2022-2023,Mississippi,Level 1,Minimal
+2023-04-01,13,2022-2023,Missouri,Level 3,Minimal
+2023-04-01,13,2022-2023,Montana,Level 1,Minimal
+2023-04-01,13,2022-2023,Nebraska,Level 3,Minimal
+2023-04-01,13,2022-2023,Nevada,Level 1,Minimal
+2023-04-01,13,2022-2023,New Hampshire,Level 1,Minimal
+2023-04-01,13,2022-2023,New Jersey,Level 5,Low
+2023-04-01,13,2022-2023,New Mexico,Level 7,Moderate
+2023-04-01,13,2022-2023,New York,Level 4,Low
+2023-04-01,13,2022-2023,New York City,Level 10,High
+2023-04-01,13,2022-2023,North Carolina,Level 4,Low
+2023-04-01,13,2022-2023,North Dakota,Level 1,Minimal
+2023-04-01,13,2022-2023,Ohio,Level 1,Minimal
+2023-04-01,13,2022-2023,Oklahoma,Level 3,Minimal
+2023-04-01,13,2022-2023,Oregon,Level 2,Minimal
+2023-04-01,13,2022-2023,Pennsylvania,Level 2,Minimal
+2023-04-01,13,2022-2023,Puerto Rico,Level 1,Minimal
+2023-04-01,13,2022-2023,Rhode Island,Level 2,Minimal
+2023-04-01,13,2022-2023,South Carolina,Level 4,Low
+2023-04-01,13,2022-2023,South Dakota,Level 1,Minimal
+2023-04-01,13,2022-2023,Tennessee,Level 2,Minimal
+2023-04-01,13,2022-2023,Texas,Level 3,Minimal
+2023-04-01,13,2022-2023,Utah,Level 3,Minimal
+2023-04-01,13,2022-2023,Vermont,Level 1,Minimal
+2023-04-01,13,2022-2023,Virgin Islands,Level 1,Minimal
+2023-04-01,13,2022-2023,Virginia,Level 5,Low
+2023-04-01,13,2022-2023,Washington,Level 1,Minimal
+2023-04-01,13,2022-2023,West Virginia,Level 3,Minimal
+2023-04-01,13,2022-2023,Wisconsin,Level 2,Minimal
+2023-04-01,13,2022-2023,Wyoming,Level 1,Minimal
+2023-03-25,12,2022-2023,Alabama,Level 2,Minimal
+2023-03-25,12,2022-2023,Alaska,Level 1,Minimal
+2023-03-25,12,2022-2023,Arizona,Level 1,Minimal
+2023-03-25,12,2022-2023,Arkansas,Level 2,Minimal
+2023-03-25,12,2022-2023,California,Level 6,Moderate
+2023-03-25,12,2022-2023,Colorado,Level 5,Low
+2023-03-25,12,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-03-25,12,2022-2023,Connecticut,Level 3,Minimal
+2023-03-25,12,2022-2023,Delaware,Level 1,Minimal
+2023-03-25,12,2022-2023,District of Columbia,Level 10,High
+2023-03-25,12,2022-2023,Florida,Level 3,Minimal
+2023-03-25,12,2022-2023,Georgia,Level 3,Minimal
+2023-03-25,12,2022-2023,Hawaii,Level 2,Minimal
+2023-03-25,12,2022-2023,Idaho,Level 1,Minimal
+2023-03-25,12,2022-2023,Illinois,Level 3,Minimal
+2023-03-25,12,2022-2023,Indiana,Level 3,Minimal
+2023-03-25,12,2022-2023,Iowa,Level 1,Minimal
+2023-03-25,12,2022-2023,Kansas,Level 1,Minimal
+2023-03-25,12,2022-2023,Kentucky,Level 4,Low
+2023-03-25,12,2022-2023,Louisiana,Level 2,Minimal
+2023-03-25,12,2022-2023,Maine,Level 1,Minimal
+2023-03-25,12,2022-2023,Maryland,Level 3,Minimal
+2023-03-25,12,2022-2023,Massachusetts,Level 3,Minimal
+2023-03-25,12,2022-2023,Michigan,Level 1,Minimal
+2023-03-25,12,2022-2023,Minnesota,Level 1,Minimal
+2023-03-25,12,2022-2023,Mississippi,Level 1,Minimal
+2023-03-25,12,2022-2023,Missouri,Level 3,Minimal
+2023-03-25,12,2022-2023,Montana,Level 1,Minimal
+2023-03-25,12,2022-2023,Nebraska,Level 4,Low
+2023-03-25,12,2022-2023,Nevada,Level 1,Minimal
+2023-03-25,12,2022-2023,New Hampshire,Level 1,Minimal
+2023-03-25,12,2022-2023,New Jersey,Level 6,Moderate
+2023-03-25,12,2022-2023,New Mexico,Level 7,Moderate
+2023-03-25,12,2022-2023,New York,Level 4,Low
+2023-03-25,12,2022-2023,New York City,Level 10,High
+2023-03-25,12,2022-2023,North Carolina,Level 4,Low
+2023-03-25,12,2022-2023,North Dakota,Level 1,Minimal
+2023-03-25,12,2022-2023,Ohio,Level 1,Minimal
+2023-03-25,12,2022-2023,Oklahoma,Level 4,Low
+2023-03-25,12,2022-2023,Oregon,Level 3,Minimal
+2023-03-25,12,2022-2023,Pennsylvania,Level 3,Minimal
+2023-03-25,12,2022-2023,Puerto Rico,Level 1,Minimal
+2023-03-25,12,2022-2023,Rhode Island,Level 2,Minimal
+2023-03-25,12,2022-2023,South Carolina,Level 3,Minimal
+2023-03-25,12,2022-2023,South Dakota,Level 1,Minimal
+2023-03-25,12,2022-2023,Tennessee,Level 2,Minimal
+2023-03-25,12,2022-2023,Texas,Level 3,Minimal
+2023-03-25,12,2022-2023,Utah,Level 3,Minimal
+2023-03-25,12,2022-2023,Vermont,Level 1,Minimal
+2023-03-25,12,2022-2023,Virgin Islands,Level 1,Minimal
+2023-03-25,12,2022-2023,Virginia,Level 5,Low
+2023-03-25,12,2022-2023,Washington,Level 1,Minimal
+2023-03-25,12,2022-2023,West Virginia,Level 4,Low
+2023-03-25,12,2022-2023,Wisconsin,Level 3,Minimal
+2023-03-25,12,2022-2023,Wyoming,Level 1,Minimal
+2023-03-18,11,2022-2023,Alabama,Level 2,Minimal
+2023-03-18,11,2022-2023,Alaska,Level 1,Minimal
+2023-03-18,11,2022-2023,Arizona,Level 1,Minimal
+2023-03-18,11,2022-2023,Arkansas,Level 3,Minimal
+2023-03-18,11,2022-2023,California,Level 6,Moderate
+2023-03-18,11,2022-2023,Colorado,Level 5,Low
+2023-03-18,11,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-03-18,11,2022-2023,Connecticut,Level 3,Minimal
+2023-03-18,11,2022-2023,Delaware,Level 1,Minimal
+2023-03-18,11,2022-2023,District of Columbia,Level 10,High
+2023-03-18,11,2022-2023,Florida,Level 3,Minimal
+2023-03-18,11,2022-2023,Georgia,Level 3,Minimal
+2023-03-18,11,2022-2023,Hawaii,Level 2,Minimal
+2023-03-18,11,2022-2023,Idaho,Level 1,Minimal
+2023-03-18,11,2022-2023,Illinois,Level 3,Minimal
+2023-03-18,11,2022-2023,Indiana,Level 4,Low
+2023-03-18,11,2022-2023,Iowa,Level 1,Minimal
+2023-03-18,11,2022-2023,Kansas,Level 1,Minimal
+2023-03-18,11,2022-2023,Kentucky,Level 3,Minimal
+2023-03-18,11,2022-2023,Louisiana,Level 2,Minimal
+2023-03-18,11,2022-2023,Maine,Level 1,Minimal
+2023-03-18,11,2022-2023,Maryland,Level 3,Minimal
+2023-03-18,11,2022-2023,Massachusetts,Level 2,Minimal
+2023-03-18,11,2022-2023,Michigan,Level 1,Minimal
+2023-03-18,11,2022-2023,Minnesota,Level 1,Minimal
+2023-03-18,11,2022-2023,Mississippi,Level 2,Minimal
+2023-03-18,11,2022-2023,Missouri,Level 3,Minimal
+2023-03-18,11,2022-2023,Montana,Level 1,Minimal
+2023-03-18,11,2022-2023,Nebraska,Level 4,Low
+2023-03-18,11,2022-2023,Nevada,Level 1,Minimal
+2023-03-18,11,2022-2023,New Hampshire,Level 1,Minimal
+2023-03-18,11,2022-2023,New Jersey,Level 6,Moderate
+2023-03-18,11,2022-2023,New Mexico,Level 8,High
+2023-03-18,11,2022-2023,New York,Level 4,Low
+2023-03-18,11,2022-2023,New York City,Level 8,High
+2023-03-18,11,2022-2023,North Carolina,Level 4,Low
+2023-03-18,11,2022-2023,North Dakota,Level 1,Minimal
+2023-03-18,11,2022-2023,Ohio,Level 1,Minimal
+2023-03-18,11,2022-2023,Oklahoma,Level 3,Minimal
+2023-03-18,11,2022-2023,Oregon,Level 2,Minimal
+2023-03-18,11,2022-2023,Pennsylvania,Level 3,Minimal
+2023-03-18,11,2022-2023,Puerto Rico,Level 1,Minimal
+2023-03-18,11,2022-2023,Rhode Island,Level 2,Minimal
+2023-03-18,11,2022-2023,South Carolina,Level 3,Minimal
+2023-03-18,11,2022-2023,South Dakota,Level 1,Minimal
+2023-03-18,11,2022-2023,Tennessee,Level 2,Minimal
+2023-03-18,11,2022-2023,Texas,Level 3,Minimal
+2023-03-18,11,2022-2023,Utah,Level 3,Minimal
+2023-03-18,11,2022-2023,Vermont,Level 1,Minimal
+2023-03-18,11,2022-2023,Virgin Islands,Level 3,Minimal
+2023-03-18,11,2022-2023,Virginia,Level 5,Low
+2023-03-18,11,2022-2023,Washington,Level 1,Minimal
+2023-03-18,11,2022-2023,West Virginia,Level 4,Low
+2023-03-18,11,2022-2023,Wisconsin,Level 2,Minimal
+2023-03-18,11,2022-2023,Wyoming,Level 1,Minimal
+2023-03-11,10,2022-2023,Alabama,Level 2,Minimal
+2023-03-11,10,2022-2023,Alaska,Level 1,Minimal
+2023-03-11,10,2022-2023,Arizona,Level 1,Minimal
+2023-03-11,10,2022-2023,Arkansas,Level 3,Minimal
+2023-03-11,10,2022-2023,California,Level 6,Moderate
+2023-03-11,10,2022-2023,Colorado,Level 4,Low
+2023-03-11,10,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-03-11,10,2022-2023,Connecticut,Level 3,Minimal
+2023-03-11,10,2022-2023,Delaware,Level 1,Minimal
+2023-03-11,10,2022-2023,District of Columbia,Level 7,Moderate
+2023-03-11,10,2022-2023,Florida,Level 4,Low
+2023-03-11,10,2022-2023,Georgia,Level 2,Minimal
+2023-03-11,10,2022-2023,Hawaii,Level 2,Minimal
+2023-03-11,10,2022-2023,Idaho,Level 1,Minimal
+2023-03-11,10,2022-2023,Illinois,Level 3,Minimal
+2023-03-11,10,2022-2023,Indiana,Level 3,Minimal
+2023-03-11,10,2022-2023,Iowa,Level 1,Minimal
+2023-03-11,10,2022-2023,Kansas,Level 1,Minimal
+2023-03-11,10,2022-2023,Kentucky,Level 3,Minimal
+2023-03-11,10,2022-2023,Louisiana,Level 1,Minimal
+2023-03-11,10,2022-2023,Maine,Level 1,Minimal
+2023-03-11,10,2022-2023,Maryland,Level 3,Minimal
+2023-03-11,10,2022-2023,Massachusetts,Level 2,Minimal
+2023-03-11,10,2022-2023,Michigan,Level 1,Minimal
+2023-03-11,10,2022-2023,Minnesota,Level 1,Minimal
+2023-03-11,10,2022-2023,Mississippi,Level 2,Minimal
+2023-03-11,10,2022-2023,Missouri,Level 4,Low
+2023-03-11,10,2022-2023,Montana,Level 1,Minimal
+2023-03-11,10,2022-2023,Nebraska,Level 4,Low
+2023-03-11,10,2022-2023,Nevada,Level 1,Minimal
+2023-03-11,10,2022-2023,New Hampshire,Level 2,Minimal
+2023-03-11,10,2022-2023,New Jersey,Level 6,Moderate
+2023-03-11,10,2022-2023,New Mexico,Level 9,High
+2023-03-11,10,2022-2023,New York,Level 4,Low
+2023-03-11,10,2022-2023,New York City,Level 8,High
+2023-03-11,10,2022-2023,North Carolina,Level 3,Minimal
+2023-03-11,10,2022-2023,North Dakota,Level 3,Minimal
+2023-03-11,10,2022-2023,Ohio,Level 1,Minimal
+2023-03-11,10,2022-2023,Oklahoma,Level 3,Minimal
+2023-03-11,10,2022-2023,Oregon,Level 2,Minimal
+2023-03-11,10,2022-2023,Pennsylvania,Level 3,Minimal
+2023-03-11,10,2022-2023,Puerto Rico,Level 1,Minimal
+2023-03-11,10,2022-2023,Rhode Island,Level 2,Minimal
+2023-03-11,10,2022-2023,South Carolina,Level 3,Minimal
+2023-03-11,10,2022-2023,South Dakota,Level 1,Minimal
+2023-03-11,10,2022-2023,Tennessee,Level 2,Minimal
+2023-03-11,10,2022-2023,Texas,Level 5,Low
+2023-03-11,10,2022-2023,Utah,Level 3,Minimal
+2023-03-11,10,2022-2023,Vermont,Level 1,Minimal
+2023-03-11,10,2022-2023,Virgin Islands,Level 1,Minimal
+2023-03-11,10,2022-2023,Virginia,Level 5,Low
+2023-03-11,10,2022-2023,Washington,Level 1,Minimal
+2023-03-11,10,2022-2023,West Virginia,Level 3,Minimal
+2023-03-11,10,2022-2023,Wisconsin,Level 2,Minimal
+2023-03-11,10,2022-2023,Wyoming,Level 2,Minimal
+2023-03-04,9,2022-2023,Alabama,Level 2,Minimal
+2023-03-04,9,2022-2023,Alaska,Level 1,Minimal
+2023-03-04,9,2022-2023,Arizona,Level 1,Minimal
+2023-03-04,9,2022-2023,Arkansas,Level 3,Minimal
+2023-03-04,9,2022-2023,California,Level 7,Moderate
+2023-03-04,9,2022-2023,Colorado,Level 4,Low
+2023-03-04,9,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-03-04,9,2022-2023,Connecticut,Level 3,Minimal
+2023-03-04,9,2022-2023,Delaware,Level 1,Minimal
+2023-03-04,9,2022-2023,District of Columbia,Level 6,Moderate
+2023-03-04,9,2022-2023,Florida,Level 4,Low
+2023-03-04,9,2022-2023,Georgia,Level 2,Minimal
+2023-03-04,9,2022-2023,Hawaii,Level 2,Minimal
+2023-03-04,9,2022-2023,Idaho,Level 1,Minimal
+2023-03-04,9,2022-2023,Illinois,Level 4,Low
+2023-03-04,9,2022-2023,Indiana,Level 3,Minimal
+2023-03-04,9,2022-2023,Iowa,Level 1,Minimal
+2023-03-04,9,2022-2023,Kansas,Level 1,Minimal
+2023-03-04,9,2022-2023,Kentucky,Level 3,Minimal
+2023-03-04,9,2022-2023,Louisiana,Level 1,Minimal
+2023-03-04,9,2022-2023,Maine,Level 1,Minimal
+2023-03-04,9,2022-2023,Maryland,Level 3,Minimal
+2023-03-04,9,2022-2023,Massachusetts,Level 2,Minimal
+2023-03-04,9,2022-2023,Michigan,Level 1,Minimal
+2023-03-04,9,2022-2023,Minnesota,Level 1,Minimal
+2023-03-04,9,2022-2023,Mississippi,Level 3,Minimal
+2023-03-04,9,2022-2023,Missouri,Level 4,Low
+2023-03-04,9,2022-2023,Montana,Level 1,Minimal
+2023-03-04,9,2022-2023,Nebraska,Level 3,Minimal
+2023-03-04,9,2022-2023,Nevada,Level 1,Minimal
+2023-03-04,9,2022-2023,New Hampshire,Level 1,Minimal
+2023-03-04,9,2022-2023,New Jersey,Level 6,Moderate
+2023-03-04,9,2022-2023,New Mexico,Level 9,High
+2023-03-04,9,2022-2023,New York,Level 4,Low
+2023-03-04,9,2022-2023,New York City,Level 8,High
+2023-03-04,9,2022-2023,North Carolina,Level 4,Low
+2023-03-04,9,2022-2023,North Dakota,Level 2,Minimal
+2023-03-04,9,2022-2023,Ohio,Level 1,Minimal
+2023-03-04,9,2022-2023,Oklahoma,Level 4,Low
+2023-03-04,9,2022-2023,Oregon,Level 2,Minimal
+2023-03-04,9,2022-2023,Pennsylvania,Level 3,Minimal
+2023-03-04,9,2022-2023,Puerto Rico,Level 1,Minimal
+2023-03-04,9,2022-2023,Rhode Island,Level 2,Minimal
+2023-03-04,9,2022-2023,South Carolina,Level 3,Minimal
+2023-03-04,9,2022-2023,South Dakota,Level 1,Minimal
+2023-03-04,9,2022-2023,Tennessee,Level 3,Minimal
+2023-03-04,9,2022-2023,Texas,Level 5,Low
+2023-03-04,9,2022-2023,Utah,Level 3,Minimal
+2023-03-04,9,2022-2023,Vermont,Level 1,Minimal
+2023-03-04,9,2022-2023,Virgin Islands,Level 1,Minimal
+2023-03-04,9,2022-2023,Virginia,Level 6,Moderate
+2023-03-04,9,2022-2023,Washington,Level 1,Minimal
+2023-03-04,9,2022-2023,West Virginia,Level 3,Minimal
+2023-03-04,9,2022-2023,Wisconsin,Level 2,Minimal
+2023-03-04,9,2022-2023,Wyoming,Level 2,Minimal
+2023-02-25,8,2022-2023,Alabama,Level 3,Minimal
+2023-02-25,8,2022-2023,Alaska,Level 1,Minimal
+2023-02-25,8,2022-2023,Arizona,Level 1,Minimal
+2023-02-25,8,2022-2023,Arkansas,Level 4,Low
+2023-02-25,8,2022-2023,California,Level 8,High
+2023-02-25,8,2022-2023,Colorado,Level 4,Low
+2023-02-25,8,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-02-25,8,2022-2023,Connecticut,Level 3,Minimal
+2023-02-25,8,2022-2023,Delaware,Level 1,Minimal
+2023-02-25,8,2022-2023,District of Columbia,Level 9,High
+2023-02-25,8,2022-2023,Florida,Level 4,Low
+2023-02-25,8,2022-2023,Georgia,Level 3,Minimal
+2023-02-25,8,2022-2023,Hawaii,Level 3,Minimal
+2023-02-25,8,2022-2023,Idaho,Level 1,Minimal
+2023-02-25,8,2022-2023,Illinois,Level 4,Low
+2023-02-25,8,2022-2023,Indiana,Level 3,Minimal
+2023-02-25,8,2022-2023,Iowa,Level 1,Minimal
+2023-02-25,8,2022-2023,Kansas,Level 1,Minimal
+2023-02-25,8,2022-2023,Kentucky,Level 3,Minimal
+2023-02-25,8,2022-2023,Louisiana,Level 2,Minimal
+2023-02-25,8,2022-2023,Maine,Level 1,Minimal
+2023-02-25,8,2022-2023,Maryland,Level 3,Minimal
+2023-02-25,8,2022-2023,Massachusetts,Level 3,Minimal
+2023-02-25,8,2022-2023,Michigan,Level 1,Minimal
+2023-02-25,8,2022-2023,Minnesota,Level 1,Minimal
+2023-02-25,8,2022-2023,Mississippi,Level 2,Minimal
+2023-02-25,8,2022-2023,Missouri,Level 3,Minimal
+2023-02-25,8,2022-2023,Montana,Level 1,Minimal
+2023-02-25,8,2022-2023,Nebraska,Level 3,Minimal
+2023-02-25,8,2022-2023,Nevada,Level 1,Minimal
+2023-02-25,8,2022-2023,New Hampshire,Level 3,Minimal
+2023-02-25,8,2022-2023,New Jersey,Level 6,Moderate
+2023-02-25,8,2022-2023,New Mexico,Level 9,High
+2023-02-25,8,2022-2023,New York,Level 4,Low
+2023-02-25,8,2022-2023,New York City,Level 8,High
+2023-02-25,8,2022-2023,North Carolina,Level 5,Low
+2023-02-25,8,2022-2023,North Dakota,Level 1,Minimal
+2023-02-25,8,2022-2023,Ohio,Level 1,Minimal
+2023-02-25,8,2022-2023,Oklahoma,Level 2,Minimal
+2023-02-25,8,2022-2023,Oregon,Level 3,Minimal
+2023-02-25,8,2022-2023,Pennsylvania,Level 3,Minimal
+2023-02-25,8,2022-2023,Puerto Rico,Level 1,Minimal
+2023-02-25,8,2022-2023,Rhode Island,Level 2,Minimal
+2023-02-25,8,2022-2023,South Carolina,Level 4,Low
+2023-02-25,8,2022-2023,South Dakota,Level 1,Minimal
+2023-02-25,8,2022-2023,Tennessee,Level 3,Minimal
+2023-02-25,8,2022-2023,Texas,Level 5,Low
+2023-02-25,8,2022-2023,Utah,Level 5,Low
+2023-02-25,8,2022-2023,Vermont,Level 1,Minimal
+2023-02-25,8,2022-2023,Virgin Islands,Level 1,Minimal
+2023-02-25,8,2022-2023,Virginia,Level 5,Low
+2023-02-25,8,2022-2023,Washington,Level 1,Minimal
+2023-02-25,8,2022-2023,West Virginia,Level 3,Minimal
+2023-02-25,8,2022-2023,Wisconsin,Level 2,Minimal
+2023-02-25,8,2022-2023,Wyoming,Level 2,Minimal
+2023-02-18,7,2022-2023,Alabama,Level 4,Low
+2023-02-18,7,2022-2023,Alaska,Level 1,Minimal
+2023-02-18,7,2022-2023,Arizona,Level 1,Minimal
+2023-02-18,7,2022-2023,Arkansas,Level 4,Low
+2023-02-18,7,2022-2023,California,Level 7,Moderate
+2023-02-18,7,2022-2023,Colorado,Level 5,Low
+2023-02-18,7,2022-2023,Commonwealth of the Northern Mariana Islands,Level 2,Minimal
+2023-02-18,7,2022-2023,Connecticut,Level 3,Minimal
+2023-02-18,7,2022-2023,Delaware,Level 1,Minimal
+2023-02-18,7,2022-2023,District of Columbia,Level 9,High
+2023-02-18,7,2022-2023,Florida,Level 5,Low
+2023-02-18,7,2022-2023,Georgia,Level 4,Low
+2023-02-18,7,2022-2023,Hawaii,Level 2,Minimal
+2023-02-18,7,2022-2023,Idaho,Level 1,Minimal
+2023-02-18,7,2022-2023,Illinois,Level 3,Minimal
+2023-02-18,7,2022-2023,Indiana,Level 3,Minimal
+2023-02-18,7,2022-2023,Iowa,Level 2,Minimal
+2023-02-18,7,2022-2023,Kansas,Level 1,Minimal
+2023-02-18,7,2022-2023,Kentucky,Level 4,Low
+2023-02-18,7,2022-2023,Louisiana,Level 3,Minimal
+2023-02-18,7,2022-2023,Maine,Level 1,Minimal
+2023-02-18,7,2022-2023,Maryland,Level 3,Minimal
+2023-02-18,7,2022-2023,Massachusetts,Level 3,Minimal
+2023-02-18,7,2022-2023,Michigan,Level 1,Minimal
+2023-02-18,7,2022-2023,Minnesota,Level 1,Minimal
+2023-02-18,7,2022-2023,Mississippi,Level 4,Low
+2023-02-18,7,2022-2023,Missouri,Level 4,Low
+2023-02-18,7,2022-2023,Montana,Level 1,Minimal
+2023-02-18,7,2022-2023,Nebraska,Level 3,Minimal
+2023-02-18,7,2022-2023,Nevada,Level 1,Minimal
+2023-02-18,7,2022-2023,New Hampshire,Level 3,Minimal
+2023-02-18,7,2022-2023,New Jersey,Level 6,Moderate
+2023-02-18,7,2022-2023,New Mexico,Level 9,High
+2023-02-18,7,2022-2023,New York,Level 5,Low
+2023-02-18,7,2022-2023,New York City,Level 9,High
+2023-02-18,7,2022-2023,North Carolina,Level 5,Low
+2023-02-18,7,2022-2023,North Dakota,Level 9,High
+2023-02-18,7,2022-2023,Ohio,Level 1,Minimal
+2023-02-18,7,2022-2023,Oklahoma,Level 3,Minimal
+2023-02-18,7,2022-2023,Oregon,Level 2,Minimal
+2023-02-18,7,2022-2023,Pennsylvania,Level 3,Minimal
+2023-02-18,7,2022-2023,Puerto Rico,Level 1,Minimal
+2023-02-18,7,2022-2023,Rhode Island,Level 3,Minimal
+2023-02-18,7,2022-2023,South Carolina,Level 5,Low
+2023-02-18,7,2022-2023,South Dakota,Level 2,Minimal
+2023-02-18,7,2022-2023,Tennessee,Level 4,Low
+2023-02-18,7,2022-2023,Texas,Level 6,Moderate
+2023-02-18,7,2022-2023,Utah,Level 3,Minimal
+2023-02-18,7,2022-2023,Vermont,Level 1,Minimal
+2023-02-18,7,2022-2023,Virgin Islands,Level 3,Minimal
+2023-02-18,7,2022-2023,Virginia,Level 6,Moderate
+2023-02-18,7,2022-2023,Washington,Level 1,Minimal
+2023-02-18,7,2022-2023,West Virginia,Level 3,Minimal
+2023-02-18,7,2022-2023,Wisconsin,Level 2,Minimal
+2023-02-18,7,2022-2023,Wyoming,Level 3,Minimal
+2023-02-11,6,2022-2023,Alabama,Level 4,Low
+2023-02-11,6,2022-2023,Alaska,Level 1,Minimal
+2023-02-11,6,2022-2023,Arizona,Level 1,Minimal
+2023-02-11,6,2022-2023,Arkansas,Level 3,Minimal
+2023-02-11,6,2022-2023,California,Level 7,Moderate
+2023-02-11,6,2022-2023,Colorado,Level 5,Low
+2023-02-11,6,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-02-11,6,2022-2023,Connecticut,Level 3,Minimal
+2023-02-11,6,2022-2023,Delaware,Level 1,Minimal
+2023-02-11,6,2022-2023,District of Columbia,Level 10,High
+2023-02-11,6,2022-2023,Florida,Level 5,Low
+2023-02-11,6,2022-2023,Georgia,Level 4,Low
+2023-02-11,6,2022-2023,Hawaii,Level 4,Low
+2023-02-11,6,2022-2023,Idaho,Level 1,Minimal
+2023-02-11,6,2022-2023,Illinois,Level 3,Minimal
+2023-02-11,6,2022-2023,Indiana,Level 3,Minimal
+2023-02-11,6,2022-2023,Iowa,Level 1,Minimal
+2023-02-11,6,2022-2023,Kansas,Level 1,Minimal
+2023-02-11,6,2022-2023,Kentucky,Level 5,Low
+2023-02-11,6,2022-2023,Louisiana,Level 3,Minimal
+2023-02-11,6,2022-2023,Maine,Level 1,Minimal
+2023-02-11,6,2022-2023,Maryland,Level 3,Minimal
+2023-02-11,6,2022-2023,Massachusetts,Level 3,Minimal
+2023-02-11,6,2022-2023,Michigan,Level 1,Minimal
+2023-02-11,6,2022-2023,Minnesota,Level 1,Minimal
+2023-02-11,6,2022-2023,Mississippi,Level 5,Low
+2023-02-11,6,2022-2023,Missouri,Level 3,Minimal
+2023-02-11,6,2022-2023,Montana,Level 1,Minimal
+2023-02-11,6,2022-2023,Nebraska,Level 3,Minimal
+2023-02-11,6,2022-2023,Nevada,Level 1,Minimal
+2023-02-11,6,2022-2023,New Hampshire,Level 1,Minimal
+2023-02-11,6,2022-2023,New Jersey,Level 6,Moderate
+2023-02-11,6,2022-2023,New Mexico,Level 10,High
+2023-02-11,6,2022-2023,New York,Level 4,Low
+2023-02-11,6,2022-2023,New York City,Level 10,High
+2023-02-11,6,2022-2023,North Carolina,Level 5,Low
+2023-02-11,6,2022-2023,North Dakota,Level 7,Moderate
+2023-02-11,6,2022-2023,Ohio,Level 1,Minimal
+2023-02-11,6,2022-2023,Oklahoma,Level 3,Minimal
+2023-02-11,6,2022-2023,Oregon,Level 2,Minimal
+2023-02-11,6,2022-2023,Pennsylvania,Level 3,Minimal
+2023-02-11,6,2022-2023,Puerto Rico,Level 1,Minimal
+2023-02-11,6,2022-2023,Rhode Island,Level 2,Minimal
+2023-02-11,6,2022-2023,South Carolina,Level 6,Moderate
+2023-02-11,6,2022-2023,South Dakota,Level 2,Minimal
+2023-02-11,6,2022-2023,Tennessee,Level 3,Minimal
+2023-02-11,6,2022-2023,Texas,Level 6,Moderate
+2023-02-11,6,2022-2023,Utah,Level 2,Minimal
+2023-02-11,6,2022-2023,Vermont,Level 1,Minimal
+2023-02-11,6,2022-2023,Virgin Islands,Level 5,Low
+2023-02-11,6,2022-2023,Virginia,Level 7,Moderate
+2023-02-11,6,2022-2023,Washington,Level 1,Minimal
+2023-02-11,6,2022-2023,West Virginia,Level 2,Minimal
+2023-02-11,6,2022-2023,Wisconsin,Level 2,Minimal
+2023-02-11,6,2022-2023,Wyoming,Level 3,Minimal
+2023-02-04,5,2022-2023,Alabama,Level 4,Low
+2023-02-04,5,2022-2023,Alaska,Level 1,Minimal
+2023-02-04,5,2022-2023,Arizona,Level 1,Minimal
+2023-02-04,5,2022-2023,Arkansas,Level 4,Low
+2023-02-04,5,2022-2023,California,Level 6,Moderate
+2023-02-04,5,2022-2023,Colorado,Level 5,Low
+2023-02-04,5,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-02-04,5,2022-2023,Connecticut,Level 3,Minimal
+2023-02-04,5,2022-2023,Delaware,Level 1,Minimal
+2023-02-04,5,2022-2023,District of Columbia,Level 10,High
+2023-02-04,5,2022-2023,Florida,Level 6,Moderate
+2023-02-04,5,2022-2023,Georgia,Level 4,Low
+2023-02-04,5,2022-2023,Hawaii,Level 3,Minimal
+2023-02-04,5,2022-2023,Idaho,Level 1,Minimal
+2023-02-04,5,2022-2023,Illinois,Level 3,Minimal
+2023-02-04,5,2022-2023,Indiana,Level 3,Minimal
+2023-02-04,5,2022-2023,Iowa,Level 1,Minimal
+2023-02-04,5,2022-2023,Kansas,Level 1,Minimal
+2023-02-04,5,2022-2023,Kentucky,Level 5,Low
+2023-02-04,5,2022-2023,Louisiana,Level 3,Minimal
+2023-02-04,5,2022-2023,Maine,Level 1,Minimal
+2023-02-04,5,2022-2023,Maryland,Level 3,Minimal
+2023-02-04,5,2022-2023,Massachusetts,Level 3,Minimal
+2023-02-04,5,2022-2023,Michigan,Level 1,Minimal
+2023-02-04,5,2022-2023,Minnesota,Level 1,Minimal
+2023-02-04,5,2022-2023,Mississippi,Level 5,Low
+2023-02-04,5,2022-2023,Missouri,Level 3,Minimal
+2023-02-04,5,2022-2023,Montana,Level 1,Minimal
+2023-02-04,5,2022-2023,Nebraska,Level 3,Minimal
+2023-02-04,5,2022-2023,Nevada,Level 1,Minimal
+2023-02-04,5,2022-2023,New Hampshire,Level 1,Minimal
+2023-02-04,5,2022-2023,New Jersey,Level 5,Low
+2023-02-04,5,2022-2023,New Mexico,Level 9,High
+2023-02-04,5,2022-2023,New York,Level 5,Low
+2023-02-04,5,2022-2023,New York City,Level 10,High
+2023-02-04,5,2022-2023,North Carolina,Level 4,Low
+2023-02-04,5,2022-2023,North Dakota,Level 8,High
+2023-02-04,5,2022-2023,Ohio,Level 1,Minimal
+2023-02-04,5,2022-2023,Oklahoma,Level 4,Low
+2023-02-04,5,2022-2023,Oregon,Level 2,Minimal
+2023-02-04,5,2022-2023,Pennsylvania,Level 3,Minimal
+2023-02-04,5,2022-2023,Puerto Rico,Level 1,Minimal
+2023-02-04,5,2022-2023,Rhode Island,Level 2,Minimal
+2023-02-04,5,2022-2023,South Carolina,Level 6,Moderate
+2023-02-04,5,2022-2023,South Dakota,Level 1,Minimal
+2023-02-04,5,2022-2023,Tennessee,Level 4,Low
+2023-02-04,5,2022-2023,Texas,Level 7,Moderate
+2023-02-04,5,2022-2023,Utah,Level 3,Minimal
+2023-02-04,5,2022-2023,Vermont,Level 1,Minimal
+2023-02-04,5,2022-2023,Virgin Islands,Level 1,Minimal
+2023-02-04,5,2022-2023,Virginia,Level 7,Moderate
+2023-02-04,5,2022-2023,Washington,Level 1,Minimal
+2023-02-04,5,2022-2023,West Virginia,Level 1,Minimal
+2023-02-04,5,2022-2023,Wisconsin,Level 1,Minimal
+2023-02-04,5,2022-2023,Wyoming,Level 1,Minimal
+2023-01-28,4,2022-2023,Alabama,Level 5,Low
+2023-01-28,4,2022-2023,Alaska,Level 1,Minimal
+2023-01-28,4,2022-2023,Arizona,Level 1,Minimal
+2023-01-28,4,2022-2023,Arkansas,Level 4,Low
+2023-01-28,4,2022-2023,California,Level 6,Moderate
+2023-01-28,4,2022-2023,Colorado,Level 4,Low
+2023-01-28,4,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-01-28,4,2022-2023,Connecticut,Level 4,Low
+2023-01-28,4,2022-2023,Delaware,Level 1,Minimal
+2023-01-28,4,2022-2023,District of Columbia,Level 8,High
+2023-01-28,4,2022-2023,Florida,Level 5,Low
+2023-01-28,4,2022-2023,Georgia,Level 4,Low
+2023-01-28,4,2022-2023,Hawaii,Level 4,Low
+2023-01-28,4,2022-2023,Idaho,Level 1,Minimal
+2023-01-28,4,2022-2023,Illinois,Level 3,Minimal
+2023-01-28,4,2022-2023,Indiana,Level 3,Minimal
+2023-01-28,4,2022-2023,Iowa,Level 1,Minimal
+2023-01-28,4,2022-2023,Kansas,Level 2,Minimal
+2023-01-28,4,2022-2023,Kentucky,Level 5,Low
+2023-01-28,4,2022-2023,Louisiana,Level 4,Low
+2023-01-28,4,2022-2023,Maine,Level 1,Minimal
+2023-01-28,4,2022-2023,Maryland,Level 3,Minimal
+2023-01-28,4,2022-2023,Massachusetts,Level 3,Minimal
+2023-01-28,4,2022-2023,Michigan,Level 1,Minimal
+2023-01-28,4,2022-2023,Minnesota,Level 1,Minimal
+2023-01-28,4,2022-2023,Mississippi,Level 5,Low
+2023-01-28,4,2022-2023,Missouri,Level 3,Minimal
+2023-01-28,4,2022-2023,Montana,Level 1,Minimal
+2023-01-28,4,2022-2023,Nebraska,Level 3,Minimal
+2023-01-28,4,2022-2023,Nevada,Level 1,Minimal
+2023-01-28,4,2022-2023,New Hampshire,Level 1,Minimal
+2023-01-28,4,2022-2023,New Jersey,Level 5,Low
+2023-01-28,4,2022-2023,New Mexico,Level 9,High
+2023-01-28,4,2022-2023,New York,Level 4,Low
+2023-01-28,4,2022-2023,New York City,Level 10,High
+2023-01-28,4,2022-2023,North Carolina,Level 4,Low
+2023-01-28,4,2022-2023,North Dakota,Level 7,Moderate
+2023-01-28,4,2022-2023,Ohio,Level 1,Minimal
+2023-01-28,4,2022-2023,Oklahoma,Level 11,Very High
+2023-01-28,4,2022-2023,Oregon,Level 2,Minimal
+2023-01-28,4,2022-2023,Pennsylvania,Level 3,Minimal
+2023-01-28,4,2022-2023,Puerto Rico,Level 1,Minimal
+2023-01-28,4,2022-2023,Rhode Island,Level 2,Minimal
+2023-01-28,4,2022-2023,South Carolina,Level 5,Low
+2023-01-28,4,2022-2023,South Dakota,Level 2,Minimal
+2023-01-28,4,2022-2023,Tennessee,Level 4,Low
+2023-01-28,4,2022-2023,Texas,Level 7,Moderate
+2023-01-28,4,2022-2023,Utah,Level 2,Minimal
+2023-01-28,4,2022-2023,Vermont,Level 1,Minimal
+2023-01-28,4,2022-2023,Virgin Islands,Level 6,Moderate
+2023-01-28,4,2022-2023,Virginia,Level 6,Moderate
+2023-01-28,4,2022-2023,Washington,Level 1,Minimal
+2023-01-28,4,2022-2023,West Virginia,Level 3,Minimal
+2023-01-28,4,2022-2023,Wisconsin,Level 2,Minimal
+2023-01-28,4,2022-2023,Wyoming,Level 2,Minimal
+2023-01-21,3,2022-2023,Alabama,Level 4,Low
+2023-01-21,3,2022-2023,Alaska,Level 1,Minimal
+2023-01-21,3,2022-2023,Arizona,Level 1,Minimal
+2023-01-21,3,2022-2023,Arkansas,Level 4,Low
+2023-01-21,3,2022-2023,California,Level 6,Moderate
+2023-01-21,3,2022-2023,Colorado,Level 4,Low
+2023-01-21,3,2022-2023,Commonwealth of the Northern Mariana Islands,Level 2,Minimal
+2023-01-21,3,2022-2023,Connecticut,Level 4,Low
+2023-01-21,3,2022-2023,Delaware,Level 1,Minimal
+2023-01-21,3,2022-2023,District of Columbia,Level 8,High
+2023-01-21,3,2022-2023,Florida,Level 6,Moderate
+2023-01-21,3,2022-2023,Georgia,Level 4,Low
+2023-01-21,3,2022-2023,Hawaii,Level 4,Low
+2023-01-21,3,2022-2023,Idaho,Level 1,Minimal
+2023-01-21,3,2022-2023,Illinois,Level 2,Minimal
+2023-01-21,3,2022-2023,Indiana,Level 2,Minimal
+2023-01-21,3,2022-2023,Iowa,Level 2,Minimal
+2023-01-21,3,2022-2023,Kansas,Level 1,Minimal
+2023-01-21,3,2022-2023,Kentucky,Level 4,Low
+2023-01-21,3,2022-2023,Louisiana,Level 3,Minimal
+2023-01-21,3,2022-2023,Maine,Level 3,Minimal
+2023-01-21,3,2022-2023,Maryland,Level 3,Minimal
+2023-01-21,3,2022-2023,Massachusetts,Level 4,Low
+2023-01-21,3,2022-2023,Michigan,Level 1,Minimal
+2023-01-21,3,2022-2023,Minnesota,Level 1,Minimal
+2023-01-21,3,2022-2023,Mississippi,Level 5,Low
+2023-01-21,3,2022-2023,Missouri,Level 4,Low
+2023-01-21,3,2022-2023,Montana,Level 1,Minimal
+2023-01-21,3,2022-2023,Nebraska,Level 3,Minimal
+2023-01-21,3,2022-2023,Nevada,Level 1,Minimal
+2023-01-21,3,2022-2023,New Hampshire,Level 1,Minimal
+2023-01-21,3,2022-2023,New Jersey,Level 5,Low
+2023-01-21,3,2022-2023,New Mexico,Level 9,High
+2023-01-21,3,2022-2023,New York,Level 5,Low
+2023-01-21,3,2022-2023,New York City,Level 10,High
+2023-01-21,3,2022-2023,North Carolina,Level 4,Low
+2023-01-21,3,2022-2023,North Dakota,Level 8,High
+2023-01-21,3,2022-2023,Ohio,Level 1,Minimal
+2023-01-21,3,2022-2023,Oklahoma,Level 7,Moderate
+2023-01-21,3,2022-2023,Oregon,Level 2,Minimal
+2023-01-21,3,2022-2023,Pennsylvania,Level 3,Minimal
+2023-01-21,3,2022-2023,Puerto Rico,Level 1,Minimal
+2023-01-21,3,2022-2023,Rhode Island,Level 2,Minimal
+2023-01-21,3,2022-2023,South Carolina,Level 6,Moderate
+2023-01-21,3,2022-2023,South Dakota,Level 2,Minimal
+2023-01-21,3,2022-2023,Tennessee,Level 4,Low
+2023-01-21,3,2022-2023,Texas,Level 7,Moderate
+2023-01-21,3,2022-2023,Utah,Level 3,Minimal
+2023-01-21,3,2022-2023,Vermont,Level 1,Minimal
+2023-01-21,3,2022-2023,Virgin Islands,Level 4,Low
+2023-01-21,3,2022-2023,Virginia,Level 7,Moderate
+2023-01-21,3,2022-2023,Washington,Level 1,Minimal
+2023-01-21,3,2022-2023,West Virginia,Level 3,Minimal
+2023-01-21,3,2022-2023,Wisconsin,Level 3,Minimal
+2023-01-21,3,2022-2023,Wyoming,Level 1,Minimal
+2023-01-14,2,2022-2023,Alabama,Level 4,Low
+2023-01-14,2,2022-2023,Alaska,Level 1,Minimal
+2023-01-14,2,2022-2023,Arizona,Level 1,Minimal
+2023-01-14,2,2022-2023,Arkansas,Level 4,Low
+2023-01-14,2,2022-2023,California,Level 8,High
+2023-01-14,2,2022-2023,Colorado,Level 5,Low
+2023-01-14,2,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-01-14,2,2022-2023,Connecticut,Level 5,Low
+2023-01-14,2,2022-2023,Delaware,Level 2,Minimal
+2023-01-14,2,2022-2023,District of Columbia,Level 10,High
+2023-01-14,2,2022-2023,Florida,Level 7,Moderate
+2023-01-14,2,2022-2023,Georgia,Level 4,Low
+2023-01-14,2,2022-2023,Hawaii,Level 4,Low
+2023-01-14,2,2022-2023,Idaho,Level 3,Minimal
+2023-01-14,2,2022-2023,Illinois,Level 3,Minimal
+2023-01-14,2,2022-2023,Indiana,Level 4,Low
+2023-01-14,2,2022-2023,Iowa,Level 4,Low
+2023-01-14,2,2022-2023,Kansas,Level 2,Minimal
+2023-01-14,2,2022-2023,Kentucky,Level 5,Low
+2023-01-14,2,2022-2023,Louisiana,Level 4,Low
+2023-01-14,2,2022-2023,Maine,Level 5,Low
+2023-01-14,2,2022-2023,Maryland,Level 4,Low
+2023-01-14,2,2022-2023,Massachusetts,Level 6,Moderate
+2023-01-14,2,2022-2023,Michigan,Level 1,Minimal
+2023-01-14,2,2022-2023,Minnesota,Level 1,Minimal
+2023-01-14,2,2022-2023,Mississippi,Level 5,Low
+2023-01-14,2,2022-2023,Missouri,Level 4,Low
+2023-01-14,2,2022-2023,Montana,Level 1,Minimal
+2023-01-14,2,2022-2023,Nebraska,Level 4,Low
+2023-01-14,2,2022-2023,Nevada,Level 1,Minimal
+2023-01-14,2,2022-2023,New Hampshire,Level 1,Minimal
+2023-01-14,2,2022-2023,New Jersey,Level 6,Moderate
+2023-01-14,2,2022-2023,New Mexico,Level 10,High
+2023-01-14,2,2022-2023,New York,Level 5,Low
+2023-01-14,2,2022-2023,New York City,Level 10,High
+2023-01-14,2,2022-2023,North Carolina,Level 5,Low
+2023-01-14,2,2022-2023,North Dakota,Level 10,High
+2023-01-14,2,2022-2023,Ohio,Level 1,Minimal
+2023-01-14,2,2022-2023,Oklahoma,Level 7,Moderate
+2023-01-14,2,2022-2023,Oregon,Level 7,Moderate
+2023-01-14,2,2022-2023,Pennsylvania,Level 3,Minimal
+2023-01-14,2,2022-2023,Puerto Rico,Level 3,Minimal
+2023-01-14,2,2022-2023,Rhode Island,Level 5,Low
+2023-01-14,2,2022-2023,South Carolina,Level 7,Moderate
+2023-01-14,2,2022-2023,South Dakota,Level 1,Minimal
+2023-01-14,2,2022-2023,Tennessee,Level 6,Moderate
+2023-01-14,2,2022-2023,Texas,Level 8,High
+2023-01-14,2,2022-2023,Utah,Level 3,Minimal
+2023-01-14,2,2022-2023,Vermont,Level 1,Minimal
+2023-01-14,2,2022-2023,Virgin Islands,Level 2,Minimal
+2023-01-14,2,2022-2023,Virginia,Level 7,Moderate
+2023-01-14,2,2022-2023,Washington,Level 1,Minimal
+2023-01-14,2,2022-2023,West Virginia,Level 5,Low
+2023-01-14,2,2022-2023,Wisconsin,Level 3,Minimal
+2023-01-14,2,2022-2023,Wyoming,Level 1,Minimal
+2023-01-07,1,2022-2023,Alabama,Level 6,Moderate
+2023-01-07,1,2022-2023,Alaska,Level 1,Minimal
+2023-01-07,1,2022-2023,Arizona,Level 3,Minimal
+2023-01-07,1,2022-2023,Arkansas,Level 8,High
+2023-01-07,1,2022-2023,California,Level 10,High
+2023-01-07,1,2022-2023,Colorado,Level 9,High
+2023-01-07,1,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2023-01-07,1,2022-2023,Connecticut,Level 9,High
+2023-01-07,1,2022-2023,Delaware,Level 4,Low
+2023-01-07,1,2022-2023,District of Columbia,Level 9,High
+2023-01-07,1,2022-2023,Florida,Level 10,High
+2023-01-07,1,2022-2023,Georgia,Level 6,Moderate
+2023-01-07,1,2022-2023,Hawaii,Level 6,Moderate
+2023-01-07,1,2022-2023,Idaho,Level 6,Moderate
+2023-01-07,1,2022-2023,Illinois,Level 4,Low
+2023-01-07,1,2022-2023,Indiana,Level 7,Moderate
+2023-01-07,1,2022-2023,Iowa,Level 7,Moderate
+2023-01-07,1,2022-2023,Kansas,Level 4,Low
+2023-01-07,1,2022-2023,Kentucky,Level 7,Moderate
+2023-01-07,1,2022-2023,Louisiana,Level 7,Moderate
+2023-01-07,1,2022-2023,Maine,Level 10,High
+2023-01-07,1,2022-2023,Maryland,Level 6,Moderate
+2023-01-07,1,2022-2023,Massachusetts,Level 10,High
+2023-01-07,1,2022-2023,Michigan,Level 4,Low
+2023-01-07,1,2022-2023,Minnesota,Level 1,Minimal
+2023-01-07,1,2022-2023,Mississippi,Level 7,Moderate
+2023-01-07,1,2022-2023,Missouri,Level 6,Moderate
+2023-01-07,1,2022-2023,Montana,Level 4,Low
+2023-01-07,1,2022-2023,Nebraska,Level 9,High
+2023-01-07,1,2022-2023,Nevada,Level 1,Minimal
+2023-01-07,1,2022-2023,New Hampshire,Level 3,Minimal
+2023-01-07,1,2022-2023,New Jersey,Level 8,High
+2023-01-07,1,2022-2023,New Mexico,Level 12,Very High
+2023-01-07,1,2022-2023,New York,Level 8,High
+2023-01-07,1,2022-2023,New York City,Level 11,Very High
+2023-01-07,1,2022-2023,North Carolina,Level 8,High
+2023-01-07,1,2022-2023,North Dakota,Level 10,High
+2023-01-07,1,2022-2023,Ohio,Level 4,Low
+2023-01-07,1,2022-2023,Oklahoma,Level 10,High
+2023-01-07,1,2022-2023,Oregon,Level 4,Low
+2023-01-07,1,2022-2023,Pennsylvania,Level 5,Low
+2023-01-07,1,2022-2023,Puerto Rico,Level 1,Minimal
+2023-01-07,1,2022-2023,Rhode Island,Level 7,Moderate
+2023-01-07,1,2022-2023,South Carolina,Level 10,High
+2023-01-07,1,2022-2023,South Dakota,Level 3,Minimal
+2023-01-07,1,2022-2023,Tennessee,Level 8,High
+2023-01-07,1,2022-2023,Texas,Level 10,High
+2023-01-07,1,2022-2023,Utah,Level 6,Moderate
+2023-01-07,1,2022-2023,Vermont,Level 4,Low
+2023-01-07,1,2022-2023,Virgin Islands,Level 2,Minimal
+2023-01-07,1,2022-2023,Virginia,Level 10,High
+2023-01-07,1,2022-2023,Washington,Level 4,Low
+2023-01-07,1,2022-2023,West Virginia,Level 4,Low
+2023-01-07,1,2022-2023,Wisconsin,Level 4,Low
+2023-01-07,1,2022-2023,Wyoming,Level 8,High
+2022-12-31,52,2022-2023,Alabama,Level 9,High
+2022-12-31,52,2022-2023,Alaska,Level 2,Minimal
+2022-12-31,52,2022-2023,Arizona,Level 7,Moderate
+2022-12-31,52,2022-2023,Arkansas,Level 10,High
+2022-12-31,52,2022-2023,California,Level 11,Very High
+2022-12-31,52,2022-2023,Colorado,Level 11,Very High
+2022-12-31,52,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2022-12-31,52,2022-2023,Connecticut,Level 10,High
+2022-12-31,52,2022-2023,Delaware,Level 6,Moderate
+2022-12-31,52,2022-2023,District of Columbia,Level 10,High
+2022-12-31,52,2022-2023,Florida,Level 10,High
+2022-12-31,52,2022-2023,Georgia,Level 9,High
+2022-12-31,52,2022-2023,Hawaii,Level 9,High
+2022-12-31,52,2022-2023,Idaho,Level 10,High
+2022-12-31,52,2022-2023,Illinois,Level 8,High
+2022-12-31,52,2022-2023,Indiana,Level 10,High
+2022-12-31,52,2022-2023,Iowa,Level 9,High
+2022-12-31,52,2022-2023,Kansas,Level 10,High
+2022-12-31,52,2022-2023,Kentucky,Level 10,High
+2022-12-31,52,2022-2023,Louisiana,Level 9,High
+2022-12-31,52,2022-2023,Maine,Level 12,Very High
+2022-12-31,52,2022-2023,Maryland,Level 9,High
+2022-12-31,52,2022-2023,Massachusetts,Level 12,Very High
+2022-12-31,52,2022-2023,Michigan,Level 7,Moderate
+2022-12-31,52,2022-2023,Minnesota,Level 2,Minimal
+2022-12-31,52,2022-2023,Mississippi,Level 10,High
+2022-12-31,52,2022-2023,Missouri,Level 9,High
+2022-12-31,52,2022-2023,Montana,Level 7,Moderate
+2022-12-31,52,2022-2023,Nebraska,Level 11,Very High
+2022-12-31,52,2022-2023,Nevada,Level 4,Low
+2022-12-31,52,2022-2023,New Hampshire,Level 3,Minimal
+2022-12-31,52,2022-2023,New Jersey,Level 10,High
+2022-12-31,52,2022-2023,New Mexico,Level 13,Very High
+2022-12-31,52,2022-2023,New York,Level 11,Very High
+2022-12-31,52,2022-2023,New York City,Level 13,Very High
+2022-12-31,52,2022-2023,North Carolina,Level 10,High
+2022-12-31,52,2022-2023,North Dakota,Level 10,High
+2022-12-31,52,2022-2023,Ohio,Level 10,High
+2022-12-31,52,2022-2023,Oklahoma,Level 11,Very High
+2022-12-31,52,2022-2023,Oregon,Level 7,Moderate
+2022-12-31,52,2022-2023,Pennsylvania,Level 8,High
+2022-12-31,52,2022-2023,Puerto Rico,Level 3,Minimal
+2022-12-31,52,2022-2023,Rhode Island,Level 11,Very High
+2022-12-31,52,2022-2023,South Carolina,Level 11,Very High
+2022-12-31,52,2022-2023,South Dakota,Level 4,Low
+2022-12-31,52,2022-2023,Tennessee,Level 10,High
+2022-12-31,52,2022-2023,Texas,Level 11,Very High
+2022-12-31,52,2022-2023,Utah,Level 10,High
+2022-12-31,52,2022-2023,Vermont,Level 8,High
+2022-12-31,52,2022-2023,Virgin Islands,Level 2,Minimal
+2022-12-31,52,2022-2023,Virginia,Level 10,High
+2022-12-31,52,2022-2023,Washington,Level 10,High
+2022-12-31,52,2022-2023,West Virginia,Level 6,Moderate
+2022-12-31,52,2022-2023,Wisconsin,Level 6,Moderate
+2022-12-31,52,2022-2023,Wyoming,Level 10,High
+2022-12-24,51,2022-2023,Alabama,Level 8,High
+2022-12-24,51,2022-2023,Alaska,Level 1,Minimal
+2022-12-24,51,2022-2023,Arizona,Level 8,High
+2022-12-24,51,2022-2023,Arkansas,Level 10,High
+2022-12-24,51,2022-2023,California,Level 11,Very High
+2022-12-24,51,2022-2023,Colorado,Level 13,Very High
+2022-12-24,51,2022-2023,Commonwealth of the Northern Mariana Islands,Level 3,Minimal
+2022-12-24,51,2022-2023,Connecticut,Level 11,Very High
+2022-12-24,51,2022-2023,Delaware,Level 6,Moderate
+2022-12-24,51,2022-2023,District of Columbia,Level 11,Very High
+2022-12-24,51,2022-2023,Florida,Level 11,Very High
+2022-12-24,51,2022-2023,Georgia,Level 9,High
+2022-12-24,51,2022-2023,Hawaii,Level 8,High
+2022-12-24,51,2022-2023,Idaho,Level 13,Very High
+2022-12-24,51,2022-2023,Illinois,Level 10,High
+2022-12-24,51,2022-2023,Indiana,Level 11,Very High
+2022-12-24,51,2022-2023,Iowa,Level 11,Very High
+2022-12-24,51,2022-2023,Kansas,Level 10,High
+2022-12-24,51,2022-2023,Kentucky,Level 10,High
+2022-12-24,51,2022-2023,Louisiana,Level 7,Moderate
+2022-12-24,51,2022-2023,Maine,Level 13,Very High
+2022-12-24,51,2022-2023,Maryland,Level 10,High
+2022-12-24,51,2022-2023,Massachusetts,Level 13,Very High
+2022-12-24,51,2022-2023,Michigan,Level 10,High
+2022-12-24,51,2022-2023,Minnesota,Level 2,Minimal
+2022-12-24,51,2022-2023,Mississippi,Level 10,High
+2022-12-24,51,2022-2023,Missouri,Level 10,High
+2022-12-24,51,2022-2023,Montana,Level 10,High
+2022-12-24,51,2022-2023,Nebraska,Level 13,Very High
+2022-12-24,51,2022-2023,Nevada,Level 4,Low
+2022-12-24,51,2022-2023,New Hampshire,Level 4,Low
+2022-12-24,51,2022-2023,New Jersey,Level 11,Very High
+2022-12-24,51,2022-2023,New Mexico,Level 13,Very High
+2022-12-24,51,2022-2023,New York,Level 12,Very High
+2022-12-24,51,2022-2023,New York City,Level 13,Very High
+2022-12-24,51,2022-2023,North Carolina,Level 10,High
+2022-12-24,51,2022-2023,North Dakota,Level 11,Very High
+2022-12-24,51,2022-2023,Ohio,Level 12,Very High
+2022-12-24,51,2022-2023,Oklahoma,Level 12,Very High
+2022-12-24,51,2022-2023,Oregon,Level 10,High
+2022-12-24,51,2022-2023,Pennsylvania,Level 9,High
+2022-12-24,51,2022-2023,Puerto Rico,Level 3,Minimal
+2022-12-24,51,2022-2023,Rhode Island,Level 12,Very High
+2022-12-24,51,2022-2023,South Carolina,Level 10,High
+2022-12-24,51,2022-2023,South Dakota,Level 5,Low
+2022-12-24,51,2022-2023,Tennessee,Level 11,Very High
+2022-12-24,51,2022-2023,Texas,Level 11,Very High
+2022-12-24,51,2022-2023,Utah,Level 10,High
+2022-12-24,51,2022-2023,Vermont,Level 12,Very High
+2022-12-24,51,2022-2023,Virgin Islands,Level 1,Minimal
+2022-12-24,51,2022-2023,Virginia,Level 11,Very High
+2022-12-24,51,2022-2023,Washington,Level 11,Very High
+2022-12-24,51,2022-2023,West Virginia,Level 10,High
+2022-12-24,51,2022-2023,Wisconsin,Level 9,High
+2022-12-24,51,2022-2023,Wyoming,Level 10,High
+2022-12-17,50,2022-2023,Alabama,Level 9,High
+2022-12-17,50,2022-2023,Alaska,Level 5,Low
+2022-12-17,50,2022-2023,Arizona,Level 8,High
+2022-12-17,50,2022-2023,Arkansas,Level 10,High
+2022-12-17,50,2022-2023,California,Level 11,Very High
+2022-12-17,50,2022-2023,Colorado,Level 13,Very High
+2022-12-17,50,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2022-12-17,50,2022-2023,Connecticut,Level 11,Very High
+2022-12-17,50,2022-2023,Delaware,Level 7,Moderate
+2022-12-17,50,2022-2023,District of Columbia,Level 12,Very High
+2022-12-17,50,2022-2023,Florida,Level 10,High
+2022-12-17,50,2022-2023,Georgia,Level 9,High
+2022-12-17,50,2022-2023,Hawaii,Level 7,Moderate
+2022-12-17,50,2022-2023,Idaho,Level 13,Very High
+2022-12-17,50,2022-2023,Illinois,Level 11,Very High
+2022-12-17,50,2022-2023,Indiana,Level 12,Very High
+2022-12-17,50,2022-2023,Iowa,Level 11,Very High
+2022-12-17,50,2022-2023,Kansas,Level 11,Very High
+2022-12-17,50,2022-2023,Kentucky,Level 11,Very High
+2022-12-17,50,2022-2023,Louisiana,Level 8,High
+2022-12-17,50,2022-2023,Maine,Level 13,Very High
+2022-12-17,50,2022-2023,Maryland,Level 10,High
+2022-12-17,50,2022-2023,Massachusetts,Level 13,Very High
+2022-12-17,50,2022-2023,Michigan,Level 9,High
+2022-12-17,50,2022-2023,Minnesota,Level 7,Moderate
+2022-12-17,50,2022-2023,Mississippi,Level 10,High
+2022-12-17,50,2022-2023,Missouri,Level 11,Very High
+2022-12-17,50,2022-2023,Montana,Level 10,High
+2022-12-17,50,2022-2023,Nebraska,Level 13,Very High
+2022-12-17,50,2022-2023,Nevada,Level 6,Moderate
+2022-12-17,50,2022-2023,New Hampshire,Level 4,Low
+2022-12-17,50,2022-2023,New Jersey,Level 11,Very High
+2022-12-17,50,2022-2023,New Mexico,Level 13,Very High
+2022-12-17,50,2022-2023,New York,Level 10,High
+2022-12-17,50,2022-2023,New York City,Level 13,Very High
+2022-12-17,50,2022-2023,North Carolina,Level 10,High
+2022-12-17,50,2022-2023,North Dakota,Level 13,Very High
+2022-12-17,50,2022-2023,Ohio,Level 12,Very High
+2022-12-17,50,2022-2023,Oklahoma,Level 12,Very High
+2022-12-17,50,2022-2023,Oregon,Level 10,High
+2022-12-17,50,2022-2023,Pennsylvania,Level 10,High
+2022-12-17,50,2022-2023,Puerto Rico,Level 5,Low
+2022-12-17,50,2022-2023,Rhode Island,Level 12,Very High
+2022-12-17,50,2022-2023,South Carolina,Level 11,Very High
+2022-12-17,50,2022-2023,South Dakota,Level 7,Moderate
+2022-12-17,50,2022-2023,Tennessee,Level 12,Very High
+2022-12-17,50,2022-2023,Texas,Level 11,Very High
+2022-12-17,50,2022-2023,Utah,Level 10,High
+2022-12-17,50,2022-2023,Vermont,Level 10,High
+2022-12-17,50,2022-2023,Virgin Islands,Level 1,Minimal
+2022-12-17,50,2022-2023,Virginia,Level 11,Very High
+2022-12-17,50,2022-2023,Washington,Level 13,Very High
+2022-12-17,50,2022-2023,West Virginia,Level 9,High
+2022-12-17,50,2022-2023,Wisconsin,Level 10,High
+2022-12-17,50,2022-2023,Wyoming,Level 11,Very High
+2022-12-10,49,2022-2023,Alabama,Level 10,High
+2022-12-10,49,2022-2023,Alaska,Level 5,Low
+2022-12-10,49,2022-2023,Arizona,Level 10,High
+2022-12-10,49,2022-2023,Arkansas,Level 11,Very High
+2022-12-10,49,2022-2023,California,Level 12,Very High
+2022-12-10,49,2022-2023,Colorado,Level 13,Very High
+2022-12-10,49,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2022-12-10,49,2022-2023,Connecticut,Level 12,Very High
+2022-12-10,49,2022-2023,Delaware,Level 6,Moderate
+2022-12-10,49,2022-2023,District of Columbia,Level 12,Very High
+2022-12-10,49,2022-2023,Florida,Level 10,High
+2022-12-10,49,2022-2023,Georgia,Level 10,High
+2022-12-10,49,2022-2023,Hawaii,Level 6,Moderate
+2022-12-10,49,2022-2023,Idaho,Level 13,Very High
+2022-12-10,49,2022-2023,Illinois,Level 11,Very High
+2022-12-10,49,2022-2023,Indiana,Level 12,Very High
+2022-12-10,49,2022-2023,Iowa,Level 9,High
+2022-12-10,49,2022-2023,Kansas,Level 11,Very High
+2022-12-10,49,2022-2023,Kentucky,Level 12,Very High
+2022-12-10,49,2022-2023,Louisiana,Level 10,High
+2022-12-10,49,2022-2023,Maine,Level 12,Very High
+2022-12-10,49,2022-2023,Maryland,Level 10,High
+2022-12-10,49,2022-2023,Massachusetts,Level 12,Very High
+2022-12-10,49,2022-2023,Michigan,Level 6,Moderate
+2022-12-10,49,2022-2023,Minnesota,Level 8,High
+2022-12-10,49,2022-2023,Mississippi,Level 10,High
+2022-12-10,49,2022-2023,Missouri,Level 11,Very High
+2022-12-10,49,2022-2023,Montana,Level 10,High
+2022-12-10,49,2022-2023,Nebraska,Level 13,Very High
+2022-12-10,49,2022-2023,Nevada,Level 5,Low
+2022-12-10,49,2022-2023,New Hampshire,Level 5,Low
+2022-12-10,49,2022-2023,New Jersey,Level 12,Very High
+2022-12-10,49,2022-2023,New Mexico,Level 13,Very High
+2022-12-10,49,2022-2023,New York,Level 13,Very High
+2022-12-10,49,2022-2023,New York City,Level 13,Very High
+2022-12-10,49,2022-2023,North Carolina,Level 10,High
+2022-12-10,49,2022-2023,North Dakota,Level 12,Very High
+2022-12-10,49,2022-2023,Ohio,Level 12,Very High
+2022-12-10,49,2022-2023,Oklahoma,Level 13,Very High
+2022-12-10,49,2022-2023,Oregon,Level 11,Very High
+2022-12-10,49,2022-2023,Pennsylvania,Level 10,High
+2022-12-10,49,2022-2023,Puerto Rico,Level 7,Moderate
+2022-12-10,49,2022-2023,Rhode Island,Level 12,Very High
+2022-12-10,49,2022-2023,South Carolina,Level 11,Very High
+2022-12-10,49,2022-2023,South Dakota,Level 8,High
+2022-12-10,49,2022-2023,Tennessee,Level 13,Very High
+2022-12-10,49,2022-2023,Texas,Level 12,Very High
+2022-12-10,49,2022-2023,Utah,Level 10,High
+2022-12-10,49,2022-2023,Vermont,Level 10,High
+2022-12-10,49,2022-2023,Virgin Islands,Level 1,Minimal
+2022-12-10,49,2022-2023,Virginia,Level 12,Very High
+2022-12-10,49,2022-2023,Washington,Level 13,Very High
+2022-12-10,49,2022-2023,West Virginia,Level 10,High
+2022-12-10,49,2022-2023,Wisconsin,Level 10,High
+2022-12-10,49,2022-2023,Wyoming,Level 8,High
+2022-12-03,48,2022-2023,Alabama,Level 11,Very High
+2022-12-03,48,2022-2023,Alaska,Level 5,Low
+2022-12-03,48,2022-2023,Arizona,Level 10,High
+2022-12-03,48,2022-2023,Arkansas,Level 12,Very High
+2022-12-03,48,2022-2023,California,Level 12,Very High
+2022-12-03,48,2022-2023,Colorado,Level 13,Very High
+2022-12-03,48,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2022-12-03,48,2022-2023,Connecticut,Level 13,Very High
+2022-12-03,48,2022-2023,Delaware,Level 8,High
+2022-12-03,48,2022-2023,District of Columbia,Level 13,Very High
+2022-12-03,48,2022-2023,Florida,Level 10,High
+2022-12-03,48,2022-2023,Georgia,Level 10,High
+2022-12-03,48,2022-2023,Hawaii,Level 6,Moderate
+2022-12-03,48,2022-2023,Idaho,Level 12,Very High
+2022-12-03,48,2022-2023,Illinois,Level 11,Very High
+2022-12-03,48,2022-2023,Indiana,Level 12,Very High
+2022-12-03,48,2022-2023,Iowa,Level 10,High
+2022-12-03,48,2022-2023,Kansas,Level 12,Very High
+2022-12-03,48,2022-2023,Kentucky,Level 13,Very High
+2022-12-03,48,2022-2023,Louisiana,Level 10,High
+2022-12-03,48,2022-2023,Maine,Level 11,Very High
+2022-12-03,48,2022-2023,Maryland,Level 11,Very High
+2022-12-03,48,2022-2023,Massachusetts,Level 11,Very High
+2022-12-03,48,2022-2023,Michigan,Level 5,Low
+2022-12-03,48,2022-2023,Minnesota,Level 9,High
+2022-12-03,48,2022-2023,Mississippi,Level 12,Very High
+2022-12-03,48,2022-2023,Missouri,Level 11,Very High
+2022-12-03,48,2022-2023,Montana,Level 8,High
+2022-12-03,48,2022-2023,Nebraska,Level 12,Very High
+2022-12-03,48,2022-2023,Nevada,Level 6,Moderate
+2022-12-03,48,2022-2023,New Hampshire,Level 3,Minimal
+2022-12-03,48,2022-2023,New Jersey,Level 13,Very High
+2022-12-03,48,2022-2023,New Mexico,Level 13,Very High
+2022-12-03,48,2022-2023,New York,Level 12,Very High
+2022-12-03,48,2022-2023,New York City,Level 13,Very High
+2022-12-03,48,2022-2023,North Carolina,Level 11,Very High
+2022-12-03,48,2022-2023,North Dakota,Level 10,High
+2022-12-03,48,2022-2023,Ohio,Level 12,Very High
+2022-12-03,48,2022-2023,Oklahoma,Level 12,Very High
+2022-12-03,48,2022-2023,Oregon,Level 11,Very High
+2022-12-03,48,2022-2023,Pennsylvania,Level 10,High
+2022-12-03,48,2022-2023,Puerto Rico,Level 9,High
+2022-12-03,48,2022-2023,Rhode Island,Level 11,Very High
+2022-12-03,48,2022-2023,South Carolina,Level 12,Very High
+2022-12-03,48,2022-2023,South Dakota,Level 7,Moderate
+2022-12-03,48,2022-2023,Tennessee,Level 13,Very High
+2022-12-03,48,2022-2023,Texas,Level 12,Very High
+2022-12-03,48,2022-2023,Utah,Level 10,High
+2022-12-03,48,2022-2023,Vermont,Level 5,Low
+2022-12-03,48,2022-2023,Virgin Islands,Level 2,Minimal
+2022-12-03,48,2022-2023,Virginia,Level 13,Very High
+2022-12-03,48,2022-2023,Washington,Level 13,Very High
+2022-12-03,48,2022-2023,West Virginia,Level 7,Moderate
+2022-12-03,48,2022-2023,Wisconsin,Level 10,High
+2022-12-03,48,2022-2023,Wyoming,Level 10,High
+2022-11-26,47,2022-2023,Alabama,Level 12,Very High
+2022-11-26,47,2022-2023,Alaska,Level 5,Low
+2022-11-26,47,2022-2023,Arizona,Level 10,High
+2022-11-26,47,2022-2023,Arkansas,Level 12,Very High
+2022-11-26,47,2022-2023,California,Level 13,Very High
+2022-11-26,47,2022-2023,Colorado,Level 13,Very High
+2022-11-26,47,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2022-11-26,47,2022-2023,Connecticut,Level 12,Very High
+2022-11-26,47,2022-2023,Delaware,Level 7,Moderate
+2022-11-26,47,2022-2023,District of Columbia,Level 13,Very High
+2022-11-26,47,2022-2023,Florida,Level 10,High
+2022-11-26,47,2022-2023,Georgia,Level 11,Very High
+2022-11-26,47,2022-2023,Hawaii,Level 7,Moderate
+2022-11-26,47,2022-2023,Idaho,Level 12,Very High
+2022-11-26,47,2022-2023,Illinois,Level 11,Very High
+2022-11-26,47,2022-2023,Indiana,Level 11,Very High
+2022-11-26,47,2022-2023,Iowa,Level 10,High
+2022-11-26,47,2022-2023,Kansas,Level 12,Very High
+2022-11-26,47,2022-2023,Kentucky,Level 13,Very High
+2022-11-26,47,2022-2023,Louisiana,Level 11,Very High
+2022-11-26,47,2022-2023,Maine,Level 10,High
+2022-11-26,47,2022-2023,Maryland,Level 12,Very High
+2022-11-26,47,2022-2023,Massachusetts,Level 10,High
+2022-11-26,47,2022-2023,Michigan,Level 4,Low
+2022-11-26,47,2022-2023,Minnesota,Level 10,High
+2022-11-26,47,2022-2023,Mississippi,Level 13,Very High
+2022-11-26,47,2022-2023,Missouri,Level 11,Very High
+2022-11-26,47,2022-2023,Montana,Level 9,High
+2022-11-26,47,2022-2023,Nebraska,Level 13,Very High
+2022-11-26,47,2022-2023,Nevada,Level 7,Moderate
+2022-11-26,47,2022-2023,New Hampshire,Level 1,Minimal
+2022-11-26,47,2022-2023,New Jersey,Level 12,Very High
+2022-11-26,47,2022-2023,New Mexico,Level 13,Very High
+2022-11-26,47,2022-2023,New York,Level 11,Very High
+2022-11-26,47,2022-2023,New York City,Level 13,Very High
+2022-11-26,47,2022-2023,North Carolina,Level 11,Very High
+2022-11-26,47,2022-2023,North Dakota,Level 10,High
+2022-11-26,47,2022-2023,Ohio,Level 13,Very High
+2022-11-26,47,2022-2023,Oklahoma,Level 11,Very High
+2022-11-26,47,2022-2023,Oregon,Level 11,Very High
+2022-11-26,47,2022-2023,Pennsylvania,Level 10,High
+2022-11-26,47,2022-2023,Puerto Rico,Level 8,High
+2022-11-26,47,2022-2023,Rhode Island,Level 9,High
+2022-11-26,47,2022-2023,South Carolina,Level 13,Very High
+2022-11-26,47,2022-2023,South Dakota,Level 8,High
+2022-11-26,47,2022-2023,Tennessee,Level 13,Very High
+2022-11-26,47,2022-2023,Texas,Level 13,Very High
+2022-11-26,47,2022-2023,Utah,Level 10,High
+2022-11-26,47,2022-2023,Vermont,Level 4,Low
+2022-11-26,47,2022-2023,Virgin Islands,Level 4,Low
+2022-11-26,47,2022-2023,Virginia,Level 13,Very High
+2022-11-26,47,2022-2023,Washington,Level 13,Very High
+2022-11-26,47,2022-2023,West Virginia,Level 9,High
+2022-11-26,47,2022-2023,Wisconsin,Level 10,High
+2022-11-26,47,2022-2023,Wyoming,Level 10,High
+2022-11-19,46,2022-2023,Alabama,Level 11,Very High
+2022-11-19,46,2022-2023,Alaska,Level 3,Minimal
+2022-11-19,46,2022-2023,Arizona,Level 9,High
+2022-11-19,46,2022-2023,Arkansas,Level 11,Very High
+2022-11-19,46,2022-2023,California,Level 11,Very High
+2022-11-19,46,2022-2023,Colorado,Level 12,Very High
+2022-11-19,46,2022-2023,Commonwealth of the Northern Mariana Islands,Level 1,Minimal
+2022-11-19,46,2022-2023,Connecticut,Level 10,High
+2022-11-19,46,2022-2023,Delaware,Level 4,Low
+2022-11-19,46,2022-2023,District of Columbia,Level 13,Very High
+2022-11-19,46,2022-2023,Florida,Level 10,High
+2022-11-19,46,2022-2023,Georgia,Level 11,Very High
+2022-11-19,46,2022-2023,Hawaii,Level 6,Moderate
+2022-11-19,46,2022-2023,Idaho,Level 10,High
+2022-11-19,46,2022-2023,Illinois,Level 10,High
+2022-11-19,46,2022-2023,Indiana,Level 10,High
+2022-11-19,46,2022-2023,Iowa,Level 5,Low
+2022-11-19,46,2022-2023,Kansas,Level 10,High
+2022-11-19,46,2022-2023,Kentucky,Level 12,Very High
+2022-11-19,46,2022-2023,Louisiana,Level 10,High
+2022-11-19,46,2022-2023,Maine,Level 5,Low
+2022-11-19,46,2022-2023,Maryland,Level 11,Very High
+2022-11-19,46,2022-2023,Massachusetts,Level 6,Moderate
+2022-11-19,46,2022-2023,Michigan,Level 3,Minimal
+2022-11-19,46,2022-2023,Minnesota,Level 8,High
+2022-11-19,46,2022-2023,Mississippi,Level 11,Very High
+2022-11-19,46,2022-2023,Missouri,Level 9,High
+2022-11-19,46,2022-2023,Montana,Level 2,Minimal
+2022-11-19,46,2022-2023,Nebraska,Level 11,Very High
+2022-11-19,46,2022-2023,Nevada,Level 3,Minimal
+2022-11-19,46,2022-2023,New Hampshire,Level 1,Minimal
+2022-11-19,46,2022-2023,New Jersey,Level 11,Very High
+2022-11-19,46,2022-2023,New Mexico,Level 13,Very High
+2022-11-19,46,2022-2023,New York,Level 10,High
+2022-11-19,46,2022-2023,New York City,Level 12,Very High
+2022-11-19,46,2022-2023,North Carolina,Level 11,Very High
+2022-11-19,46,2022-2023,North Dakota,Level 9,High
+2022-11-19,46,2022-2023,Ohio,Level 10,High
+2022-11-19,46,2022-2023,Oklahoma,Level 10,High
+2022-11-19,46,2022-2023,Oregon,Level 8,High
+2022-11-19,46,2022-2023,Pennsylvania,Level 8,High
+2022-11-19,46,2022-2023,Puerto Rico,Level 7,Moderate
+2022-11-19,46,2022-2023,Rhode Island,Level 5,Low
+2022-11-19,46,2022-2023,South Carolina,Level 12,Very High
+2022-11-19,46,2022-2023,South Dakota,Level 4,Low
+2022-11-19,46,2022-2023,Tennessee,Level 13,Very High
+2022-11-19,46,2022-2023,Texas,Level 13,Very High
+2022-11-19,46,2022-2023,Utah,Level 8,High
+2022-11-19,46,2022-2023,Vermont,Level 1,Minimal
+2022-11-19,46,2022-2023,Virgin Islands,Level 4,Low
+2022-11-19,46,2022-2023,Virginia,Level 12,Very High
+2022-11-19,46,2022-2023,Washington,Level 12,Very High
+2022-11-19,46,2022-2023,West Virginia,Level 8,High
+2022-11-19,46,2022-2023,Wisconsin,Level 6,Moderate
+2022-11-19,46,2022-2023,Wyoming,Level 9,High
+2022-11-12,45,2022-2023,Alabama,Level 13,Very High
+2022-11-12,45,2022-2023,Alaska,Level 3,Minimal
+2022-11-12,45,2022-2023,Arizona,Level 6,Moderate
+2022-11-12,45,2022-2023,Arkansas,Level 11,Very High
+2022-11-12,45,2022-2023,California,Level 10,High
+2022-11-12,45,2022-2023,Colorado,Level 11,Very High
+2022-11-12,45,2022-2023,Commonwealth of the Northern Mariana Islands,Level 2,Minimal
+2022-11-12,45,2022-2023,Connecticut,Level 10,High
+2022-11-12,45,2022-2023,Delaware,Level 5,Low
+2022-11-12,45,2022-2023,District of Columbia,Level 13,Very High
+2022-11-12,45,2022-2023,Florida,Level 10,High
+2022-11-12,45,2022-2023,Georgia,Level 12,Very High
+2022-11-12,45,2022-2023,Hawaii,Level 7,Moderate
+2022-11-12,45,2022-2023,Idaho,Level 5,Low
+2022-11-12,45,2022-2023,Illinois,Level 9,High
+2022-11-12,45,2022-2023,Indiana,Level 8,High
+2022-11-12,45,2022-2023,Iowa,Level 3,Minimal
+2022-11-12,45,2022-2023,Kansas,Level 8,High
+2022-11-12,45,2022-2023,Kentucky,Level 11,Very High
+2022-11-12,45,2022-2023,Louisiana,Level 10,High
+2022-11-12,45,2022-2023,Maine,Level 5,Low
+2022-11-12,45,2022-2023,Maryland,Level 12,Very High
+2022-11-12,45,2022-2023,Massachusetts,Level 6,Moderate
+2022-11-12,45,2022-2023,Michigan,Level 3,Minimal
+2022-11-12,45,2022-2023,Minnesota,Level 4,Low
+2022-11-12,45,2022-2023,Mississippi,Level 12,Very High
+2022-11-12,45,2022-2023,Missouri,Level 7,Moderate
+2022-11-12,45,2022-2023,Montana,Level 3,Minimal
+2022-11-12,45,2022-2023,Nebraska,Level 10,High
+2022-11-12,45,2022-2023,Nevada,Level 1,Minimal
+2022-11-12,45,2022-2023,New Hampshire,Level 1,Minimal
+2022-11-12,45,2022-2023,New Jersey,Level 12,Very High
+2022-11-12,45,2022-2023,New Mexico,Level 12,Very High
+2022-11-12,45,2022-2023,New York,Level 10,High
+2022-11-12,45,2022-2023,New York City,Level 12,Very High
+2022-11-12,45,2022-2023,North Carolina,Level 12,Very High
+2022-11-12,45,2022-2023,North Dakota,Level 9,High
+2022-11-12,45,2022-2023,Ohio,Level 10,High
+2022-11-12,45,2022-2023,Oklahoma,Level 6,Moderate
+2022-11-12,45,2022-2023,Oregon,Level 6,Moderate
+2022-11-12,45,2022-2023,Pennsylvania,Level 7,Moderate
+2022-11-12,45,2022-2023,Puerto Rico,Level 7,Moderate
+2022-11-12,45,2022-2023,Rhode Island,Level 4,Low
+2022-11-12,45,2022-2023,South Carolina,Level 13,Very High
+2022-11-12,45,2022-2023,South Dakota,Level 2,Minimal
+2022-11-12,45,2022-2023,Tennessee,Level 13,Very High
+2022-11-12,45,2022-2023,Texas,Level 13,Very High
+2022-11-12,45,2022-2023,Utah,Level 6,Moderate
+2022-11-12,45,2022-2023,Vermont,Level 2,Minimal
+2022-11-12,45,2022-2023,Virgin Islands,Level 1,Minimal
+2022-11-12,45,2022-2023,Virginia,Level 13,Very High
+2022-11-12,45,2022-2023,Washington,Level 9,High
+2022-11-12,45,2022-2023,West Virginia,Level 7,Moderate
+2022-11-12,45,2022-2023,Wisconsin,Level 6,Moderate
+2022-11-12,45,2022-2023,Wyoming,Level 10,High
+2022-11-05,44,2022-2023,Alabama,Level 13,Very High
+2022-11-05,44,2022-2023,Alaska,Level 1,Minimal
+2022-11-05,44,2022-2023,Arizona,Level 3,Minimal
+2022-11-05,44,2022-2023,Arkansas,Level 10,High
+2022-11-05,44,2022-2023,California,Level 10,High
+2022-11-05,44,2022-2023,Colorado,Level 10,High
+2022-11-05,44,2022-2023,Commonwealth of the Northern Mariana Islands,Level 3,Minimal
+2022-11-05,44,2022-2023,Connecticut,Level 10,High
+2022-11-05,44,2022-2023,Delaware,Level 5,Low
+2022-11-05,44,2022-2023,District of Columbia,Level 13,Very High
+2022-11-05,44,2022-2023,Florida,Level 10,High
+2022-11-05,44,2022-2023,Georgia,Level 13,Very High
+2022-11-05,44,2022-2023,Hawaii,Level 7,Moderate
+2022-11-05,44,2022-2023,Idaho,Level 3,Minimal
+2022-11-05,44,2022-2023,Illinois,Level 9,High
+2022-11-05,44,2022-2023,Indiana,Level 7,Moderate
+2022-11-05,44,2022-2023,Iowa,Level 3,Minimal
+2022-11-05,44,2022-2023,Kansas,Level 6,Moderate
+2022-11-05,44,2022-2023,Kentucky,Level 11,Very High
+2022-11-05,44,2022-2023,Louisiana,Level 11,Very High
+2022-11-05,44,2022-2023,Maine,Level 4,Low
+2022-11-05,44,2022-2023,Maryland,Level 12,Very High
+2022-11-05,44,2022-2023,Massachusetts,Level 6,Moderate
+2022-11-05,44,2022-2023,Michigan,Level 3,Minimal
+2022-11-05,44,2022-2023,Minnesota,Level 1,Minimal
+2022-11-05,44,2022-2023,Mississippi,Level 13,Very High
+2022-11-05,44,2022-2023,Missouri,Level 6,Moderate
+2022-11-05,44,2022-2023,Montana,Level 1,Minimal
+2022-11-05,44,2022-2023,Nebraska,Level 10,High
+2022-11-05,44,2022-2023,Nevada,Level 1,Minimal
+2022-11-05,44,2022-2023,New Hampshire,Level 1,Minimal
+2022-11-05,44,2022-2023,New Jersey,Level 11,Very High
+2022-11-05,44,2022-2023,New Mexico,Level 11,Very High
+2022-11-05,44,2022-2023,New York,Level 9,High
+2022-11-05,44,2022-2023,New York City,Level 12,Very High
+2022-11-05,44,2022-2023,North Carolina,Level 13,Very High
+2022-11-05,44,2022-2023,North Dakota,Level 6,Moderate
+2022-11-05,44,2022-2023,Ohio,Level 10,High
+2022-11-05,44,2022-2023,Oklahoma,Level 6,Moderate
+2022-11-05,44,2022-2023,Oregon,Level 3,Minimal
+2022-11-05,44,2022-2023,Pennsylvania,Level 7,Moderate
+2022-11-05,44,2022-2023,Puerto Rico,Level 6,Moderate
+2022-11-05,44,2022-2023,Rhode Island,Level 4,Low
+2022-11-05,44,2022-2023,South Carolina,Level 13,Very High
+2022-11-05,44,2022-2023,South Dakota,Level 2,Minimal
+2022-11-05,44,2022-2023,Tennessee,Level 13,Very High
+2022-11-05,44,2022-2023,Texas,Level 12,Very High
+2022-11-05,44,2022-2023,Utah,Level 4,Low
+2022-11-05,44,2022-2023,Vermont,Level 1,Minimal
+2022-11-05,44,2022-2023,Virgin Islands,Level 1,Minimal
+2022-11-05,44,2022-2023,Virginia,Level 13,Very High
+2022-11-05,44,2022-2023,Washington,Level 4,Low
+2022-11-05,44,2022-2023,West Virginia,Level 9,High
+2022-11-05,44,2022-2023,Wisconsin,Level 5,Low
+2022-11-05,44,2022-2023,Wyoming,Level 4,Low
+2022-10-29,43,2022-2023,Alabama,Level 13,Very High
+2022-10-29,43,2022-2023,Alaska,Level 1,Minimal
+2022-10-29,43,2022-2023,Arizona,Level 1,Minimal
+2022-10-29,43,2022-2023,Arkansas,Level 8,High
+2022-10-29,43,2022-2023,California,Level 7,Moderate
+2022-10-29,43,2022-2023,Colorado,Level 7,Moderate
+2022-10-29,43,2022-2023,Commonwealth of the Northern Mariana Islands,Level 4,Low
+2022-10-29,43,2022-2023,Connecticut,Level 8,High
+2022-10-29,43,2022-2023,Delaware,Level 2,Minimal
+2022-10-29,43,2022-2023,District of Columbia,Level 13,Very High
+2022-10-29,43,2022-2023,Florida,Level 8,High
+2022-10-29,43,2022-2023,Georgia,Level 12,Very High
+2022-10-29,43,2022-2023,Hawaii,Level 7,Moderate
+2022-10-29,43,2022-2023,Idaho,Level 1,Minimal
+2022-10-29,43,2022-2023,Illinois,Level 7,Moderate
+2022-10-29,43,2022-2023,Indiana,Level 5,Low
+2022-10-29,43,2022-2023,Iowa,Level 1,Minimal
+2022-10-29,43,2022-2023,Kansas,Level 3,Minimal
+2022-10-29,43,2022-2023,Kentucky,Level 8,High
+2022-10-29,43,2022-2023,Louisiana,Level 10,High
+2022-10-29,43,2022-2023,Maine,Level 2,Minimal
+2022-10-29,43,2022-2023,Maryland,Level 10,High
+2022-10-29,43,2022-2023,Massachusetts,Level 4,Low
+2022-10-29,43,2022-2023,Michigan,Level 3,Minimal
+2022-10-29,43,2022-2023,Minnesota,Level 1,Minimal
+2022-10-29,43,2022-2023,Mississippi,Level 11,Very High
+2022-10-29,43,2022-2023,Missouri,Level 5,Low
+2022-10-29,43,2022-2023,Montana,Level 1,Minimal
+2022-10-29,43,2022-2023,Nebraska,Level 6,Moderate
+2022-10-29,43,2022-2023,Nevada,Level 1,Minimal
+2022-10-29,43,2022-2023,New Hampshire,Level 1,Minimal
+2022-10-29,43,2022-2023,New Jersey,Level 10,High
+2022-10-29,43,2022-2023,New Mexico,Level 10,High
+2022-10-29,43,2022-2023,New York,Level 6,Moderate
+2022-10-29,43,2022-2023,New York City,Level 11,Very High
+2022-10-29,43,2022-2023,North Carolina,Level 11,Very High
+2022-10-29,43,2022-2023,North Dakota,Level 5,Low
+2022-10-29,43,2022-2023,Ohio,Level 5,Low
+2022-10-29,43,2022-2023,Oklahoma,Level 4,Low
+2022-10-29,43,2022-2023,Oregon,Level 1,Minimal
+2022-10-29,43,2022-2023,Pennsylvania,Level 5,Low
+2022-10-29,43,2022-2023,Puerto Rico,Level 3,Minimal
+2022-10-29,43,2022-2023,Rhode Island,Level 2,Minimal
+2022-10-29,43,2022-2023,South Carolina,Level 13,Very High
+2022-10-29,43,2022-2023,South Dakota,Level 1,Minimal
+2022-10-29,43,2022-2023,Tennessee,Level 13,Very High
+2022-10-29,43,2022-2023,Texas,Level 12,Very High
+2022-10-29,43,2022-2023,Utah,Level 2,Minimal
+2022-10-29,43,2022-2023,Vermont,Level 1,Minimal
+2022-10-29,43,2022-2023,Virgin Islands,Level 2,Minimal
+2022-10-29,43,2022-2023,Virginia,Level 11,Very High
+2022-10-29,43,2022-2023,Washington,Level 1,Minimal
+2022-10-29,43,2022-2023,West Virginia,Level 9,High
+2022-10-29,43,2022-2023,Wisconsin,Level 4,Low
+2022-10-29,43,2022-2023,Wyoming,Level 2,Minimal
+2022-10-22,42,2022-2023,Alabama,Level 10,High
+2022-10-22,42,2022-2023,Alaska,Level 1,Minimal
+2022-10-22,42,2022-2023,Arizona,Level 1,Minimal
+2022-10-22,42,2022-2023,Arkansas,Level 5,Low
+2022-10-22,42,2022-2023,California,Level 5,Low
+2022-10-22,42,2022-2023,Colorado,Level 4,Low
+2022-10-22,42,2022-2023,Commonwealth of the Northern Mariana Islands,Level 4,Low
+2022-10-22,42,2022-2023,Connecticut,Level 5,Low
+2022-10-22,42,2022-2023,Delaware,Level 1,Minimal
+2022-10-22,42,2022-2023,District of Columbia,Level 12,Very High
+2022-10-22,42,2022-2023,Florida,Level 5,Low
+2022-10-22,42,2022-2023,Georgia,Level 10,High
+2022-10-22,42,2022-2023,Hawaii,Level 4,Low
+2022-10-22,42,2022-2023,Idaho,Level 1,Minimal
+2022-10-22,42,2022-2023,Illinois,Level 6,Moderate
+2022-10-22,42,2022-2023,Indiana,Level 5,Low
+2022-10-22,42,2022-2023,Iowa,Level 1,Minimal
+2022-10-22,42,2022-2023,Kansas,Level 2,Minimal
+2022-10-22,42,2022-2023,Kentucky,Level 5,Low
+2022-10-22,42,2022-2023,Louisiana,Level 9,High
+2022-10-22,42,2022-2023,Maine,Level 2,Minimal
+2022-10-22,42,2022-2023,Maryland,Level 9,High
+2022-10-22,42,2022-2023,Massachusetts,Level 3,Minimal
+2022-10-22,42,2022-2023,Michigan,Level 2,Minimal
+2022-10-22,42,2022-2023,Minnesota,Level 1,Minimal
+2022-10-22,42,2022-2023,Mississippi,Level 10,High
+2022-10-22,42,2022-2023,Missouri,Level 4,Low
+2022-10-22,42,2022-2023,Montana,Level 1,Minimal
+2022-10-22,42,2022-2023,Nebraska,Level 4,Low
+2022-10-22,42,2022-2023,Nevada,Level 1,Minimal
+2022-10-22,42,2022-2023,New Hampshire,Level 1,Minimal
+2022-10-22,42,2022-2023,New Jersey,Level 8,High
+2022-10-22,42,2022-2023,New Mexico,Level 7,Moderate
+2022-10-22,42,2022-2023,New York,Level 5,Low
+2022-10-22,42,2022-2023,New York City,Level 10,High
+2022-10-22,42,2022-2023,North Carolina,Level 8,High
+2022-10-22,42,2022-2023,North Dakota,Level 4,Low
+2022-10-22,42,2022-2023,Ohio,Level 3,Minimal
+2022-10-22,42,2022-2023,Oklahoma,Level 2,Minimal
+2022-10-22,42,2022-2023,Oregon,Level 1,Minimal
+2022-10-22,42,2022-2023,Pennsylvania,Level 3,Minimal
+2022-10-22,42,2022-2023,Puerto Rico,Level 1,Minimal
+2022-10-22,42,2022-2023,Rhode Island,Level 1,Minimal
+2022-10-22,42,2022-2023,South Carolina,Level 11,Very High
+2022-10-22,42,2022-2023,South Dakota,Level 1,Minimal
+2022-10-22,42,2022-2023,Tennessee,Level 10,High
+2022-10-22,42,2022-2023,Texas,Level 11,Very High
+2022-10-22,42,2022-2023,Utah,Level 2,Minimal
+2022-10-22,42,2022-2023,Vermont,Level 1,Minimal
+2022-10-22,42,2022-2023,Virgin Islands,Level 1,Minimal
+2022-10-22,42,2022-2023,Virginia,Level 10,High
+2022-10-22,42,2022-2023,Washington,Level 1,Minimal
+2022-10-22,42,2022-2023,West Virginia,Level 4,Low
+2022-10-22,42,2022-2023,Wisconsin,Level 3,Minimal
+2022-10-22,42,2022-2023,Wyoming,Level 1,Minimal
+2022-10-15,41,2022-2023,Alabama,Level 8,High
+2022-10-15,41,2022-2023,Alaska,Level 1,Minimal
+2022-10-15,41,2022-2023,Arizona,Level 1,Minimal
+2022-10-15,41,2022-2023,Arkansas,Level 5,Low
+2022-10-15,41,2022-2023,California,Level 4,Low
+2022-10-15,41,2022-2023,Colorado,Level 4,Low
+2022-10-15,41,2022-2023,Commonwealth of the Northern Mariana Islands,Level 6,Moderate
+2022-10-15,41,2022-2023,Connecticut,Level 4,Low
+2022-10-15,41,2022-2023,Delaware,Level 1,Minimal
+2022-10-15,41,2022-2023,District of Columbia,Level 11,Very High
+2022-10-15,41,2022-2023,Florida,Level 3,Minimal
+2022-10-15,41,2022-2023,Georgia,Level 10,High
+2022-10-15,41,2022-2023,Hawaii,Level 4,Low
+2022-10-15,41,2022-2023,Idaho,Level 1,Minimal
+2022-10-15,41,2022-2023,Illinois,Level 5,Low
+2022-10-15,41,2022-2023,Indiana,Level 5,Low
+2022-10-15,41,2022-2023,Iowa,Level 1,Minimal
+2022-10-15,41,2022-2023,Kansas,Level 5,Low
+2022-10-15,41,2022-2023,Kentucky,Level 4,Low
+2022-10-15,41,2022-2023,Louisiana,Level 8,High
+2022-10-15,41,2022-2023,Maine,Level 2,Minimal
+2022-10-15,41,2022-2023,Maryland,Level 6,Moderate
+2022-10-15,41,2022-2023,Massachusetts,Level 3,Minimal
+2022-10-15,41,2022-2023,Michigan,Level 1,Minimal
+2022-10-15,41,2022-2023,Minnesota,Level 1,Minimal
+2022-10-15,41,2022-2023,Mississippi,Level 8,High
+2022-10-15,41,2022-2023,Missouri,Level 3,Minimal
+2022-10-15,41,2022-2023,Montana,Level 1,Minimal
+2022-10-15,41,2022-2023,Nebraska,Level 5,Low
+2022-10-15,41,2022-2023,Nevada,Level 1,Minimal
+2022-10-15,41,2022-2023,New Hampshire,Level 1,Minimal
+2022-10-15,41,2022-2023,New Jersey,Level 6,Moderate
+2022-10-15,41,2022-2023,New Mexico,Level 6,Moderate
+2022-10-15,41,2022-2023,New York,Level 8,High
+2022-10-15,41,2022-2023,New York City,Level 8,High
+2022-10-15,41,2022-2023,North Carolina,Level 6,Moderate
+2022-10-15,41,2022-2023,North Dakota,Level 3,Minimal
+2022-10-15,41,2022-2023,Ohio,Level 1,Minimal
+2022-10-15,41,2022-2023,Oklahoma,Level 2,Minimal
+2022-10-15,41,2022-2023,Oregon,Level 1,Minimal
+2022-10-15,41,2022-2023,Pennsylvania,Level 3,Minimal
+2022-10-15,41,2022-2023,Puerto Rico,Level 1,Minimal
+2022-10-15,41,2022-2023,Rhode Island,Level 1,Minimal
+2022-10-15,41,2022-2023,South Carolina,Level 10,High
+2022-10-15,41,2022-2023,South Dakota,Level 1,Minimal
+2022-10-15,41,2022-2023,Tennessee,Level 10,High
+2022-10-15,41,2022-2023,Texas,Level 10,High
+2022-10-15,41,2022-2023,Utah,Level 2,Minimal
+2022-10-15,41,2022-2023,Vermont,Level 1,Minimal
+2022-10-15,41,2022-2023,Virgin Islands,Level 1,Minimal
+2022-10-15,41,2022-2023,Virginia,Level 7,Moderate
+2022-10-15,41,2022-2023,Washington,Level 1,Minimal
+2022-10-15,41,2022-2023,West Virginia,Level 1,Minimal
+2022-10-15,41,2022-2023,Wisconsin,Level 2,Minimal
+2022-10-15,41,2022-2023,Wyoming,Level 1,Minimal
+2022-10-08,40,2022-2023,Alabama,Level 5,Low
+2022-10-08,40,2022-2023,Alaska,Level 1,Minimal
+2022-10-08,40,2022-2023,Arizona,Level 1,Minimal
+2022-10-08,40,2022-2023,Arkansas,Level 3,Minimal
+2022-10-08,40,2022-2023,California,Level 3,Minimal
+2022-10-08,40,2022-2023,Colorado,Level 3,Minimal
+2022-10-08,40,2022-2023,Commonwealth of the Northern Mariana Islands,Level 6,Moderate
+2022-10-08,40,2022-2023,Connecticut,Level 4,Low
+2022-10-08,40,2022-2023,Delaware,Level 1,Minimal
+2022-10-08,40,2022-2023,District of Columbia,Level 11,Very High
+2022-10-08,40,2022-2023,Florida,Level 3,Minimal
+2022-10-08,40,2022-2023,Georgia,Level 10,High
+2022-10-08,40,2022-2023,Hawaii,Level 6,Moderate
+2022-10-08,40,2022-2023,Idaho,Level 1,Minimal
+2022-10-08,40,2022-2023,Illinois,Level 4,Low
+2022-10-08,40,2022-2023,Indiana,Level 5,Low
+2022-10-08,40,2022-2023,Iowa,Level 1,Minimal
+2022-10-08,40,2022-2023,Kansas,Level 3,Minimal
+2022-10-08,40,2022-2023,Kentucky,Level 3,Minimal
+2022-10-08,40,2022-2023,Louisiana,Level 6,Moderate
+2022-10-08,40,2022-2023,Maine,Level 1,Minimal
+2022-10-08,40,2022-2023,Maryland,Level 4,Low
+2022-10-08,40,2022-2023,Massachusetts,Level 2,Minimal
+2022-10-08,40,2022-2023,Michigan,Level 1,Minimal
+2022-10-08,40,2022-2023,Minnesota,Level 1,Minimal
+2022-10-08,40,2022-2023,Mississippi,Level 5,Low
+2022-10-08,40,2022-2023,Missouri,Level 3,Minimal
+2022-10-08,40,2022-2023,Montana,Level 1,Minimal
+2022-10-08,40,2022-2023,Nebraska,Level 5,Low
+2022-10-08,40,2022-2023,Nevada,Level 1,Minimal
+2022-10-08,40,2022-2023,New Hampshire,Level 1,Minimal
+2022-10-08,40,2022-2023,New Jersey,Level 5,Low
+2022-10-08,40,2022-2023,New Mexico,Level 5,Low
+2022-10-08,40,2022-2023,New York,Level 4,Low
+2022-10-08,40,2022-2023,New York City,Level 8,High
+2022-10-08,40,2022-2023,North Carolina,Level 4,Low
+2022-10-08,40,2022-2023,North Dakota,Level 6,Moderate
+2022-10-08,40,2022-2023,Ohio,Level 1,Minimal
+2022-10-08,40,2022-2023,Oklahoma,Level 2,Minimal
+2022-10-08,40,2022-2023,Oregon,Level 1,Minimal
+2022-10-08,40,2022-2023,Pennsylvania,Level 3,Minimal
+2022-10-08,40,2022-2023,Puerto Rico,Level 1,Minimal
+2022-10-08,40,2022-2023,Rhode Island,Level 2,Minimal
+2022-10-08,40,2022-2023,South Carolina,Level 7,Moderate
+2022-10-08,40,2022-2023,South Dakota,Level 1,Minimal
+2022-10-08,40,2022-2023,Tennessee,Level 8,High
+2022-10-08,40,2022-2023,Texas,Level 10,High
+2022-10-08,40,2022-2023,Utah,Level 1,Minimal
+2022-10-08,40,2022-2023,Vermont,Level 1,Minimal
+2022-10-08,40,2022-2023,Virgin Islands,Level 1,Minimal
+2022-10-08,40,2022-2023,Virginia,Level 6,Moderate
+2022-10-08,40,2022-2023,Washington,Level 1,Minimal
+2022-10-08,40,2022-2023,West Virginia,Level 2,Minimal
+2022-10-08,40,2022-2023,Wisconsin,Level 2,Minimal
+2022-10-08,40,2022-2023,Wyoming,Level 2,Minimal
