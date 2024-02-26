@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <link rel="icon" href="images/fevicon.png" type="image/gif" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>The S3 Amigos</title>
+
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+  <!-- font awesome style -->
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.html">
+            <span>Healthcare Data Analysis</span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav  ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="code.html">Code</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="aws.html">AWS</a>
+              </li>
+            </ul>
+            <div class="quote_btn-container">
+              <a href="https://github.com/JTQuinn/Healthcare-Data-Analysis" target="_blank">
+                <i class="icon">
+		   <img src="github(1).svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+		</i>
+              </a>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class="slider_section ">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="detail-box">
+                    <h1>
+                      Tracking Respiratory Illness Activity <br>
+                      Across the nation
+                    </h1>
+                    <p>
+                      Respiratory illness is an ever-growing health concern that threatens the lives of
+		      Americans all across the country. By analyzing research done by the CDC, we can
+		      track influenza-like illness (ILI), discover trends in the data, and provide solutions that save lives.  
+		    </p>
+                    <div class="btn-box">
+                      <a href="" class="btn-1">
+                        Check out the data
+                      </a>
+                      <a href="" class="btn-2">
+                        How is this hosted?
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class=" col-lg-10 mx-auto">
+                      <div class="img-box">
+                        <img src="pep2-img/pep2-doctor.png" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="detail-box">
+                    <h1>
+                      Cracking the code <br>
+                      with Python and MySQL
+                    </h1>
+                    <p>
+                      By leveraging our expertise in Pandas, Seaborn, and SQL, we're able to bring you
+		      valuable insights and the visualizations to make sense of it all. Take a look
+		      at our code and see how we did it! 
+		    </p>
+                    <div class="btn-box">
+                      <a href="" class="btn-1">
+                        Python
+                      </a>
+                      <a href="" class="btn-2">
+                        SQL
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class=" col-lg-10 mx-auto">
+                      <div class="img-box">
+                        <img src="pep2-img/pep2-pymysql.png" alt="" width="100%" height="auto">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="detail-box">
+                    <h1>
+                      Bringing it all together with AWS
+                    </h1>
+                    <p>
+                      AWS is a comprehensive and widely used cloud computingplatform provided by 
+		      Amazon.com. It offers a vast array of services that enable individuals, 
+		      businesses, and organizations to build and manage various types of applications 
+		      and infrastructure in the cloud. Take a look at how we leveraged this platform
+		      to present our findings.
+                    </p>
+                    <div class="btn-box">
+                      <a href="" class="btn-1">
+                        Learn more
+                      </a>
+		      <a href="" class="btn-2">
+                        Visit AWS
+                      </a>
+
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class=" col-lg-10 mx-auto">
+                      <div class="img-box">
+                        <img src="pep2-img/pep2-aws.png" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <div class="carousel_btn-box">
+          <a class="carousel-control-prev" href="#customCarousel1" role="button" data-slide="prev">
+            <i class="fa fa-angle-left" aria-hidden="true"></i>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#customCarousel1" role="button" data-slide="next">
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <!-- end slider section -->
+  </div>
+
+  <!-- service section -->
+
+  <section class="service_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          The S3 Ami-Goals!
+        </h2>
+      </div>
+    </div>
+    <div class="container ">
+      <div class="row">
+        <div class="col-md-6 col-lg-4">
+          <div class="box ">
+            <div class="img-box">
+              <img src="images/s1.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h4>
+                Track respiratory illness activity by state
+              </h4>
+              <p>
+                Generators on the Internet tend to repeat predefined chunks as necessary
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="box ">
+            <div class="img-box">
+              <img src="images/s2.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h4>
+                Track the weeks with the highest ILI activity
+              </h4>
+              <p>
+                Generators on the Internet tend to repeat predefined chunks as necessary
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 ">
+          <div class="box ">
+            <div class="img-box">
+              <img src="images/s3.png" alt="">
+            </div>
+            <div class="detail-box">
+              <h4>
+                Determine causes of these spikes in activity
+              </h4>
+              <p>
+                Generators on the Internet tend to repeat predefined chunks as necessary
+              </p>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+    </div>
+  </section>
+
+  <!-- end service section -->
+
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Let's take a look at the data
+        </h2>
+
+      </div>
+    </div>
+
+  <!-- insight 1 section -->
+
+  <section class="about_section layout_padding-bottom">
+<br>
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                Total Cases in all States and Regions graphed against Activity Levels and Weeks of the Year
+              </h2>
+            </div>
+            <p>
+            	Take note of the top-right quadrant, where we have Activity Level plotted against Week. 
+		Here we see the number of cases start off high at the beginning of the year, then drop off, 
+		only to then rise again by the beginning of the year. The raw number cases seem to be highest 
+		during the cold winter months of the year, and decrease as the months get warmer.
+	    </p>
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="pep2-viz/first.png" alt="">
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 1 section -->
+
+  <!-- insight 2 section -->
+
+  <section class="server_section">
+    <div class="container ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="img-box">
+            <img src="pep2-viz/second.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                Total Cases grouped by Severity Levels, graphed against Activity Levels and Weeks of the Year
+              </h2>
+              <p>
+                Take note, again, of the top-right graph. Here we see a similar pattern of total cases going up 
+		in the cold months. What we also see is that more cases tend to be severe in the winter months, 
+		while the summer months appear to show mostly Minimal to Moderate cases.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 2 section -->
+
+  <!-- insight 3 section -->
+
+  <section class="about_section layout_padding-bottom">
+<br>
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                Total Cases grouped by Flu Seasons, graphed against Activity Levels and Weeks of the Year
+              </h2>
+            </div>
+            <p>
+              We see a similar pattern to the previous graphs, where cases are fewer in the Summer months. 
+	      However, we see that for the 2023-2024 season, there is a greater number of “Minimal Cases” 
+	      in December, and a greater number of “Very High” cases in January. This may be an indicator 
+	      of a more active flu season. 
+	      Note: The date of this report is Feb 7, 2024, so the data for the 2023-2024 Flu Season is incomplete.
+	    </p>
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="pep2-viz/third.png" alt="">
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 3 section -->
+
+  <!-- insight 4 section -->
+
+  <section class="server_section">
+    <div class="container ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="img-box">
+            <img src="pep2-viz/fourth.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                Total Number of Cases in each of the ten States and Regions with the highest total number of cases
+              </h2>
+              <p>
+                Notice how the numbers are fairly flat. This actually holds true for all states and regions, as none 
+		have a number of cases that drop below 65. This is likely misleading, as it seems unlikely all regions 
+		would have roughly the same number of cases. 
+
+		Investigation into the collections methods for this dataset shows that due to gaps in reporting and data 
+		collection, the dataset is highly normalized. 
+
+		It is meant to accurately reflect the severity of cases across time during a flu season, NOT the total 
+		number of cases in a geographical region, nor how widespread those cases are within a given region. 
+
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 4 section -->
+
+  <!-- insight 5 section -->
+
+  <section class="about_section layout_padding-bottom">
+<br>
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                Top Ten States from the graph above, but number of cases are color coded by Severity Level 
+              </h2>
+            </div>
+            <p>
+		Upon cursory glance, there may appear to be some loose correlation between population size and/or 
+		density and the number of severe outbreaks. However, a more complete and rigorous analysis of the 
+		data is needed to know conclusively. 
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="pep2-viz/fifth.png" alt="">
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 5 section -->
+
+  <!-- insight 6 section -->
+
+  <section class="server_section">
+    <div class="container ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="img-box">
+            <img src="pep2-viz/sixth.png" alt="">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                Top Ten States and Regions with severe cases
+              </h2>
+              <p>
+                Take note of the two largest entries on the left.
+                These are not states, but cities. New York City and
+                the District of Columbia. This seems to suggest that
+                there is a likely strong correlation with population
+                density and the severity of respiratory illness outbreaks.
+
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 6 section -->
+
+
+  <!-- insight 7 section -->
+
+  <section class="about_section layout_padding-bottom">
+<br>
+    <div class="container  ">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                A bar graph of all 52 Weeks of the Year and the number of severe 
+		case outbreaks in all regions
+              </h2>
+            </div>
+            <p>
+                Here we can confirm what many medical professionals and laypersons 
+		know intuitively: Flu gets worse in the cold. However, with enough 
+		data collection and analysis, we are well on our way towards a more 
+		quantified predictive model that prove invaluable for planning and 
+		distributing medical resources. 
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <div class="img-box">
+            <img src="pep2-viz/seventh.png" alt="">
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- end insight 7 section -->
+
+
+  <!-- conclusions section -->
+
+  <section class="price_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Conclusions
+        </h2>
+	<p>What is the data trying to tell us?</p>
+      </div>
+      <div class="price_container ">
+        <div class="box">
+          <div class="detail-box">
+            <h2># <span>1</span></h2>
+            <h6>
+              Increased ILI Activity in dense populations
+            </h6>
+          </div>
+        </div>
+        <div class="box">
+          <div class="detail-box">
+            <h2># <span>2</span></h2>
+            <h6>
+              ILI activity is higher during the cold months
+            </h6>
+          </div>
+        </div>
+        <div class="box">
+          <div class="detail-box">
+            <h2># <span>3</span></h2>
+            <h6>
+              Majority of cases are of minimal severity
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- price section -->
+
+  <!-- solutions section -->
+  <section class="client_section ">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Possible Solutions
+        </h2>
+        <p>
+          Now that our data has been cleaned, processed and analyzed, let's see how we can use it to shape the future
+        </p>
+      </div>
+    </div>
+    <div class="container px-0">
+      <div id="customCarousel2" class="carousel  slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-10 mx-auto">
+                  <div class="box">
+                    <div class="detail-box">
+                      <div class="client_info">
+                        <div class="client_name">
+                          <h5>
+                            Expand public transportation in densly populated cities
+                          </h5>
+                          <h6>
+                            Solution 1
+                          </h6>
+                        </div>
+                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                      </div>
+                      <p>
+                        It is no surprise that air pollution can pose a threat to your respiratory health.
+			We suspect that an an increase of public transoportation availability can help curb
+			the rise in ILIs caused by air polution.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-10 mx-auto">
+                  <div class="box">
+                    <div class="detail-box">
+                      <div class="client_info">
+                        <div class="client_name">
+                          <h5>
+                            Expand research on ILI causing viruses that thrive in cold weather
+                          </h5>
+                          <h6>
+                            Solution 2
+                          </h6>
+                        </div>
+                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                      </div>
+                      <p>
+                        We noticed that a large majority of severe cases arise during the cold months. 
+			To help address this issue, we suggest expanding research on the pathogens
+			that are more likely to survive in lower temperatures.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+	  <div class="carousel-item">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-10 mx-auto">
+                  <div class="box">
+                    <div class="detail-box">
+                      <div class="client_info">
+                        <div class="client_name">
+                          <h5>
+                            Promote sanitation practices in highly populated areas
+                          </h5>
+                          <h6>
+                            Solution 3
+                          </h6>
+                        </div>
+                        <i class="fa fa-quote-left" aria-hidden="true"></i>
+                      </div>
+                      <p>
+                        In the more populated ares, air quality is not the only concern. In dense cities, it is 
+			very easy to pass contagions from one person to the next. Promoting more strict sanitary
+			practices in these areas can decrease the liklihood that someone will pass on ILIs to those 
+			around them.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+        </div>
+        <div class="carousel_btn-box">
+          <a class="carousel-control-prev" href="#customCarousel2" role="button" data-slide="prev">
+            <i class="fa fa-angle-left" aria-hidden="true"></i>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#customCarousel2" role="button" data-slide="next">
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- end client section -->
+
+  <!-- info section -->
+
+  <section class="info_section layout_padding2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+
+
+          <div class="info_contact">
+
+            <h4>
+              Github
+            </h4>
+
+           <div class="quote_btn-container">
+              <a href="https://github.com/stvckey" target="_blank">
+                <i class="icon">
+                   <img src="github(1).svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+                </i>
+              </a>
+              <a href="https://github.com/stvckey" target="_blank">
+                <span>
+                  Ettione Stuckey II
+                </span>
+              </a>
+            </div>
+
+</br>
+
+           <div class="quote_btn-container">
+              <a href="https://github.com/jjiang95" target="_blank">
+                <i class="icon">
+                   <img src="github(1).svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+                </i>
+              </a>
+              <a href="https://github.com/jjiang95" target="_blank">
+                <span>
+                  Jasmine Jiang
+                </span>
+              </a>
+            </div>
+
+</br>
+
+           <div class="quote_btn-container">
+              <a href="https://github.com/JTQuinn" target="_blank">
+                <i class="icon">
+                   <img src="github(1).svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+                </i>
+              </a>
+              <a href="https://github.com/JTQuinn" target="_blank">
+                <span>
+                  Justin Quinn
+                </span>
+              </a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="col-md-3">
+	   <div class="info_contact">
+            <h4>
+              LinkedIn
+            </h4>
+
+            <div class="info_links">
+             <div class="quote_btn-container">
+              <a href="https://www.linkedin.com/in/ettione-stuckey/" target="_blank">
+                <i class="icon">
+                   <img src="linkedin.svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+                </i>
+              </a>
+              <a href="https://www.linkedin.com/in/ettione-stuckey/" target="_blank">
+                <span>
+                  Ettione Stuckey II
+                </span>
+              </a>
+            </div>
+
+</br>
+              
+           <div class="quote_btn-container">
+              <a href="https://www.linkedin.com/in/jasminejiangam/" target="_blank">
+                <i class="icon">
+                   <img src="linkedin.svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+                </i>
+              </a>
+              <a href="https://www.linkedin.com/in/jasminejiangam/" target="_blank">
+                <span>
+                  Jasmine Jiang
+                </span>
+              </a>
+            </div>
+
+</br>
+
+           <div class="quote_btn-container">
+              <a href="https://www.linkedin.com/in/justin-quinn-4a5404a5/" target="_blank">
+                <i class="icon">
+                   <img src="linkedin.svg" alt="Icon" width="24" height="24" margin-bottom="-10px">
+                </i>
+              </a>
+              <a href="https://www.linkedin.com/in/justin-quinn-4a5404a5/" target="_blank">
+                <span>
+                  Justin Quinn
+                </span>
+              </a>
+            </div>
+
+</br>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-3">
+           <div class="info_link_box">
+            <h4>
+              Links
+            </h4>
+            <div class="info_links">
+              <a class="active" href="index.html">
+                <img src="images/nav-bullet.png" alt="">
+                Home
+              </a>
+              <a class="" href="code.html">
+                <img src="images/nav-bullet.png" alt="">
+                Code
+              </a>
+              <a class="" href="aws.html">
+                <img src="images/nav-bullet.png" alt="">
+                AWS
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="info_detail">
+            <h4>
+              Project Info
+            </h4>
+            <p>
+              Leveraged mastery of Python, SQL and AWS to analyze data from the CDC's "Outpatient Respiratory Illness Activity Map" and present our findings through the cloud.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end info section -->
+
+
+  <!-- footer section -->
+  <footer class="footer_section">
+    <div class="container">
+      <p>
+        
+      </p>
+    </div>
+  </footer>
+  <!-- footer section -->
+
+  <!-- jQery -->
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <!-- bootstrap js -->
+  <script src="js/bootstrap.js"></script>
+  <!-- custom js -->
+  <script src="js/custom.js"></script>
+
+
+</body>
+
+</html>
